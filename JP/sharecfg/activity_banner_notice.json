@@ -1,0 +1,72 @@
+{
+  "1": {
+    "id": 1,
+    "param": [
+      "scene court yard",
+      {
+        "OpenShop": true
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "param": [
+      "OTHERWORLD_MAP",
+      {
+        "openTerminal": true,
+        "terminalPage": 2
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "param": [
+      "scene skinshop",
+      []
+    ]
+  },
+  "5": {
+    "id": 5,
+    "param": [
+      "seltechnology"
+    ]
+  },
+  "6": {
+    "id": 6,
+    "param": [
+      "COWBOY_TOWN_BACKHILL"
+    ]
+  },
+  "7": {
+    "id": 7,
+    "param": [
+      "DREAMLAND_PREVIEW"
+    ]
+  },
+  "8": {
+    "id": 8,
+    "param": [
+      "dorm 3d select"
+    ]
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "1": {
+    "audition_resource_CN": "ss-50601-1",
+    "audition_resource_JP": "ss-50601-2",
+    "audition_text": "Commander, I've reserved the tearoom for today. Why don't we use this opportunity to take a load off?",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Manaka Iwami",
+    "id": 1,
+    "name": "Tearoom Leisure",
+    "order": 2,
+    "overview": "You're alone with Chen Hai in the serene tea room. She gives you a lap pillow to ease your fatigue, and something special on top of that...",
+    "ship_id": 50601,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory1_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          11,
+          3
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          11,
+          10
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "2": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-31901-1",
+    "audition_text": "Whew... That was fun! Heehee. I got a bit carried away. It's been quite a while since we played on the beach like this...",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Reina Kondo",
+    "id": 2,
+    "name": "On the Beach With Kashino",
+    "order": 2,
+    "overview": "\"Do you like the beach, Commander? I really love it here.\"\nEnjoy the sunshine and shimmering waves with Kashino.\nEven the refreshing breeze and waves cannot cool her passion.",
+    "ship_id": 31901,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory2_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          7,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          7,
+          19
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "3": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-20135-1",
+    "audition_text": "(Commander's scent... I wonder if it's okay for me to get a little closer...)",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Hina Kino",
+    "id": 3,
+    "name": "In the Infirmary With Janus",
+    "order": 2,
+    "overview": "A girl's warmth right by your pillow\nHer earnest desire to be by your side\ncomes to you as whispers by your bedside",
+    "ship_id": 20135,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory3_JP",
+    "time": "always"
+  },
+  "4": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10517-1",
+    "audition_text": "You can't ride a Ferris wheel and NOT kiss at the top♪ It'll be a memory you can cherish forever, honey♡",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Miyu Tomita",
+    "id": 4,
+    "name": "Sweetness that Melts in the Mouth",
+    "order": 2,
+    "overview": "Ice cream on a Ferris wheel is sweet, but this moment with New Jersey is many times sweeter.",
+    "ship_id": 10517,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory4_JP",
+    "time": "always"
+  },
+  "5": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-40207-1",
+    "audition_text": "Relax, now. There is nothing you have to be embarrassed of.",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Honoka Inoue",
+    "id": 5,
+    "name": "The Greatest Reward",
+    "order": 2,
+    "overview": "It's a dull afternoon. Emden has come, offering you a reward almost too good for a mere human.",
+    "ship_id": 40207,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory5_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          11,
+          3
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          11,
+          10
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "6": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10125-1",
+    "audition_text": "Anyway, that dummy sure is taking long... How long am I gonna have to wait here?",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Asuka Itou",
+    "id": 6,
+    "name": "A Gift From... Hammann?",
+    "order": 2,
+    "overview": "Hammann tries to play a prank on you, only for it to backfire in your favor.",
+    "ship_id": 10125,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory6_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          11,
+          3
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          11,
+          10
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "7": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10213-1",
+    "audition_text": "In return... you could take a bite out of me. Whatever part you like.",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Yoko Hikasa",
+    "id": 7,
+    "name": "Your Desire is All Mine",
+    "order": 2,
+    "overview": "A tipsy moment with St. Louis. \nFrom her luscious lips, temptation flows forth...",
+    "ship_id": 10213,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory7_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "8": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10205-1",
+    "audition_text": "Just a little while longer. I want to stay immersed... in the harmony of our beating hearts...",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Tomoyo Chuujou",
+    "id": 8,
+    "name": "Symphonious Heartbeats",
+    "order": 2,
+    "overview": "An earbud cord brings you and Helena closer and closer. Is that static noise you hear? No, it's a steady throb; the most precious thing...",
+    "ship_id": 10205,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory8_JP",
+    "time": "always"
+  },
+  "9": {
+    "audition_resource_CN": "ss-51901-1",
+    "audition_resource_JP": "ss-51901-2",
+    "audition_text": "My, I can't tell what you're thinking at all, Commander. Shall we take a short break first? After all... the real deal is still ahead of us.",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "秦紫翼",
+    "CV_JP": "Chiemi Tanaka",
+    "id": 9,
+    "name": "Slightly Feverish Kitchen",
+    "order": 2,
+    "overview": "Ting An, while showing off her cooking skills, also wants to offer some tips for making dim sum. In this hot and humid kitchen, the temperature between the two of you is also rising...",
+    "ship_id": 51901,
+    "story_pic": "",
+    "story_resource_CN": "soundStory9_CN",
+    "story_resource_JP": "soundStory9_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          4,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          5,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "10": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10730-1",
+    "audition_text": "Heehee... That's right. I might get sooo exhausted that I won't be able to move a muscle~",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Natsu Yorita",
+    "id": 10,
+    "name": "A Girl's Secret Plans",
+    "order": 2,
+    "overview": "San Jacinto invites you to give her swimming lessons. The girl's laughter, the splashing water... The two of you soon end up with time all to yourselves. Will her heart-throbbing plan come to fruition?",
+    "ship_id": 10730,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory10_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          4,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          5,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "11": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-30319-1",
+    "audition_text": "Hm? You say you're... intoxicated by my voice? It's \"as sweet as nectar\"?",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Suzuko Mimori",
+    "id": 11,
+    "name": "Intoxicated by Lingering Sounds",
+    "order": 2,
+    "overview": "You happen to run into Unzen while she is reading in the library.As the two of you read together, the atmosphere gradually becomes hazy to the sound of Unzen's voice–",
+    "ship_id": 30319,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory11_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          4,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          5,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "12": {
+    "audition_resource_CN": "ss-50602-1",
+    "audition_resource_JP": "ss-50602-2",
+    "audition_text": "\"Gotten more daring,\" you say? Heehee. Yes, because there's no one else around. Nobody else has to know, right?",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "村雨",
+    "CV_JP": "Yuka Nukui",
+    "id": 12,
+    "name": "Having Fun in Secret",
+    "order": 2,
+    "overview": "You and Hwah Jah are playing tag and stumble upon a surprising hiding place – a locker.",
+    "ship_id": 50602,
+    "story_pic": "",
+    "story_resource_CN": "soundStory12_CN",
+    "story_resource_JP": "soundStory12_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          7,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "13": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-40314-1",
+    "audition_text": "Please, little one... Keep me company for the rest of the night.",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Kiyono Yasuno",
+    "id": 13,
+    "name": "A Tipsy Summer Rendezvous",
+    "order": 2,
+    "overview": "On a warm summer night, Friedrich Carl invites you to sip some wine and talk about love.",
+    "ship_id": 40314,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory13_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          7,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "14": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-960001-1",
+    "audition_text": "Hmm? You say you don't want it, but looks like your body does. Can't resist that smell, right?",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "Aimi Tanaka",
+    "id": 14,
+    "name": "Caught in a Sweet Trap",
+    "order": 2,
+    "overview": "You were out treasure hunting and fell into a pit. Then, Royal Fortune appears before you and shows her true colors.",
+    "ship_id": 960001,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory14_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          7,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ]
+}

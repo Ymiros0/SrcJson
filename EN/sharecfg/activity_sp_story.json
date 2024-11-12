@@ -1,0 +1,1622 @@
+{
+  "1": {
+    "change_background": "star_level_bg_546",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 1,
+    "lock": "",
+    "name": "EPS-1 A Musician's Dream",
+    "pre_event": "",
+    "story": "HUANMENGJIANZOUQU1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "2": {
+    "change_background": "star_level_bg_546",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 2,
+    "lock": [
+      [
+        4,
+        1
+      ]
+    ],
+    "name": "EPS-2A Formal Invitation",
+    "pre_event": [
+      1
+    ],
+    "story": "HUANMENGJIANZOUQU2",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "3": {
+    "change_background": "bg_story_shengmixieer_1",
+    "change_bgm": "level-french1",
+    "change_prefab": "",
+    "id": 3,
+    "lock": [
+      [
+        4,
+        2
+      ]
+    ],
+    "name": "EPS-3 A Casual Meal",
+    "pre_event": [
+      2
+    ],
+    "story": "HUANMENGJIANZOUQU3",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "4": {
+    "change_background": "bg_story_shengmixieer_1",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 4,
+    "lock": [
+      [
+        4,
+        3
+      ]
+    ],
+    "name": "EPS-4 Peace Interlude",
+    "pre_event": [
+      3
+    ],
+    "story": "1826001",
+    "story_type": 2,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "5": {
+    "change_background": "bg_story_shengmixieer_2",
+    "change_bgm": "story-richang-sooth",
+    "change_prefab": "",
+    "id": 5,
+    "lock": [
+      [
+        4,
+        4
+      ]
+    ],
+    "name": "EPS-5 Face to Face",
+    "pre_event": [
+      4
+    ],
+    "story": "HUANMENGJIANZOUQU5",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "6": {
+    "change_background": "bg_story_shengmixieer_2",
+    "change_bgm": "story-richang-sooth",
+    "change_prefab": "",
+    "id": 6,
+    "lock": [
+      [
+        4,
+        5
+      ]
+    ],
+    "name": "EPS-6 Music in the Night",
+    "pre_event": [
+      5
+    ],
+    "story": "HUANMENGJIANZOUQU6",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "7": {
+    "change_background": "bg_story_shengmixieer_2",
+    "change_bgm": "theme-vichy-church",
+    "change_prefab": "",
+    "id": 7,
+    "lock": [
+      [
+        4,
+        6
+      ]
+    ],
+    "name": "EPS-7 The Secret of the Basilica",
+    "pre_event": [
+      6
+    ],
+    "story": "HUANMENGJIANZOUQU7",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "8": {
+    "change_background": "bg_story_shengmixieer_1",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 8,
+    "lock": [
+      [
+        4,
+        7
+      ]
+    ],
+    "name": "EPS-8 The Dream of HER",
+    "pre_event": [
+      7
+    ],
+    "story": "HUANMENGJIANZOUQU8",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "9": {
+    "change_background": "bg_story_shengmixieer_1",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 9,
+    "lock": [
+      [
+        4,
+        8
+      ]
+    ],
+    "name": "EPS-9 A Fine Day",
+    "pre_event": [
+      8
+    ],
+    "story": "HUANMENGJIANZOUQU9",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "10": {
+    "change_background": "bg_story_shengmixieer_1",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 10,
+    "lock": [
+      [
+        4,
+        9
+      ]
+    ],
+    "name": "EPS-10 Another Fine Day",
+    "pre_event": [
+      9
+    ],
+    "story": "HUANMENGJIANZOUQU10",
+    "story_type": 1,
+    "unlock_conditions": "Unlocked by reading the previous story chapter."
+  },
+  "11": {
+    "change_background": "star_level_bg_531",
+    "change_bgm": "map-longgong",
+    "change_prefab": "",
+    "id": 11,
+    "lock": "",
+    "name": "EPS-1 The Guardian Fox's Departure",
+    "pre_event": "",
+    "story": "MAIZANGYUBIANZHIHUA1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "12": {
+    "change_background": "star_level_bg_532",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 12,
+    "lock": [
+      [
+        4,
+        11
+      ]
+    ],
+    "name": "EPS-2 Trailing the Mountains",
+    "pre_event": [
+      11
+    ],
+    "story": "MAIZANGYUBIANZHIHUA2",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-1."
+  },
+  "13": {
+    "change_background": "bg_story_tiancheng6",
+    "change_bgm": "story-4",
+    "change_prefab": "",
+    "id": 13,
+    "lock": [
+      [
+        4,
+        12
+      ]
+    ],
+    "name": "EPS-3 The Prime Barrier",
+    "pre_event": [
+      12
+    ],
+    "story": "MAIZANGYUBIANZHIHUA3",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-2."
+  },
+  "14": {
+    "change_background": "star_level_bg_508",
+    "change_bgm": "musashi-2",
+    "change_prefab": "",
+    "id": 14,
+    "lock": [
+      [
+        4,
+        13
+      ]
+    ],
+    "name": "EPS-4 Ink-Stained Dream",
+    "pre_event": [
+      13
+    ],
+    "story": "MAIZANGYUBIANZHIHUA4",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-3."
+  },
+  "15": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "nagato-boss",
+    "change_prefab": "",
+    "id": 15,
+    "lock": [
+      [
+        4,
+        14
+      ]
+    ],
+    "name": "EPS-5 Misfortune Arriveth",
+    "pre_event": [
+      14
+    ],
+    "story": "MAIZANGYUBIANZHIHUA5",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-4."
+  },
+  "16": {
+    "change_background": "star_level_bg_510",
+    "change_bgm": "musashi-2",
+    "change_prefab": "",
+    "id": 16,
+    "lock": [
+      [
+        4,
+        15
+      ]
+    ],
+    "name": "EPS-6 Obsession Rooted in the Past",
+    "pre_event": [
+      15
+    ],
+    "story": "MAIZANGYUBIANZHIHUA6",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-5."
+  },
+  "17": {
+    "change_background": "bg_bianzhihua_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 17,
+    "lock": [
+      [
+        4,
+        16
+      ]
+    ],
+    "name": "EPS-7 Planning Interference",
+    "pre_event": [
+      16
+    ],
+    "story": "MAIZANGYUBIANZHIHUA7",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-6."
+  },
+  "18": {
+    "change_background": "bg_bianzhihua_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 18,
+    "lock": [
+      [
+        4,
+        17
+      ]
+    ],
+    "name": "EPS-8 Decisive Weapon",
+    "pre_event": [
+      17
+    ],
+    "story": "MAIZANGYUBIANZHIHUA8",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-7."
+  },
+  "19": {
+    "change_background": "bg_bianzhihua_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 19,
+    "lock": [
+      [
+        4,
+        18
+      ]
+    ],
+    "name": "EPS-9 Retreat",
+    "pre_event": [
+      17
+    ],
+    "story": "MAIZANGYUBIANZHIHUA9",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-8."
+  },
+  "20": {
+    "change_background": "bg_bianzhihua_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 20,
+    "lock": [
+      [
+        4,
+        19
+      ]
+    ],
+    "name": "EPS-10 Scattering Thunder",
+    "pre_event": [
+      19
+    ],
+    "story": "MAIZANGYUBIANZHIHUA10",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-9."
+  },
+  "21": {
+    "change_background": "bg_bianzhihua_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 21,
+    "lock": [
+      [
+        4,
+        20
+      ]
+    ],
+    "name": "EPS-11 Entrusted Will",
+    "pre_event": [
+      18
+    ],
+    "story": "MAIZANGYUBIANZHIHUA11",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-10."
+  },
+  "22": {
+    "change_background": "bg_bianzhihua_2",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 22,
+    "lock": [
+      [
+        4,
+        21
+      ]
+    ],
+    "name": "EPS-12 Fallen Petals",
+    "pre_event": [
+      21,
+      20
+    ],
+    "story": "MAIZANGYUBIANZHIHUA12",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-11."
+  },
+  "23": {
+    "change_background": "bg_bianzhihua_2",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "Map_1840002",
+    "id": 23,
+    "lock": [
+      [
+        4,
+        22
+      ]
+    ],
+    "name": "EPS-13 Our Commander",
+    "pre_event": [
+      22
+    ],
+    "story": "MAIZANGYUBIANZHIHUA13",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-12."
+  },
+  "31": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-eagleunion",
+    "change_prefab": "",
+    "id": 31,
+    "lock": "",
+    "name": "EP1-1 A Deal With Observer",
+    "pre_event": "",
+    "story": "HUANXINGCANGHONGZHIYAN1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "32": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-eagleunion",
+    "change_prefab": "",
+    "id": 32,
+    "lock": [
+      [
+        4,
+        31
+      ]
+    ],
+    "name": "EP1-2 Tester's Destruction",
+    "pre_event": [
+      31
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN2",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-1."
+  },
+  "33": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-eagleunion",
+    "change_prefab": "",
+    "id": 33,
+    "lock": [
+      [
+        4,
+        32
+      ]
+    ],
+    "name": "EP1-3 Omitter's Destruction",
+    "pre_event": [
+      31
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN3",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-2."
+  },
+  "34": {
+    "change_background": "bg_story_task",
+    "change_bgm": "story-commander-up",
+    "change_prefab": "",
+    "id": 34,
+    "lock": [
+      [
+        4,
+        33
+      ]
+    ],
+    "name": "EP1-4 Purifier's Destruction",
+    "pre_event": [
+      31
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN4",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-3."
+  },
+  "35": {
+    "change_background": "bg_port_chongdong",
+    "change_bgm": "bsm-2",
+    "change_prefab": "",
+    "id": 35,
+    "lock": [
+      [
+        4,
+        34
+      ]
+    ],
+    "name": "EP2-1 To the Singularity",
+    "pre_event": [
+      32,
+      33,
+      34
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN5",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-4."
+  },
+  "36": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-eagleunion",
+    "change_prefab": "",
+    "id": 36,
+    "lock": [
+      [
+        4,
+        35
+      ]
+    ],
+    "name": "EP2-2 Making of a World Segment",
+    "pre_event": [
+      35
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN6",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-1."
+  },
+  "37": {
+    "change_background": "star_level_bg_507",
+    "change_bgm": "story-finalbattle-unity",
+    "change_prefab": "",
+    "id": 37,
+    "lock": [
+      [
+        4,
+        36
+      ]
+    ],
+    "name": "EP2-3 Departure",
+    "pre_event": [
+      36
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN7",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-2."
+  },
+  "38": {
+    "change_background": "bg_port_chuanwu1",
+    "change_bgm": "story-newsakura",
+    "change_prefab": "",
+    "id": 38,
+    "lock": [
+      [
+        4,
+        37
+      ]
+    ],
+    "name": "EP3-1 Europa's Fight",
+    "pre_event": [
+      37
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN8",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-3."
+  },
+  "39": {
+    "change_background": "bg_canghongzhiyan_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 39,
+    "lock": [
+      [
+        4,
+        38
+      ]
+    ],
+    "name": "EP3-2 The Floating Dock Returns",
+    "pre_event": [
+      38
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN9",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-1."
+  },
+  "40": {
+    "change_background": "bg_canghongzhiyan_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 40,
+    "lock": [
+      [
+        4,
+        39
+      ]
+    ],
+    "name": "EP4-1 Divergent METAmorphosis",
+    "pre_event": [
+      37
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN10",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-2."
+  },
+  "41": {
+    "change_background": "bg_canghongzhiyan_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 41,
+    "lock": [
+      [
+        4,
+        40
+      ]
+    ],
+    "name": "EP4-2 A Meeting in the Mist",
+    "pre_event": [
+      40
+    ],
+    "story": "1856001",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP4-1."
+  },
+  "42": {
+    "change_background": "bg_bianzhihua_3",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "",
+    "id": 42,
+    "lock": [
+      [
+        4,
+        41
+      ]
+    ],
+    "name": "EP4-3 As Thanks",
+    "pre_event": [
+      41
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN12",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-2."
+  },
+  "43": {
+    "change_background": "star_level_bg_499",
+    "change_bgm": "story-darkplan",
+    "change_prefab": "",
+    "id": 43,
+    "lock": [
+      [
+        4,
+        42
+      ]
+    ],
+    "name": "EPS-1 The Way Cleared",
+    "pre_event": [
+      39,
+      42
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN13",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-3."
+  },
+  "44": {
+    "change_background": "bg_canghongzhiyan_2",
+    "change_bgm": "story-tiancheng",
+    "change_prefab": "",
+    "id": 44,
+    "lock": [
+      [
+        4,
+        43
+      ]
+    ],
+    "name": "EPS-2 Amagi's Dream",
+    "pre_event": [
+      43
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN14",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-1."
+  },
+  "45": {
+    "change_background": "bg_canghongzhiyan_2",
+    "change_bgm": "story-tiancheng",
+    "change_prefab": "",
+    "id": 45,
+    "lock": [
+      [
+        4,
+        44
+      ]
+    ],
+    "name": "EP5-1 Homecoming",
+    "pre_event": [
+      44
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN15",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-2."
+  },
+  "46": {
+    "change_background": "star_level_bg_111",
+    "change_bgm": "theme-amagi-cv",
+    "change_prefab": "",
+    "id": 46,
+    "lock": [
+      [
+        4,
+        45
+      ]
+    ],
+    "name": "EP5-2 Reunion",
+    "pre_event": [
+      45
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN16",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-1."
+  },
+  "47": {
+    "change_background": "bg_canghongzhiyan_3",
+    "change_bgm": "theme-amagi-cv",
+    "change_prefab": "",
+    "id": 47,
+    "lock": [
+      [
+        4,
+        46
+      ]
+    ],
+    "name": "EP5-3 Face to Face",
+    "pre_event": [
+      46
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN17",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-2."
+  },
+  "48": {
+    "change_background": "bg_canghongzhiyan_1",
+    "change_bgm": "story-nailuo-theme",
+    "change_prefab": "",
+    "id": 48,
+    "lock": [
+      [
+        4,
+        47
+      ]
+    ],
+    "name": "EP5-4 When Least Expected",
+    "pre_event": [
+      47
+    ],
+    "story": "1856002",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP5-3."
+  },
+  "49": {
+    "change_background": "star_level_bg_192",
+    "change_bgm": "theme-nagato-meta",
+    "change_prefab": "",
+    "id": 49,
+    "lock": [
+      [
+        4,
+        53
+      ]
+    ],
+    "name": "EP5-5 Fighting Back",
+    "pre_event": [
+      48
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN19",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-3."
+  },
+  "50": {
+    "change_background": "bg_canghongzhiyan_4",
+    "change_bgm": "theme-nagato-meta",
+    "change_prefab": "",
+    "id": 50,
+    "lock": [
+      [
+        4,
+        49
+      ]
+    ],
+    "name": "EP5-6 Turning the Tables",
+    "pre_event": [
+      49
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN20",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-5."
+  },
+  "51": {
+    "change_background": "bg_canghongzhiyan_1",
+    "change_bgm": "theme-amagi-cv",
+    "change_prefab": "",
+    "id": 51,
+    "lock": [
+      [
+        4,
+        48
+      ]
+    ],
+    "name": "EP6-1 Scanning the Singularity",
+    "pre_event": [
+      44
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN21",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-4."
+  },
+  "52": {
+    "change_background": "bg_canghongzhiyan_1",
+    "change_bgm": "theme-amagi-cv",
+    "change_prefab": "",
+    "id": 52,
+    "lock": [
+      [
+        4,
+        51
+      ]
+    ],
+    "name": "EP6-2 Obsession's True Form",
+    "pre_event": [
+      51
+    ],
+    "story": "1856003",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP6-1."
+  },
+  "53": {
+    "change_background": "star_level_bg_191",
+    "change_bgm": "theme-akagi-meta",
+    "change_prefab": "",
+    "id": 53,
+    "lock": [
+      [
+        4,
+        52
+      ]
+    ],
+    "name": "EP6-3 Purification",
+    "pre_event": [
+      52
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN23",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-2."
+  },
+  "54": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-unknown-approaching",
+    "change_prefab": "",
+    "id": 54,
+    "lock": [
+      [
+        4,
+        50
+      ]
+    ],
+    "name": "EPS-3 Heart and Feelings",
+    "pre_event": [
+      50,
+      53
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN24",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-6."
+  },
+  "55": {
+    "change_background": "bg_canghongzhiyan_4",
+    "change_bgm": "story-amagi-up",
+    "change_prefab": "",
+    "id": 55,
+    "lock": [
+      [
+        4,
+        59
+      ]
+    ],
+    "name": "EP7-1 Fragmented",
+    "pre_event": [
+      54
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN25",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP8-1."
+  },
+  "56": {
+    "change_background": "bg_canghongzhiyan_4",
+    "change_bgm": "theme-akagi-meta",
+    "change_prefab": "",
+    "id": 56,
+    "lock": [
+      [
+        4,
+        55
+      ]
+    ],
+    "name": "EP7-2 Seething Heart",
+    "pre_event": [
+      55
+    ],
+    "story": "1856004",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP7-1."
+  },
+  "57": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "story-flowerdust-soft",
+    "change_prefab": "",
+    "id": 57,
+    "lock": [
+      [
+        4,
+        56
+      ]
+    ],
+    "name": "EP7-3 Melting",
+    "pre_event": [
+      56
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN27",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP7-2."
+  },
+  "58": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-eagleunion",
+    "change_prefab": "",
+    "id": 58,
+    "lock": [
+      [
+        4,
+        60
+      ]
+    ],
+    "name": "EP7-4 Reunion",
+    "pre_event": [
+      57
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN28",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP8-2."
+  },
+  "59": {
+    "change_background": "bg_canghongzhiyan_4",
+    "change_bgm": "theme-amagi-cv",
+    "change_prefab": "",
+    "id": 59,
+    "lock": [
+      [
+        4,
+        54
+      ]
+    ],
+    "name": "EP8-1 Suppressing Naraka",
+    "pre_event": [
+      54
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN29",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-3."
+  },
+  "60": {
+    "change_background": "bg_canghongzhiyan_6",
+    "change_bgm": "battle-donghuang-static",
+    "change_prefab": "",
+    "id": 60,
+    "lock": [
+      [
+        4,
+        57
+      ]
+    ],
+    "name": "EP8-2 Core Sector Operation",
+    "pre_event": [
+      59
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN30",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP7-3."
+  },
+  "61": {
+    "change_background": "bg_canghongzhiyan_6",
+    "change_bgm": "story-newsakura",
+    "change_prefab": "",
+    "id": 61,
+    "lock": [
+      [
+        4,
+        58
+      ]
+    ],
+    "name": "EP8-3 Moment of Truth",
+    "pre_event": [
+      60
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN31",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP7-4."
+  },
+  "62": {
+    "change_background": "bg_port_chongdong",
+    "change_bgm": "story-startravel",
+    "change_prefab": "",
+    "id": 62,
+    "lock": [
+      [
+        4,
+        61
+      ]
+    ],
+    "name": "EP9-1 The Long Road Home",
+    "pre_event": [
+      58,
+      61
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN32",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP8-3."
+  },
+  "63": {
+    "change_background": "star_level_bg_503",
+    "change_bgm": "story-darkplan",
+    "change_prefab": "",
+    "id": 63,
+    "lock": [
+      [
+        4,
+        62
+      ]
+    ],
+    "name": "EX-1 Contingency Plan F",
+    "pre_event": [
+      62
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN33",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP9-1."
+  },
+  "64": {
+    "change_background": "bg_port_chongdong",
+    "change_bgm": "theme-thetowerXVI",
+    "change_prefab": "",
+    "id": 64,
+    "lock": [
+      [
+        4,
+        63
+      ]
+    ],
+    "name": "EX-2 Error",
+    "pre_event": [
+      63
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN34",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-1."
+  },
+  "65": {
+    "change_background": "bg_story_tower",
+    "change_bgm": "bsm-2",
+    "change_prefab": "",
+    "id": 65,
+    "lock": [
+      [
+        4,
+        64
+      ]
+    ],
+    "name": "EX-3 Thus Spake The Tower",
+    "pre_event": [
+      64
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN35",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-2."
+  },
+  "66": {
+    "change_background": "bg_port_chongdong",
+    "change_bgm": "theme-themagicianI",
+    "change_prefab": "",
+    "id": 66,
+    "lock": [
+      [
+        4,
+        65
+      ]
+    ],
+    "name": "EX-4 I, Observer",
+    "pre_event": [
+      65
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN36",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-3."
+  },
+  "67": {
+    "change_background": "bg_canghongzhiyan_6",
+    "change_bgm": "theme-akagi-meta",
+    "change_prefab": "Map_1850004",
+    "id": 67,
+    "lock": [
+      [
+        4,
+        66
+      ]
+    ],
+    "name": "EX-5 Illusory World",
+    "pre_event": [
+      66
+    ],
+    "story": "HUANXINGCANGHONGZHIYAN37",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-4."
+  },
+  "68": {
+    "change_background": "bg_jufengv1_2",
+    "change_bgm": "theme-tempest-up",
+    "change_prefab": "",
+    "id": 68,
+    "lock": "",
+    "name": "EP1-1 Guided by the Compass",
+    "pre_event": "",
+    "story": "JUFENGYUCHENMIANZHIHAI1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "69": {
+    "change_background": "bg_jufengv1_2",
+    "change_bgm": "theme-tempest-up",
+    "change_prefab": "",
+    "id": 69,
+    "lock": [
+      [
+        4,
+        68
+      ]
+    ],
+    "name": "EP1-2 Pirate Reunion",
+    "pre_event": [
+      68
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI2",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-1."
+  },
+  "70": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-tempest",
+    "change_prefab": "",
+    "id": 70,
+    "lock": [
+      [
+        4,
+        69
+      ]
+    ],
+    "name": "EP1-3 The Gang's All Here",
+    "pre_event": [
+      69
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI3",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-2."
+  },
+  "71": {
+    "change_background": "star_level_bg_162",
+    "change_bgm": "story-temepest-2",
+    "change_prefab": "",
+    "id": 71,
+    "lock": [
+      [
+        4,
+        70
+      ]
+    ],
+    "name": "EP1-4 The Treasure Hunters",
+    "pre_event": [
+      70
+    ],
+    "story": "1868001",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP1-3."
+  },
+  "72": {
+    "change_background": "bg_jufengv2_cg1",
+    "change_bgm": "story-temepest-2",
+    "change_prefab": "",
+    "id": 72,
+    "lock": [
+      [
+        4,
+        71
+      ]
+    ],
+    "name": "EP2-1 Rebirth and Eternal Life",
+    "pre_event": [
+      71
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI5",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-4."
+  },
+  "73": {
+    "change_background": "bg_jufengv1_2",
+    "change_bgm": "theme-tempest-up",
+    "change_prefab": "",
+    "id": 73,
+    "lock": [
+      [
+        4,
+        72
+      ]
+    ],
+    "name": "EP2-2 The Treasure Ship Cruises By",
+    "pre_event": [
+      72
+    ],
+    "story": "1868002",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP2-1."
+  },
+  "74": {
+    "change_background": "bg_jufengv2_cg4",
+    "change_bgm": "theme-SeaAndSun-soft",
+    "change_prefab": "",
+    "id": 74,
+    "lock": [
+      [
+        4,
+        73
+      ]
+    ],
+    "name": "EP2-3 A New Face",
+    "pre_event": [
+      73
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI7",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-2."
+  },
+  "75": {
+    "change_background": "bg_jufengv1_1",
+    "change_bgm": "theme-tempest",
+    "change_prefab": "",
+    "id": 75,
+    "lock": [
+      [
+        4,
+        74
+      ]
+    ],
+    "name": "EP2-4 Crawling Around",
+    "pre_event": [
+      74
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI8",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-3."
+  },
+  "76": {
+    "change_background": "bg_jufengv2_1",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "",
+    "id": 76,
+    "lock": [
+      [
+        4,
+        75
+      ]
+    ],
+    "name": "EP3-1 Promising Lead",
+    "pre_event": [
+      75
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI9",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-4."
+  },
+  "77": {
+    "change_background": "bg_jufengv2_1",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "",
+    "id": 77,
+    "lock": [
+      [
+        4,
+        76
+      ]
+    ],
+    "name": "EP3-2 The Sleeping Sea",
+    "pre_event": [
+      76
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI10",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-1."
+  },
+  "78": {
+    "change_background": "bg_jufengv2_1",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "",
+    "id": 78,
+    "lock": [
+      [
+        4,
+        77
+      ]
+    ],
+    "name": "EP3-3 The Priest of Wind and Rain",
+    "pre_event": [
+      77
+    ],
+    "story": "1868003",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP3-2."
+  },
+  "79": {
+    "change_background": "star_level_bg_525",
+    "change_bgm": "story-temepest-2",
+    "change_prefab": "",
+    "id": 79,
+    "lock": [
+      [
+        4,
+        78
+      ]
+    ],
+    "name": "EP3-4 The Storm and the Temple",
+    "pre_event": [
+      78
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI12",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-3."
+  },
+  "80": {
+    "change_background": "bg_jufengv2_cg6",
+    "change_bgm": "story-temepest-2",
+    "change_prefab": "",
+    "id": 80,
+    "lock": [
+      [
+        4,
+        79
+      ]
+    ],
+    "name": "EP4-1 The Abyssal Being",
+    "pre_event": [
+      79
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI13",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-4."
+  },
+  "81": {
+    "change_background": "bg_jufengv2_2",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "",
+    "id": 81,
+    "lock": [
+      [
+        4,
+        80
+      ]
+    ],
+    "name": "EP4-2 Silent Souls",
+    "pre_event": [
+      80
+    ],
+    "story": "1868004",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP4-1."
+  },
+  "82": {
+    "change_background": "bg_jufengv2_2",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "",
+    "id": 82,
+    "lock": [
+      [
+        4,
+        81
+      ]
+    ],
+    "name": "EP4-3 Central Unit of the Goddess",
+    "pre_event": [
+      81
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI15",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-2."
+  },
+  "83": {
+    "change_background": "star_level_bg_524",
+    "change_bgm": "theme-ganjisawai",
+    "change_prefab": "",
+    "id": 83,
+    "lock": [
+      [
+        4,
+        82
+      ]
+    ],
+    "name": "EP4-4 The Choice is Tempesta's",
+    "pre_event": [
+      82
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI16",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-3."
+  },
+  "84": {
+    "change_background": "bg_jufengv2_cg7",
+    "change_bgm": "theme-ganjisawai",
+    "change_prefab": "",
+    "id": 84,
+    "lock": [
+      [
+        4,
+        83
+      ]
+    ],
+    "name": "EP5-1 The Storm Approaches",
+    "pre_event": [
+      83
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI17",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-4."
+  },
+  "85": {
+    "change_background": "bg_underwater",
+    "change_bgm": "theme-SeaAndSun-soft",
+    "change_prefab": "",
+    "id": 85,
+    "lock": [
+      [
+        4,
+        84
+      ]
+    ],
+    "name": "EP5-2 Echoes of the Wind and Rain",
+    "pre_event": [
+      84
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI18",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-1."
+  },
+  "86": {
+    "change_background": "star_level_bg_539",
+    "change_bgm": "story-temepest-1",
+    "change_prefab": "",
+    "id": 86,
+    "lock": [
+      [
+        4,
+        85
+      ]
+    ],
+    "name": "EP5-3 Back in My Hand",
+    "pre_event": [
+      85
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI19",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-2."
+  },
+  "87": {
+    "change_background": "star_level_bg_162",
+    "change_bgm": "theme-tempest-up",
+    "change_prefab": "",
+    "id": 87,
+    "lock": [
+      [
+        4,
+        86
+      ]
+    ],
+    "name": "EX-1 The Tale of the Sleeping Sea",
+    "pre_event": [
+      86
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI20",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-3."
+  },
+  "88": {
+    "change_background": "star_level_bg_524",
+    "change_bgm": "theme-ganjisawai",
+    "change_prefab": "",
+    "id": 88,
+    "lock": [
+      [
+        4,
+        87
+      ]
+    ],
+    "name": "EX-2 Tempesta's Messenger",
+    "pre_event": [
+      87
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI21",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-1."
+  },
+  "89": {
+    "change_background": "bg_jufengv2_1",
+    "change_bgm": "battle-nightmare-theme",
+    "change_prefab": "Map_1860001",
+    "id": 89,
+    "lock": [
+      [
+        4,
+        88
+      ]
+    ],
+    "name": "EX-3 A Priest and The Servant",
+    "pre_event": [
+      88
+    ],
+    "story": "JUFENGYUCHENMIANZHIHAI22",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-2."
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+  ]
+}

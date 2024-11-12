@@ -1,0 +1,668 @@
+{
+  "1": {
+    "audition_resource_CN": "ss-50601-1",
+    "audition_resource_JP": "ss-50601-2",
+    "audition_text": "指挥官，今日的茶室已经由镇海预定了，借着这个机会一起休息一下吧。 ",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "龟娘",
+    "CV_JP": "石见 舞菜香",
+    "id": 1,
+    "name": "悠然茶室 ",
+    "order": 2,
+    "overview": "受到镇海的邀请 \n与她一起共赴茶室度过愉快的闲暇时光 \n茶香阵阵，她递上茶盏，心中的话语只对你倾诉",
+    "ship_id": 50601,
+    "story_pic": "",
+    "story_resource_CN": "soundStory1_CN",
+    "story_resource_JP": "soundStory1_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          11,
+          3
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          11,
+          10
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "2": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-31901-1",
+    "audition_text": "呼，真开心呀♪嘿嘿，有点不小心闹过头了呢。有多久没在海边像这样玩的这么开心了呢？ ",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "近藤 玲奈",
+    "id": 2,
+    "name": "碧海阳光",
+    "order": 2,
+    "overview": "“指挥官喜欢大海吗，樫我很喜欢哦！” \n和樫一起享受碧海阳光 \n冰凉的海水也无法掩盖她炽热的内心",
+    "ship_id": 31901,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory2_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          7,
+          13
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          7,
+          20
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "3": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-20135-1",
+    "audition_text": "这里能感受到指挥官的气息呢，再靠近指挥官一些吧…… ",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "木野 日菜",
+    "id": 3,
+    "name": "枕边心跳",
+    "order": 2,
+    "overview": "少女的气息如轻风拂面 \n想要陪在指挥官身边的思绪 \n都化作了枕边的轻声细语",
+    "ship_id": 20135,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory3_JP",
+    "time": "always"
+  },
+  "4": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10517-1",
+    "audition_text": "是在摩天轮顶端的约定俗成哦♪我会为Honey创造最美好的回忆。",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "富田 美忧",
+    "id": 4,
+    "name": "融化于舌尖的甜美",
+    "order": 2,
+    "overview": "摩天轮、冰淇淋以及比冰淇淋更加甜美的花园。",
+    "ship_id": 10517,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory4_JP",
+    "time": "always"
+  },
+  "5": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-40207-1",
+    "audition_text": "来，好好放松一下吧？没有什么好害羞的。",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "井上 穗乃花",
+    "id": 5,
+    "name": "至高的嘉奖",
+    "order": 2,
+    "overview": "在平凡的午后，埃玛送出了对人类而言有些“过激”的奖赏……",
+    "ship_id": 40207,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory5_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          11,
+          3
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          11,
+          10
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "6": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10125-1",
+    "audition_text": "话说回来怎么指挥官还没来啊……到底要让哈曼等多久？",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "伊藤 明日香",
+    "id": 6,
+    "name": "匣中赠礼",
+    "order": 2,
+    "overview": "想要恶作剧的少女，因为自己的笨拙反而送出了一份特殊的“礼物”。",
+    "ship_id": 10125,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory6_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2023,
+          11,
+          3
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          11,
+          10
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "7": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10213-1",
+    "audition_text": "作为回报……我也让你任意挑选你喜欢的地方……尽情享用如何？",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "日笠 阳子",
+    "id": 7,
+    "name": "独占你的渴望",
+    "order": 2,
+    "overview": "宴会结束后，与圣路易斯共度的微醺时光。\n从那艳丽迷人的双唇中，所吐露的内容是……",
+    "ship_id": 10213,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory7_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "8": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10205-1",
+    "audition_text": "我还想多待一会儿…就一小会儿也好，我想沉浸在…我们心音共鸣的协奏曲之中……",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "中条 智世",
+    "id": 8,
+    "name": "心跳协奏",
+    "order": 2,
+    "overview": "两人的距离不自觉靠近，耳机的另一端所传出的，不只是机械的杂音，还有少女朦胧的爱意。",
+    "ship_id": 10205,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory8_JP",
+    "time": "always"
+  },
+  "9": {
+    "audition_resource_CN": "ss-51901-1",
+    "audition_resource_JP": "ss-51901-2",
+    "audition_text": "哎呀，完全搞不懂您的想法，总之先一起休息一下吧？毕竟……接下来才是正戏嘛。",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "秦紫翼",
+    "CV_JP": "田中千惠美",
+    "id": 9,
+    "name": "微热的厨房间",
+    "order": 2,
+    "overview": "展露厨艺的定安，想要分享一下对于制作面点的心得。\n在这湿热的厨房之中，两人间的温度亦在不断升高……",
+    "ship_id": 51901,
+    "story_pic": "",
+    "story_resource_CN": "soundStory9_CN",
+    "story_resource_JP": "soundStory9_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          4,
+          25
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          5,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "10": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-10730-1",
+    "audition_text": "呵呵……是呢，也许我会累得浑身无力，动不了呢？",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "依田菜津",
+    "id": 10,
+    "name": "少女的小小心思",
+    "order": 2,
+    "overview": "接受了圣哈辛托的邀请，来泳池为她提升泳技。\n仅有彼此二人的场合，少女的笑声混杂着飞溅的水花……令人心荡神迷。",
+    "ship_id": 10730,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory10_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          4,
+          25
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          5,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "11": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-30319-1",
+    "audition_text": "嗯？猃的声音令人沉醉……？就像……甘露一样吗……？",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "三森铃子",
+    "id": 11,
+    "name": "沉醉余音",
+    "order": 2,
+    "overview": "于图书馆中偶遇到看书的猃。\n随后和她一同在图书馆读书，伴着她的声音，两人间气氛逐渐变得暧昧……",
+    "ship_id": 30319,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory11_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          4,
+          25
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          5,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "12": {
+    "audition_resource_CN": "ss-50602-1",
+    "audition_resource_JP": "ss-50602-2",
+    "audition_text": "您说我胆子变大了？在这谁都看不到的地方……大胆一些也没关系吧。",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "村雨",
+    "CV_JP": "贯井柚佳",
+    "id": 12,
+    "name": "藏匿在暗处的亲昵",
+    "order": 2,
+    "overview": "为了与华甲继续进行捉鬼游戏，\n两人躲进了一个狭窄的柜子里……",
+    "ship_id": 50602,
+    "story_pic": "",
+    "story_resource_CN": "soundStory12_CN",
+    "story_resource_JP": "soundStory12_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          7,
+          25
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "13": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-40314-1",
+    "audition_text": "我的指挥官…今天就一直陪在我身边吧？",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "安野希世乃",
+    "id": 13,
+    "name": "微醺之爱的夏夜邂逅",
+    "order": 2,
+    "overview": "在这个灼热的夏夜，\n与腓德雷卡·卡尔一同品味「爱」的真谛。",
+    "ship_id": 40314,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory13_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          7,
+          25
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "14": {
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-960001-1",
+    "audition_text": "嗯？不管嘴上怎么说，身体的反应还是很诚实嘛。一看就知道被香味吸引了呢？",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "CV_CN": "",
+    "CV_JP": "田中爱美",
+    "id": 14,
+    "name": "受困于甜蜜陷阱",
+    "order": 2,
+    "overview": "寻找着宝藏却因意外一同落入陷阱的少女，\n于黑暗中展露了“真实的面目”。",
+    "ship_id": 960001,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory14_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          7,
+          25
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ]
+}
