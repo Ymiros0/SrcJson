@@ -1766,13 +1766,22 @@
   },
   "59": {
     "bgm": "",
+    "date": "stop",
+    "id": 59,
+    "login_cri": "",
+    "login_static": "login",
+    "op_play": 0,
+    "op_time": "stop"
+  },
+  "60": {
+    "bgm": "",
     "date": [
       "timer",
       [
         [
           2024,
-          10,
-          24
+          11,
+          21
         ],
         [
           0,
@@ -1783,8 +1792,8 @@
       [
         [
           2024,
-          11,
-          6
+          12,
+          4
         ],
         [
           23,
@@ -1793,36 +1802,20 @@
         ]
       ]
     ],
-    "id": 59,
+    "id": 60,
     "login_cri": "",
     "login_static": "login",
-    "op_play": 1,
-    "op_time": [
-      [
-        [
-          2024,
-          10,
-          24
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2024,
-          11,
-          6
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ]
+    "op_play": 0,
+    "op_time": ""
+  },
+  "61": {
+    "bgm": "",
+    "date": "stop",
+    "id": 61,
+    "login_cri": "",
+    "login_static": "login",
+    "op_play": 0,
+    "op_time": "stop"
   },
   "4001": {
     "bgm": "",
@@ -1830,6 +1823,15 @@
     "id": 4001,
     "login_cri": "login_20231116us",
     "login_static": "login_20231116us",
+    "op_play": 0,
+    "op_time": ""
+  },
+  "4002": {
+    "bgm": "",
+    "date": "stop",
+    "id": 4002,
+    "login_cri": "login_20241114us",
+    "login_static": "login_20241114us",
     "op_play": 0,
     "op_time": ""
   },
@@ -1877,6 +1879,9 @@
     56,
     57,
     59,
-    4001
+    60,
+    61,
+    4001,
+    4002
   ]
 }

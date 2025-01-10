@@ -1070,6 +1070,69 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9703051": {
+    "breakout_id": 9703052,
+    "breakout_view": "Unlock Cinders of Hope - Admiral Hipper I/Main gun efficiency +5%",
+    "gold": 1000,
+    "id": 9703051,
+    "item1": 21042,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      80401
+    ]
+  },
+  "9703052": {
+    "breakout_id": 9703053,
+    "breakout_view": "Torpedo base +1/Torpedo preload +1/Main gun efficiency +10%",
+    "gold": 3000,
+    "id": 9703052,
+    "item1": 21042,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9703051,
+    "repair": 0,
+    "weapon_ids": [
+      106,
+      106
+    ]
+  },
+  "9703053": {
+    "breakout_id": 9703054,
+    "breakout_view": "Improve Cinders of Hope - Admiral Hipper I/Torpedo efficiency +15%",
+    "gold": 10000,
+    "id": 9703053,
+    "item1": 21042,
+    "item1_num": 2,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9703052,
+    "repair": 0,
+    "weapon_ids": [
+      80402
+    ]
+  },
+  "9703054": {
+    "breakout_id": 0,
+    "breakout_view": "None",
+    "gold": 0,
+    "id": 9703054,
+    "item1": 21042,
+    "item1_num": 0,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9703053,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9704011": {
     "breakout_id": 9704012,
     "breakout_view": "Unlock Cinders of Hope - Gneisenau/Main gun base +1/Main gun efficiency +5%",
@@ -1802,6 +1865,73 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9705071": {
+    "breakout_id": 9705072,
+    "breakout_view": "Unlock Cinders of Hope - Giulio Cesare/Main gun base +1/Main gun efficiency +5%",
+    "gold": 500,
+    "id": 9705071,
+    "item1": 21040,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      95480,
+      95480
+    ]
+  },
+  "9705072": {
+    "breakout_id": 9705073,
+    "breakout_view": "Secondary Gun base +2/Main gun efficiency +10%",
+    "gold": 1500,
+    "id": 9705072,
+    "item1": 21040,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9705071,
+    "repair": 0,
+    "weapon_ids": [
+      101,
+      101,
+      101
+    ]
+  },
+  "9705073": {
+    "breakout_id": 9705074,
+    "breakout_view": "Improve Cinders of Hope - Giulio Cesare/Main gun base +1/Main gun efficiency +15%",
+    "gold": 2500,
+    "id": 9705073,
+    "item1": 21040,
+    "item1_num": 2,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9705072,
+    "repair": 0,
+    "weapon_ids": [
+      95480,
+      95480,
+      95480
+    ]
+  },
+  "9705074": {
+    "breakout_id": 0,
+    "breakout_view": "None",
+    "gold": 0,
+    "id": 9705074,
+    "item1": 21040,
+    "item1_num": 0,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9705073,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9706011": {
     "breakout_id": 9706012,
     "breakout_view": "Unlock Ashen Might – Hiyou/All Torpedo Bombers +1/Aircraft efficiency +3%",
@@ -2354,6 +2484,75 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9707051": {
+    "breakout_id": 9707052,
+    "breakout_view": "Unlock Flickering Light - Taihou/All Dive Bombers +1/Dive Bomber Efficiency +5%",
+    "gold": 1000,
+    "id": 9707051,
+    "item1": 21041,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      60331,
+      54014
+    ]
+  },
+  "9707052": {
+    "breakout_id": 9707053,
+    "breakout_view": "Hangar Capacity +1/All Torpedo Bombers +1/Fighter Efficiency +10%",
+    "gold": 3000,
+    "id": 9707052,
+    "item1": 21041,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9707051,
+    "repair": 0,
+    "weapon_ids": [
+      60332,
+      54014,
+      60332,
+      54014
+    ]
+  },
+  "9707053": {
+    "breakout_id": 9707054,
+    "breakout_view": "Upgrade Flickering Light - Taihou/All Aircraft +1/Torpedo Bomber Efficiency +15%",
+    "gold": 10000,
+    "id": 9707053,
+    "item1": 21041,
+    "item1_num": 2,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9707052,
+    "repair": 0,
+    "weapon_ids": [
+      60333,
+      54015,
+      60333,
+      54015
+    ]
+  },
+  "9707054": {
+    "breakout_id": 0,
+    "breakout_view": "None",
+    "gold": 0,
+    "id": 9707054,
+    "item1": 21041,
+    "item1_num": 0,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9707053,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9708011": {
     "breakout_id": 9708012,
     "breakout_view": "Unlock Flickering Light – U-556/Torpedo efficiency +5%",
@@ -2610,6 +2809,10 @@
     9703042,
     9703043,
     9703044,
+    9703051,
+    9703052,
+    9703053,
+    9703054,
     9704011,
     9704012,
     9704013,
@@ -2654,6 +2857,10 @@
     9705062,
     9705063,
     9705064,
+    9705071,
+    9705072,
+    9705073,
+    9705074,
     9706011,
     9706012,
     9706013,
@@ -2686,6 +2893,10 @@
     9707042,
     9707043,
     9707044,
+    9707051,
+    9707052,
+    9707053,
+    9707054,
     9708011,
     9708012,
     9708013,

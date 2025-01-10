@@ -1,0 +1,108 @@
+{
+  "571101": {
+    "activity_medal_desc": "The exacting leader of the Iron Blood Resistance. \"I am always watching you.\"",
+    "activity_medal_name": "Sticker: Rumey",
+    "group": 5711,
+    "id": 571101,
+    "item": 65501,
+    "medal_asset": "ActivityMedal/571101",
+    "next_medal": 0,
+    "prefab_node": "1",
+    "remake_task_id": 0,
+    "task_id": 21035
+  },
+  "571102": {
+    "activity_medal_desc": "A mysterious entity that appeared from beyond the stars. Its true nature is still unknown.",
+    "activity_medal_name": "Sticker: Star Beast",
+    "group": 5711,
+    "id": 571102,
+    "item": 65502,
+    "medal_asset": "ActivityMedal/571102",
+    "next_medal": 0,
+    "prefab_node": "2",
+    "remake_task_id": 0,
+    "task_id": 21036
+  },
+  "571103": {
+    "activity_medal_desc": "On the night the Star Beast descended, the cosmos shone more radiantly than ever before.",
+    "activity_medal_name": "Sticker: Starlight",
+    "group": 5711,
+    "id": 571103,
+    "item": 65503,
+    "medal_asset": "ActivityMedal/571103",
+    "next_medal": 0,
+    "prefab_node": "3",
+    "remake_task_id": 0,
+    "task_id": 21037
+  },
+  "571104": {
+    "activity_medal_desc": "Strange tissue collected from the remains of an extradimensional beast. Classification: Scientific research material. Do not eat.",
+    "activity_medal_name": "Sticker: Specimen From Beyond",
+    "group": 5711,
+    "id": 571104,
+    "item": 65504,
+    "medal_asset": "ActivityMedal/571104",
+    "next_medal": 0,
+    "prefab_node": "4",
+    "remake_task_id": 0,
+    "task_id": 21038
+  },
+  "571105": {
+    "activity_medal_desc": "The Resistance's HQ, protected by a Mirror Sea and Eternal Star. Not exactly an ideal getaway resort, but it IS well-defended.",
+    "activity_medal_name": "Sticker: HQ At Sunset",
+    "group": 5711,
+    "id": 571105,
+    "item": 65505,
+    "medal_asset": "ActivityMedal/571105",
+    "next_medal": 0,
+    "prefab_node": "5",
+    "remake_task_id": 0,
+    "task_id": 21039
+  },
+  "571106": {
+    "activity_medal_desc": "The extradimensional beasts are mighty, but our preparations are even mightier. As long as we survive this turbulent night, we shall walk proudly into hope's light.",
+    "activity_medal_name": "Sticker: Night For Survival",
+    "group": 5711,
+    "id": 571106,
+    "item": 65506,
+    "medal_asset": "ActivityMedal/571106",
+    "next_medal": 0,
+    "prefab_node": "6",
+    "remake_task_id": 0,
+    "task_id": 21040
+  },
+  "571107": {
+    "activity_medal_desc": "\"P HT AOL ZAHY ILHZA. NBPKPUN AOL ZAHYZ KV P HWWLHY, ILHYPUN AOL ZAHYZ KV P SLHCL, IVD KVDU ILMVYL TL, ZPUN OFTUZ AV TF UHTL, OLLK TF JVTTHUKZ HUK VILF.\"",
+    "activity_medal_name": "Sticker: From The Stars They Came",
+    "group": 5711,
+    "id": 571107,
+    "item": 65507,
+    "medal_asset": "ActivityMedal/571107",
+    "next_medal": 0,
+    "prefab_node": "7",
+    "remake_task_id": 0,
+    "task_id": 21041
+  },
+  "571108": {
+    "activity_medal_desc": "This is your target! Look carefully at the diagram, and get curlin'!",
+    "activity_medal_name": "Sticker: Manjuu Curling",
+    "group": 5711,
+    "id": 571108,
+    "item": 65508,
+    "medal_asset": "ActivityMedal/571108",
+    "next_medal": 0,
+    "prefab_node": "8",
+    "remake_task_id": 0,
+    "task_id": 21042
+  },
+  "all": [
+    571101,
+    571102,
+    571103,
+    571104,
+    571105,
+    571106,
+    571107,
+    571108
+  ]
+}

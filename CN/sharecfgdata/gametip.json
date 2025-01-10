@@ -163,8 +163,50 @@
     "tip": "资源不足，无法解锁~"
   },
   "__name": "gametip",
+  "_G.pg.base.gametip.activity_1024_memory": {
+    "tip": "道具数量不足，完成活动任务可获取「鬼怪故事页」"
+  },
+  "_G.pg.base.gametip.activity_1024_memory_get": {
+    "tip": " - 已领取 -"
+  },
+  "_G.pg.base.gametip.activity_shop_template_extratext": {
+    "tip": "活動追趕道具兌換 "
+  },
+  "_G.pg.base.gametip.activity_shop_template_normaltext": {
+    "tip": "活動常規道具兌換 "
+  },
   "_G.pg.base.gametip.ad_0": {
     "tip": ""
+  },
+  "_G.pg.base.gametip.airforce_desc_1": {
+    "tip": "航电系统是现代作战飞机中最为关键的系统之一，它涵盖了探测系统、火力控制系统、飞行控制系统、推力控制系统、电子战系统、通信系统、导航系统、座舱显示系统、自检系统等。"
+  },
+  "_G.pg.base.gametip.airforce_desc_2": {
+    "tip": "歼-20战斗机搭载的相控阵雷达系统代表了当今航空电子技术的顶尖水平，采用了氮化镓有源相控阵雷达技术，有探测距离远、散热性能优越、多功能性强等诸多优点。"
+  },
+  "_G.pg.base.gametip.airforce_desc_3": {
+    "tip": "涡扇15“峨眉” 涡扇发动机，是为我国第五代战斗机研制的小涵道比推力矢量涡扇发动机"
+  },
+  "_G.pg.base.gametip.airforce_desc_4": {
+    "tip": "无附面层隔板进气道，全称无附面层隔道超音速进气道，它采用一个固定的鼓包来模拟常规进气道中的一、二级可调斜板，并能够达到对气流的压缩，以及简化结构、隐形的目的。"
+  },
+  "_G.pg.base.gametip.airforce_desc_5": {
+    "tip": "歼-20机身表面使用了一种低观测反射的涂料材质，表面采用了类似微型山峰的设计，能够反弹并散射掉雷达信号，使得敌方雷达难以发现并锁定目标。"
+  },
+  "_G.pg.base.gametip.airforce_title_1": {
+    "tip": "航电系统"
+  },
+  "_G.pg.base.gametip.airforce_title_2": {
+    "tip": "相控阵雷达"
+  },
+  "_G.pg.base.gametip.airforce_title_3": {
+    "tip": "涡轮发动机"
+  },
+  "_G.pg.base.gametip.airforce_title_4": {
+    "tip": "无附面层隔板进气道"
+  },
+  "_G.pg.base.gametip.airforce_title_5": {
+    "tip": "吸波隐身涂层"
   },
   "_G.pg.base.gametip.AR_plane_summon_fail_by_near": {
     "tip": "距离过近呼出角色失败"
@@ -174,6 +216,53 @@
   },
   "_G.pg.base.gametip.battle_battleMediator_remainTime": {
     "tip": "剩余作战时间"
+  },
+  "_G.pg.base.gametip.battle_text_lumei_1": {
+    "tip": "「还愣着干嘛，跟紧我！」"
+  },
+  "_G.pg.base.gametip.battlepass_main_help_2412": {
+    "tip": [
+      {
+        "info": "世界巡游(2024.12.1-2025.1.31)\n\n·<color=#92fc63>开放时间</color>\n 2024.12.1 0点 ~ 2025.1.31 23:59:59\n\n·<color=#92fc63>巡游进度说明</color>\n（1）活动期间，指挥官通过完成巡游任务，可获取「巡游点数」。\n（2）巡游任务随时间开放解锁。\n（3）每获取100点「巡游点数」即可增加1巡游进度\n（4）巡游进度提升后可以获取相应等级的奖励，巡游进度最高可达100。\n\n·<color=#92fc63>奖励规则</color>\n巡游进度奖励分为两种：\n（1）基础巡游奖励：包含<color=#ff5c5c>「朱利奥·凯撒·META」</color>、<color=#ff5c5c>心智魔方</color>、<color=#ff5c5c>高级定向蓝图·七期</color>售卖(即1.31 22:59:59停止)，请指挥官注意购买时间。\n\n·<color=#92fc63>任务说明</color>\n巡游任务分为两种：\n（1）每周任务 \n 巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务\n（2）S.P.任务\n S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励。\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成大部分巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的完成券数量固定，与当前任务进度无关\n（4）「巡游任务快速完成券」不会随本期活动结束而消失\n\n·<color=#ff5c5c>特别提示</color>\n（1）在本期世界巡游活动结束后，所有巡游任务将会无法继续完成，所有巡游奖励将会无法继续领取，请各位指挥官务必注意活动结束时间，提前领取奖励。\n（2）巡游进度、[特许巡游凭证]仅对本期世界巡游活动生效"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.battlepass_main_tip_2412": {
+    "tip": "2024/12/1-2025/1/31期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「朱利奥·凯撒·META」</color>在内的丰富奖励"
+  },
+  "_G.pg.base.gametip.blackfriday_coinshop": {
+    "tip": "物资商店"
+  },
+  "_G.pg.base.gametip.blackfriday_dailypack": {
+    "tip": "每日礼包"
+  },
+  "_G.pg.base.gametip.blackfriday_gemshop": {
+    "tip": "钻石商店"
+  },
+  "_G.pg.base.gametip.blackfriday_gift": {
+    "tip": "促销礼包"
+  },
+  "_G.pg.base.gametip.blackfriday_main_tip": {
+    "tip": [
+      {
+        "info": "活动规则：\n·<color=#92fc63>11.14-12.4 24 时</color>期间开启限时活动「明石的促销活动」\n·限时任务\n完成任务获得促销PT\n·活动商店\n使用促销PT、钻石、物资可以分别在PT商店、钻石商店、物资商店中购买\n·礼包商店\n截止11.20 0点为止，每日解锁一组免费礼包与付费礼包"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.blackfriday_ptshop": {
+    "tip": "PT商店"
+  },
+  "_G.pg.base.gametip.blackfriday_shop": {
+    "tip": "特设商店"
+  },
+  "_G.pg.base.gametip.blackfriday_shop_tip": {
+    "tip": "$1日$2时解锁"
+  },
+  "_G.pg.base.gametip.blackfriday_specialpack": {
+    "tip": "特惠礼包"
+  },
+  "_G.pg.base.gametip.blackfriday_task": {
+    "tip": "限时任务"
   },
   "_G.pg.base.gametip.BoatAdGame_minigame_help": {
     "tip": {
@@ -204,13 +293,48 @@
     "tip": "{namecode:463}、{namecode:455} 等角色建造追加！"
   },
   "_G.pg.base.gametip.buildship_light_tip": {
-    "tip": "{namecode:447} 建造追加！"
+    "tip": "雅努斯、曼彻斯特 建造追加！"
   },
   "_G.pg.base.gametip.buildship_new_tip": {
-    "tip": "罗马、莱昂纳多·达·芬奇等角色 建造概率UP！"
+    "tip": "菈菈·撒塔琳·戴比路克、娜娜·阿丝达·戴比路克 等角色建造概率UP！"
+  },
+  "_G.pg.base.gametip.commander_skill_point_noengough": {
+    "tip": "天赋点不足"
   },
   "_G.pg.base.gametip.cruise_shop_title": {
     "tip": "往期商店"
+  },
+  "_G.pg.base.gametip.cruise_task_help_2412": {
+    "tip": [
+      {
+        "info": "巡游任务说明\n\n·<color=#92fc63>开放时间</color>\n 2024.12.1 0点 ~ 2025.1.31 23:59:59\n\n·<color=#92fc63>巡游任务分为两种</color>\n（1）每周任务\n 巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务。\n（2）S.P.任务\n S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成每周巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的「巡游任务快速完成券」数量和其提供的「巡游点数」相关，与当前任务进度无关\n（4）「巡游任务快速完成券」<color=#92fc63>不会随本期活动结束而消失</color>"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.cruise_tip_base": {
+    "tip": "-基础巡游奖励-"
+  },
+  "_G.pg.base.gametip.cruise_tip_skin": {
+    "tip": "前往世界巡游"
+  },
+  "_G.pg.base.gametip.cruise_tip_upgrade": {
+    "tip": "-特许巡游奖励-"
+  },
+  "_G.pg.base.gametip.cruise_title_2412": {
+    "tip": "世界巡游·二十期"
+  },
+  "_G.pg.base.gametip.cryptolalia_delete_res": {
+    "tip": "清除资源($1)"
+  },
+  "_G.pg.base.gametip.CurlingGame_tips1": {
+    "tip": [
+      {
+        "info": "活动规则：\n1.<color=#92fc63>12月25日</color>为止每日0点开放<color=#92fc63>1</color>场新游戏，总计<color=#92fc63>7</color>场，可累计。完成7场游戏可以获得包括限定家具在内的奖励。\n游戏规则：\n1.每局游戏由三小局组成，最终得分为三小局的分数和\n2.按住左侧肌肉指挥喵可进行蓄力，上下移动可改变冰球发射的方向；松开后将会发射冰壶。冰壶碰到障碍则会根据碰撞角度进行反弹，<color=#92fc63>反弹时获得额外积分</color>\n3.将冰壶发射至冰面上的圈内可获得积分，蓝色区域1000分，黄色区域2000分，红色区域3000分；不在圈内不得分\n4.完成游戏或点击游戏内退出按钮均视为游戏完成。因为其他原因中途退出游戏则视为未完成。"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.dorm3d_accompany_not_download": {
+    "tip": "请先下载$1相关资源"
   },
   "_G.pg.base.gametip.dorm3d_appellation_cd": {
     "tip": "$1后可以再次修改专属称呼"
@@ -236,11 +360,17 @@
   "_G.pg.base.gametip.dorm3d_beach_buy": {
     "tip": "是否消耗<color=#39bfff>$1</color> 解锁 <color=#169fff>沙滩</color>"
   },
+  "_G.pg.base.gametip.dorm3d_collect_block_by_furniture": {
+    "tip": "该物品被家具”$1“替换，暂时无法收集"
+  },
   "_G.pg.base.gametip.dorm3d_day_night_switching1": {
     "tip": "当前已经为白天"
   },
   "_G.pg.base.gametip.dorm3d_day_night_switching2": {
     "tip": "当前已经为夜晚"
+  },
+  "_G.pg.base.gametip.dorm3d_delete_finish": {
+    "tip": "删除成功"
   },
   "_G.pg.base.gametip.dorm3d_download_complete": {
     "tip": "资源下载成功"
@@ -248,8 +378,110 @@
   "_G.pg.base.gametip.dorm3d_favor_maximize": {
     "tip": "契合度已满，是否继续赠礼？"
   },
+  "_G.pg.base.gametip.dorm3d_furniture_lack": {
+    "tip": "[未拥有]"
+  },
   "_G.pg.base.gametip.dorm3d_gift_maximum": {
     "tip": "已达到最大数量限制"
+  },
+  "_G.pg.base.gametip.dorm3d_guide_tip": {
+    "tip": "先去天狼星的房间看看吧"
+  },
+  "_G.pg.base.gametip.dorm3d_invite_confirm_discount": {
+    "tip": "是否消耗$1<color=#39bfff>$2</color>(原价$3)解锁<color=#39bfff>$4</color>的$5邀约"
+  },
+  "_G.pg.base.gametip.dorm3d_invite_confirm_free": {
+    "tip": "$1<color=#fc4670><size=34>免费</size></color>(原价$2)解锁<color=#39bfff>$3</color>的$4邀约"
+  },
+  "_G.pg.base.gametip.dorm3d_invite_confirm_original": {
+    "tip": "是否消耗$1<color=#39bfff>$2</color>解锁<color=#39bfff>$3</color>的$4邀约"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior1": {
+    "tip": "阅读"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior2": {
+    "tip": "画画 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior3": {
+    "tip": "学习 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior4": {
+    "tip": "舞蹈 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior5": {
+    "tip": "排球 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior6": {
+    "tip": "跑步 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior7": {
+    "tip": "打扫"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior8": {
+    "tip": "做饭"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior9": {
+    "tip": "洗衣服 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior10": {
+    "tip": "游戏 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior11": {
+    "tip": "散步 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_behavior12": {
+    "tip": "睡觉 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_choose": {
+    "tip": "请选择角色今日的行程： "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day1": {
+    "tip": "周一"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day2": {
+    "tip": "周二"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day3": {
+    "tip": "周三"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day4": {
+    "tip": "周四"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day5": {
+    "tip": "周五"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day6": {
+    "tip": "周六"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_day7": {
+    "tip": "周日"
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_evaluate1": {
+    "tip": "达人 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_evaluate2": {
+    "tip": "超人 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_evaluate3": {
+    "tip": "热爱 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_evaluate4": {
+    "tip": "痴迷 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_evaluate5": {
+    "tip": "均衡发展 "
+  },
+  "_G.pg.base.gametip.dorm3d_nengdai_minigame_remember": {
+    "tip": "请记住角色今日的行程 "
+  },
+  "_G.pg.base.gametip.dorm3d_now_is_downloading": {
+    "tip": "资源下载中"
+  },
+  "_G.pg.base.gametip.dorm3d_purchase_label_special": {
+    "tip": "特典"
+  },
+  "_G.pg.base.gametip.dorm3d_purchase_outtime": {
+    "tip": "该家具已下架"
   },
   "_G.pg.base.gametip.dorm3d_purchase_weekly_limit": {
     "tip": "（本周购买$1/$2）"
@@ -260,11 +492,45 @@
   "_G.pg.base.gametip.dorm3d_resource_delete": {
     "tip": "资源删除成功"
   },
+  "_G.pg.base.gametip.dorm3d_resource_download_complete": {
+    "tip": "下载完成"
+  },
   "_G.pg.base.gametip.dorm3d_resource_downloading": {
     "tip": "资源正在下载中"
   },
+  "_G.pg.base.gametip.dorm3d_role_assets_delete": {
+    "tip": "是否确认删除<color=#39bfff>$1</color>的全部资源"
+  },
+  "_G.pg.base.gametip.dorm3d_role_assets_download": {
+    "tip": "是否让<color=#39bfff>$1</color>入住该房间\n<color=#848484>需要下载$2的资源</color>"
+  },
+  "_G.pg.base.gametip.dorm3d_role_locked": {
+    "tip": "请先解锁角色房间"
+  },
   "_G.pg.base.gametip.dorm3d_shop_gift_owned": {
     "tip": "购买次数已达上限"
+  },
+  "_G.pg.base.gametip.drom3d_memory_limit_tip": {
+    "tip": "当前机型内存小于推荐配置，可能存在闪退风险。"
+  },
+  "_G.pg.base.gametip.fighterplane_help": {
+    "tip": [
+      {
+        "info": "活动时间：<color=#92fc63>11.14-11.28 23:59:59</color>"
+      },
+      {
+        "info": "活动规则：\n活动期间每日可获得<color=#92fc63>2</color>次演习次数，演习次数最多可以叠\n加<color=#92fc63>10</color>次\n1.在有演习次数的情况下选择战斗机完成演习关卡会消耗\n掉演习次数并增加关卡进度\n2.每架战斗机的关卡进度达到<color=#92fc63>2</color>时，都可以获得对应奖励\n3.在没有演习次数的情况下完成演习关卡不会增加关卡进\n度\n4.因为其他原因中途退出演习关卡不会消耗演习次数，同\n时也不会获得任何奖励\n5.选择已获得奖励的战斗机完成演习关卡，不会消耗演习\n次数\n6.在演习关卡中击破敌方可以获得加分，被敌方击中会扣\n分。躲避攻击的同时击破更多敌人获取高分吧！"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.fighterplane_J20_tip": {
+    "tip": "歼20由航空工业集团研制，是一款具备高隐身性、高态势感知、高机动性等能力的战斗机。 歼20于1997年正式立项，经过工程技术人员的奋发努力和国家的大力支持，首架技术工程验证机于2009年制造成功，并于2011年1月11日在成都实现首飞。歼20采用了单座、双发、全动双垂尾、DSI进气道、上反鸭翼带尖拱边条的鸭式气动布局。头部、机身呈菱形，垂直尾翼向外倾斜。"
+  },
+  "_G.pg.base.gametip.go_skinexperienceshop_btn_label": {
+    "tip": "前往"
+  },
+  "_G.pg.base.gametip.go_skinshop_btn_label": {
+    "tip": "前往使用"
   },
   "_G.pg.base.gametip.help_level_ui": {
     "tip": {
@@ -357,6 +623,25 @@
       }
     }
   },
+  "_G.pg.base.gametip.help_starLightAlbum": {
+    "tip": [
+      {
+        "info": "纪念手册："
+      },
+      {
+        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得本次活动纪念章「抵抗军总部大楼」和活动勋章「抵抗之星纪念勋章」。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将保留至1月8日23:59；"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.item_assigned_type_limit_error": {
+    "tip": "该道具已经达到持有上限，无法兑换"
+  },
+  "_G.pg.base.gametip.juuschat_background_tip1": {
+    "tip": "未拥有"
+  },
+  "_G.pg.base.gametip.juuschat_background_tip2": {
+    "tip": "暂未拥有此换装"
+  },
   "_G.pg.base.gametip.juuschat_chattip1": {
     "tip": "[语音消息]"
   },
@@ -408,8 +693,14 @@
   "_G.pg.base.gametip.juuschat_redpacket_detail": {
     "tip": "领取详情"
   },
+  "_G.pg.base.gametip.levelscene_mapselect_advanced": {
+    "tip": "进阶"
+  },
   "_G.pg.base.gametip.levelscene_mapselect_ex": {
     "tip": "EX"
+  },
+  "_G.pg.base.gametip.levelscene_mapselect_normal": {
+    "tip": "常规"
   },
   "_G.pg.base.gametip.levelscene_mapselect_part1": {
     "tip": "上篇"
@@ -419,6 +710,31 @@
   },
   "_G.pg.base.gametip.levelscene_mapselect_sp": {
     "tip": "SP"
+  },
+  "_G.pg.base.gametip.maintenance_message_stop_text": {
+    "tip": "服务器正在关闭中"
+  },
+  "_G.pg.base.gametip.maintenance_message_text": {
+    "tip": "服务器将于$1后进行维护，届时将强制下线，请指挥官合理安排游戏规划。"
+  },
+  "_G.pg.base.gametip.meta_help": {
+    "tip": [
+      {
+        "info": "META研究室说明："
+      },
+      {
+        "info": "·META研究室是进行META角色获取、养成的专用系统\n·META角色拥有<color=#92fc63>「能量激活」</color>、<color=#92fc63>「战术研习」</color>、<color=#92fc63>「舰装强化」</color>、<color=#92fc63>「资讯同步」</color>4个系统模块\n·重复获取的META角色将会自动转换为1个对应的角色结晶，可用于在<color=#92fc63>「能量激活」</color>中使用。\n"
+      },
+      {
+        "info": "1.<color=#92fc63>资讯同步</color>\n·<color=#92fc63>2024.12.12-2025.3.13</color>期间限时开放「{namecode:238}」的「资讯同步」，通过「信标{namecode:238}」战斗获取其同步值，达到一定同步值可以获取<color=#92fc63>「{namecode:238}」角色</color>\n·获得META角色后可以通过角色的<color=#92fc63>「资讯同步」</color>模块在<color=#92fc63>上述时间</color>内继续获取包含养成材料在内的丰厚奖励\n·注意：<color=#ff5c5c>「{namecode:238}」的「资讯同步」将于时间结束后暂时关闭,已累计的同步值也会消失。</color>\n\n2.<color=#92fc63>能量激活</color>\n·META角色达到指定等级后可以使用对应的角色结晶进行激活。激活后可以提升角色星级\n·角色结晶可以通过「资讯同步」奖励获取\n"
+      },
+      {
+        "info": "3.<color=#92fc63>战术研习</color>\n·完成战术研习任务获得META角色的技能升级经验，部分任务可以重复完成\n·一名角色只能同时进行一项技能的战术研习任务，多名角色之间彼此独立，同时进行\n·一名角色每日最多获取<color=#92fc63>30000</color>点技能升级经验，其中前<color=#92fc63>60%</color>的技能升级经验拥有双倍任务完成效率\n（剩余次数不满2次时不生效）\n·任务类型和可完成次数会随着技能等级升级而刷新\n"
+      },
+      {
+        "info": "4.<color=#92fc63>舰装强化</color>\n·META角色可以通过消耗舰装强化材料对「炮击」「雷击」「航空」「装填」4个属性中的若干个进行强化\n·强化会提升相应属性值，当强化进度达到一定数值后还可获得额外属性提升。\n·舰装强化材料可通过「资讯同步」奖励及大型作战内港口商店购买获取"
+      }
+    ]
   },
   "_G.pg.base.gametip.music_juus": {
     "tip": [
@@ -452,6 +768,18 @@
       }
     ]
   },
+  "_G.pg.base.gametip.notify_clock_button": {
+    "tip": "开启闹钟权限"
+  },
+  "_G.pg.base.gametip.notify_clock_tip": {
+    "tip": "未开启闹钟权限，无法进行通知"
+  },
+  "_G.pg.base.gametip.recycle_btn_label": {
+    "tip": "转化为钻石"
+  },
+  "_G.pg.base.gametip.ship_task_lottery_title": {
+    "tip": "星海逐光活动期间累计通关「星海逐光」关卡，可获取<color=#66b9ff>单次建造券</color>奖励"
+  },
   "_G.pg.base.gametip.shipyard_button_1": {
     "tip": "敬请期待"
   },
@@ -462,8 +790,264 @@
       }
     ]
   },
+  "_G.pg.base.gametip.skin_discount_item_expired_tip": {
+    "tip": "以下道具的有效期不足24小时"
+  },
+  "_G.pg.base.gametip.skin_discount_item_extra_bounds": {
+    "tip": "额外赠送："
+  },
+  "_G.pg.base.gametip.skin_discount_item_notice": {
+    "tip": [
+      {
+        "info": "说明："
+      },
+      {
+        "info": "1.当仓库内有特定换装的换装体验券、换装抵扣券的有效期不足24小时时，会弹出道具即将超时的预告弹窗。"
+      },
+      {
+        "info": "2.特定换装的换装体验券过期后将消失，特定换装的换装抵扣券过期后将兑换为指定数量的钻石。"
+      },
+      {
+        "info": "3.各道具实际过期时间与详情请在道具描述中确认。"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.skin_discount_item_recycle_tip": {
+    "tip": "抵扣券可转化为钻石，\n是否消耗<color=#92fc63>$1*1</color>兑换为<color=#92fc63>钻石*$2</color>"
+  },
+  "_G.pg.base.gametip.skin_discount_item_repeat_remind_label": {
+    "tip": "今日不再提示"
+  },
+  "_G.pg.base.gametip.skin_discount_item_return_tip": {
+    "tip": "换装抵扣券可返还为300钻石"
+  },
+  "_G.pg.base.gametip.skin_discount_item_tran_tip": {
+    "tip": "指挥官不在的时间里，有以下道具已经过期并转换"
+  },
+  "_G.pg.base.gametip.skin_shop_discount_item_link": {
+    "tip": "<color=#92fc63>抵扣券</color><color=#ffea00>-$1</color>"
+  },
+  "_G.pg.base.gametip.skin_shop_nonuse_label": {
+    "tip": "不使用优惠"
+  },
+  "_G.pg.base.gametip.skin_shop_use_label": {
+    "tip": "使用优惠"
+  },
+  "_G.pg.base.gametip.task_get": {
+    "tip": "领取"
+  },
+  "_G.pg.base.gametip.tolove_main_help": {
+    "tip": [
+      {
+        "info": "活动简介："
+      },
+      {
+        "info": "<color=#92fc63>11.21~12.05 维护前</color>开启限时活动「危险发明迫近中！」"
+      },
+      {
+        "info": "<color=#7D7D7D>纪念章奖励领取、作战收获累计奖励领取、活动商店奖励兑换时间将延长至12.11 24时</color>\n"
+      },
+      {
+        "info": "<color=#FCD400>出击</color>\n通过特别作战获取「能量石」，在「作战收获累计中！」和「补给商店」处兑换丰厚奖励。\n"
+      },
+      {
+        "info": "<color=#FCD400>「帮帮我吧，菈菈小姐！」</color>\n活动期间通过作战获得「能量晶屑」，在「帮帮我吧，菈菈小姐！」玩法中开启港区角色的发明委托订单，完成元器件拼接和电路绘制后可领取「嘻嘻加班君」等限定设备。\n"
+      },
+      {
+        "info": "<color=#FCD400>「滴滴特训君」</color>\n活动期间完成7日小游戏，可获得「王女的画作」等限定家具奖励；完成特训任务更可获得额外奖励。\n"
+      },
+      {
+        "info": "<color=#FCD400>「纪念章」</color>\n活动期间限定活动任务可获得「数据芯片」，集齐「数据芯片」可在「纪念章」弹窗内兑换活动纪念家具「戴比路克风纪念章」。\n"
+      }
+    ]
+  },
+  "_G.pg.base.gametip.tolovegame_awards": {
+    "tip": "参与奖励"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_1": {
+    "tip": "游戏开始时携带1层护盾，每层护盾可抵挡一次爆炸。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_2": {
+    "tip": "游戏结算时最终得分*1.2倍。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_3": {
+    "tip": "游戏开始时计时延长10秒。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_4": {
+    "tip": "游戏开始时携带1层护盾，局内每成功躲避5次额外获得1层护盾，最多累积2层护盾，每层护盾可抵挡一次爆炸。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_5": {
+    "tip": "游戏结算时最终得分*1.2倍。在游戏中每经过5轮分数倍率额外增加+0.01。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_6": {
+    "tip": "游戏开始时计时延长10秒。每次倒计时归零时有50%概率再延长10秒。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_desc_7": {
+    "tip": "游戏开始时携带1层护盾，游戏计时延长10秒，结算时最终得分*1.2倍。"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_1": {
+    "tip": "护盾up！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_2": {
+    "tip": "得分up！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_3": {
+    "tip": "时限 up！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_4": {
+    "tip": "护盾超级upup！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_5": {
+    "tip": "得分超级upup！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_6": {
+    "tip": "时限超级upup！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_name_7": {
+    "tip": "全能upup！"
+  },
+  "_G.pg.base.gametip.tolovegame_buff_switch_1": {
+    "tip": "启用修正 "
+  },
+  "_G.pg.base.gametip.tolovegame_buff_switch_2": {
+    "tip": "停止修正"
+  },
+  "_G.pg.base.gametip.tolovegame_collect": {
+    "tip": "领取"
+  },
+  "_G.pg.base.gametip.tolovegame_collected": {
+    "tip": "已领取"
+  },
+  "_G.pg.base.gametip.tolovegame_join_reward": {
+    "tip": "参与奖励"
+  },
+  "_G.pg.base.gametip.tolovegame_lock_1": {
+    "tip": "$1天$2小时后解锁 "
+  },
+  "_G.pg.base.gametip.tolovegame_lock_2": {
+    "tip": "$1小时后解锁 "
+  },
+  "_G.pg.base.gametip.tolovegame_proceed": {
+    "tip": "前往"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_cheat": {
+    "tip": "这个轻松，就交给我吧！"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_detail_collect": {
+    "tip": "前往收集"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_detail_connection": {
+    "tip": "绘制电路"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_detail_puzzle": {
+    "tip": "拼接元器件"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_finished": {
+    "tip": "已完成"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_line_tip": {
+    "tip": "绘制电路需要一笔连通所有元器件哦"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_lock": {
+    "tip": "神秘订单"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_lock_by_front": {
+    "tip": "需要完成前置订单"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_lock_by_time": {
+    "tip": "$1天$2小时后解锁"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_open_detail": {
+    "tip": "查看订单"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_pop_finish": {
+    "tip": "完 成"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_pop_next": {
+    "tip": "下 一 步"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_pop_save": {
+    "tip": "发明进度已记录"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_puzzle_tip": {
+    "tip": "所有元器件都需要放在点位上哦"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_ship_need": {
+    "tip": "$1的需求"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_ship_unknown": {
+    "tip": "???"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_task_need": {
+    "tip": "所需素材："
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_title": {
+    "tip": "订单需求确认"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_title_desc": {
+    "tip": "订单需求确认"
+  },
+  "_G.pg.base.gametip.tolovegame_puzzle_unlock": {
+    "tip": "委托订单 "
+  },
+  "_G.pg.base.gametip.tolovegame_rank_tip": {
+    "tip": "仅显示好友与大舰队成员 "
+  },
+  "_G.pg.base.gametip.tolovegame_score": {
+    "tip": "得分"
+  },
+  "_G.pg.base.gametip.tolovegame_tutorial": {
+    "tip": [
+      {
+        "info": "异世界的王女为指挥官专门制作的特训装置！\n"
+      },
+      {
+        "info": "1. 游戏开始后，指挥官需要记下角色上方依次出现的方向箭头；"
+      },
+      {
+        "info": "2. 箭头不久之后就会消失，爆炸即将开始！不过好在只要按照刚刚记下的顺序依次按下方向键即可躲避炸弹；"
+      },
+      {
+        "info": "3. 躲避的轮次越高，可获得越高分数；"
+      },
+      {
+        "info": "4. 充分利用「特训修正」中的强化效果，在有限的时间内取得高分吧！ "
+      }
+    ]
+  },
+  "_G.pg.base.gametip.tolovemainpage_build_countdown": {
+    "tip": "即将结束"
+  },
+  "_G.pg.base.gametip.tolovemainpage_skin_countdown": {
+    "tip": "剩余$1小时"
+  },
   "_G.pg.base.gametip.volleyball_end_award": {
     "tip": "精力-1，天狼星契合度+40"
+  },
+  "_G.pg.base.gametip.word_activity_not_open": {
+    "tip": "活动未开启"
+  },
+  "_G.pg.base.gametip.word_gain_date": {
+    "tip": "获取时间："
+  },
+  "_G.pg.base.gametip.word_got_pt": {
+    "tip": "已获得"
+  },
+  "_G.pg.base.gametip.word_limited_activity": {
+    "tip": "限时活动"
+  },
+  "_G.pg.base.gametip.word_shipNation_tolove": {
+    "tip": "To LOVE-Ru"
+  },
+  "_G.pg.base.gametip.word_show_expire_content": {
+    "tip": "查看已无法获取的内容"
+  },
+  "_G.pg.base.gametip.world_boss_help_meta": {
+    "tip": [
+      {
+        "info": "信标·META功能说明\n\n1. <color=#92fc63>2024.12.12-2025.3.13</color>期间限时开放「{namecode:238}」的挑战，在此期间指挥官可挑战「{namecode:238}」累计其同步值获取<color=#92fc63>「{namecode:238}」角色</color>及其他丰厚奖励\n<color=#ff5c5c>注意：同步值将于时间结束后消失</color>\n\n2.「信标数据」获取与解析\n·指挥官可通过在大型作战中获取「信标数据」，达到指定数据量后进行解析并发现特定信标\n·每日最多可获取 <color=#92fc63>200</color>点，每日0点刷新可获取点数，尚未使用的「信标数据」将会保留。\n·每次解析「信标数据」所需量为<color=#92fc63>100</color>点\n\n3.挑战自己解析的信标\n·第一次挑战自己解析的信标不会消耗石油，从第二次开始，随着挑战次数的增加，每次挑战消耗的石油会从<color=#92fc63>40</color>点逐渐减少至<color=#92fc63>0</color>点。(不会消耗挑战次数)\n·当信标HP归零后视为战斗胜利，指挥官可以领取大量角色同步值奖励。\n·每个被解析的信标只会存在<color=#92fc63>24小时</color>，过期后将会消失，记得向其他指挥官请求支援哦。\n·每次挑战成功后，信标的强度将会提升1阶段，总计15阶段。随着阶段提升，战斗奖励也会提升。\n\n4.挑战其他信标\n·在信标列表界面可以挑战其他指挥官发起求助的信标，参与其他指挥官发布的信标战斗结束后，将会根据造成的伤害程度<color=#92fc63>立刻获得角色同步值奖励</color>。\n·每次挑战需要消耗1点挑战次数，不需要消耗石油\n·每日拥有总计<color=#92fc63>3</color>点挑战次数，每日0点重置\n·同一个信标最多能允许累计30位指挥官进行挑战\n\n5.战斗说明\n·挑战信标{namecode:238}暂不可使用指挥喵与潜艇\n·战斗结算时不会获得经验值，不会影响舰船心情值\n·战斗中不可中途退出，如果出现网络波动导致掉线的情况：\n①挑战自己解析的信标时将会消耗40点石油(非第一次挑战)，且不会计算已造成的伤害\n②挑战信标列表中的信标时将会消耗挑战次数且无法获得任何奖励\n <color=#92fc63>请在参与作战时保持网络环境畅通</color>\n\n6.火力支援\n随着信标{namecode:238}挑战的进行，从第31天开始，即2025.1.12~2025.3.13期间，舰队挑战「{namecode:238}」时将会获得一次额外火力支援。火力支援会对敌人造成伤害，并为敌人施加一个持续伤害的特殊状态（不受任何加成效果影响）。随着本期信标{namecode:238}开放的日期增加，火力支援提供的伤害也会增加。\n※此支援只会在指挥官自己发现的信标{namecode:238}战斗中出现，每次挑战均会触发。"
+      }
+    ]
   },
   "_G.pg.base.gametip.world_file_tip": {
     "tip": "※上下滑动查看，点击空白处关闭"

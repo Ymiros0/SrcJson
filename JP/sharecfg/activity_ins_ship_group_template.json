@@ -746,7 +746,7 @@
   "10706": {
     "background": "",
     "name": "Enterprise",
-    "nationality": 1,
+    "nationality": 0,
     "sculpture": "qiye",
     "ship_group": 10706,
     "type": 1
@@ -915,7 +915,7 @@
     "background": "",
     "name": "Halford",
     "nationality": 0,
-    "sculpture": "haerfude",
+    "sculpture": "haerfude_2",
     "ship_group": 19905,
     "type": 1
   },
@@ -1035,7 +1035,7 @@
     "background": "",
     "name": "Janus",
     "nationality": 0,
-    "sculpture": "yanusi_5",
+    "sculpture": "yanusi_6",
     "ship_group": 20135,
     "type": 1
   },
@@ -1053,6 +1053,14 @@
     "nationality": 0,
     "sculpture": "nubiyaren",
     "ship_group": 20137,
+    "type": 1
+  },
+  "20202": {
+    "background": "",
+    "name": "Achilles",
+    "nationality": 0,
+    "sculpture": "ajilisi",
+    "ship_group": 20202,
     "type": 1
   },
   "20203": {
@@ -1125,6 +1133,14 @@
     "nationality": 0,
     "sculpture": "ouruola",
     "ship_group": 20215,
+    "type": 1
+  },
+  "20216": {
+    "background": "",
+    "name": "Fiji",
+    "nationality": 0,
+    "sculpture": "feiji",
+    "ship_group": 20216,
     "type": 1
   },
   "20217": {
@@ -1234,7 +1250,7 @@
   "20234": {
     "background": "",
     "name": "Liverpool",
-    "nationality": 2,
+    "nationality": 0,
     "sculpture": "liwupu",
     "ship_group": 20234,
     "type": 1
@@ -1330,7 +1346,7 @@
   "20509": {
     "background": "",
     "name": "Howe_Cookies",
-    "nationality": 0,
+    "nationality": 2,
     "sculpture": "hao",
     "ship_group": 20509,
     "type": 1
@@ -1741,6 +1757,14 @@
     "nationality": 0,
     "sculpture": "wenyue",
     "ship_group": 30138,
+    "type": 1
+  },
+  "30141": {
+    "background": "",
+    "name": "Mikazuki",
+    "nationality": 0,
+    "sculpture": "sanriyue",
+    "ship_group": 30141,
     "type": 1
   },
   "30147": {
@@ -2503,6 +2527,14 @@
     "ship_group": 39906,
     "type": 1
   },
+  "39907": {
+    "background": "",
+    "name": "Daisen",
+    "nationality": 0,
+    "sculpture": "dashan_2",
+    "ship_group": 39907,
+    "type": 1
+  },
   "40101": {
     "background": "",
     "name": "L.Maaß",
@@ -2517,6 +2549,22 @@
     "nationality": 0,
     "sculpture": "z2",
     "ship_group": 40102,
+    "type": 1
+  },
+  "40109": {
+    "background": "",
+    "name": "Wolke9",
+    "nationality": 4,
+    "sculpture": "Z9",
+    "ship_group": 40109,
+    "type": 1
+  },
+  "40111": {
+    "background": "",
+    "name": "Z11_Spielefan",
+    "nationality": 4,
+    "sculpture": "Z11",
+    "ship_group": 40111,
     "type": 1
   },
   "40116": {
@@ -2541,6 +2589,14 @@
     "nationality": 0,
     "sculpture": "Z24_2",
     "ship_group": 40124,
+    "type": 1
+  },
+  "40126": {
+    "background": "",
+    "name": "Zuverlässig_26",
+    "nationality": 0,
+    "sculpture": "Z26",
+    "ship_group": 40126,
     "type": 1
   },
   "40128": {
@@ -2589,6 +2645,14 @@
     "nationality": 0,
     "sculpture": "z47",
     "ship_group": 40147,
+    "type": 1
+  },
+  "40152": {
+    "background": "",
+    "name": "Blitz-Z52",
+    "nationality": 4,
+    "sculpture": "Z52",
+    "ship_group": 40152,
     "type": 1
   },
   "40199": {
@@ -2645,6 +2709,14 @@
     "nationality": 0,
     "sculpture": "leigensibao",
     "ship_group": 40210,
+    "type": 1
+  },
+  "40211": {
+    "background": "",
+    "name": "Duisburg",
+    "nationality": 4,
+    "sculpture": "duyisibao",
+    "ship_group": 40211,
     "type": 1
   },
   "40301": {
@@ -2746,7 +2818,7 @@
   "40404": {
     "background": "",
     "name": "Lützow ",
-    "nationality": 0,
+    "nationality": 4,
     "sculpture": "lvzuofu",
     "ship_group": 40404,
     "type": 1
@@ -2754,7 +2826,7 @@
   "40406": {
     "background": "",
     "name": "Hervör alvitr",
-    "nationality": 4,
+    "nationality": 0,
     "sculpture": "yaerweite_2",
     "ship_group": 40406,
     "type": 1
@@ -2763,7 +2835,7 @@
     "background": "",
     "name": "Bismarck",
     "nationality": 0,
-    "sculpture": "bisimai",
+    "sculpture": "bisimai_4",
     "ship_group": 40501,
     "type": 1
   },
@@ -2778,7 +2850,7 @@
   "40503": {
     "background": "",
     "name": "U.V.Hutten",
-    "nationality": 0,
+    "nationality": 4,
     "sculpture": "wuerlixi_2",
     "ship_group": 40503,
     "type": 1
@@ -2837,6 +2909,14 @@
     "nationality": 0,
     "sculpture": "shitelasai",
     "ship_group": 40703,
+    "type": 1
+  },
+  "40704": {
+    "background": "",
+    "name": "Fritz Rumey",
+    "nationality": 4,
+    "sculpture": "fulici",
+    "ship_group": 40704,
     "type": 1
   },
   "40801": {
@@ -2955,14 +3035,14 @@
     "background": "",
     "name": "Aegir",
     "nationality": 0,
-    "sculpture": "aijier_2",
+    "sculpture": "aijier_4",
     "ship_group": 49905,
     "type": 1
   },
   "49906": {
     "background": "",
     "name": "August.V.Parseval",
-    "nationality": 0,
+    "nationality": 4,
     "sculpture": "aogusite",
     "ship_group": 49906,
     "type": 1
@@ -3026,7 +3106,7 @@
   "50105": {
     "background": "",
     "name": "Lung Wu",
-    "nationality": 0,
+    "nationality": 5,
     "sculpture": "longwu",
     "ship_group": 50105,
     "type": 1
@@ -3363,7 +3443,7 @@
     "background": "",
     "name": "Napoli",
     "nationality": 0,
-    "sculpture": "nabulesi",
+    "sculpture": "nabulesi_2",
     "ship_group": 69902,
     "type": 1
   },
@@ -3603,7 +3683,7 @@
     "background": "",
     "name": "Admiral Nakhimov",
     "nationality": 0,
-    "sculpture": "naximofu",
+    "sculpture": "naximofu_2",
     "ship_group": 79902,
     "type": 1
   },
@@ -3767,6 +3847,14 @@
     "ship_group": 89903,
     "type": 1
   },
+  "89904": {
+    "background": "",
+    "name": "Bayard",
+    "nationality": 0,
+    "sculpture": "beiyade_2",
+    "ship_group": 89904,
+    "type": 1
+  },
   "90101": {
     "background": "",
     "name": "LeMars ",
@@ -3802,7 +3890,7 @@
   "90105": {
     "background": "",
     "name": "Fleuret",
-    "nationality": 9,
+    "nationality": 0,
     "sculpture": "huajian",
     "ship_group": 90105,
     "type": 1
@@ -4293,6 +4381,54 @@
     "nationality": 0,
     "sculpture": "xishao",
     "ship_group": 1100007,
+    "type": 1
+  },
+  "1110001": {
+    "background": "",
+    "name": "Lala Satalin Deviluke",
+    "nationality": 0,
+    "sculpture": "lala_tolove",
+    "ship_group": 1110001,
+    "type": 1
+  },
+  "1110002": {
+    "background": "",
+    "name": "Nana Asta Deviluke",
+    "nationality": 0,
+    "sculpture": "nana_tolove",
+    "ship_group": 1110002,
+    "type": 1
+  },
+  "1110003": {
+    "background": "",
+    "name": "Momo Belia Deviluke",
+    "nationality": 0,
+    "sculpture": "mengmeng_tolove",
+    "ship_group": 1110003,
+    "type": 1
+  },
+  "1110004": {
+    "background": "",
+    "name": "Konjiki no Yami",
+    "nationality": 0,
+    "sculpture": "jinseanying_tolove",
+    "ship_group": 1110004,
+    "type": 1
+  },
+  "1110005": {
+    "background": "",
+    "name": "Sairenji Haruna",
+    "nationality": 0,
+    "sculpture": "xiliansi_tolove",
+    "ship_group": 1110005,
+    "type": 1
+  },
+  "1110006": {
+    "background": "",
+    "name": "Kotegawa Yui",
+    "nationality": 0,
+    "sculpture": "gushouchuan_tolove",
+    "ship_group": 1110006,
     "type": 1
   },
   "all": [
@@ -4832,6 +4968,23 @@
     69901,
     30506,
     20223,
-    79902
+    79902,
+    1110001,
+    1110002,
+    1110003,
+    1110004,
+    1110005,
+    1110006,
+    30141,
+    40704,
+    40211,
+    40109,
+    40111,
+    40152,
+    20216,
+    20202,
+    39907,
+    89904,
+    40126
   ]
 }

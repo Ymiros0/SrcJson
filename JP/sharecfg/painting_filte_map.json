@@ -254,6 +254,7 @@
     "key": "aersasi_2",
     "res_list": [
       "painting/aersasi_2_tex",
+      "painting/aersasi_2_rw_tex",
       "painting/aersasi_2_n_tex",
       "painting/aersasi_2_n",
       "painting/aersasi_2"
@@ -595,6 +596,18 @@
       "painting/aijier_3_bj2_tex",
       "painting/aijier_3_bj1_tex",
       "painting/aijier_3"
+    ]
+  },
+  "aijier_4": {
+    "key": "aijier_4",
+    "res_list": [
+      "painting/aijier_4_tex",
+      "painting/aijier_4_rw_tex",
+      "painting/aijier_4_n_tex",
+      "painting/aijier_4_n",
+      "painting/aijier_4_hx_tex",
+      "painting/aijier_4_hx",
+      "painting/aijier_4"
     ]
   },
   "aikesaite": {
@@ -1065,6 +1078,16 @@
       "painting/aogusite_2_n_tex",
       "painting/aogusite_2_n",
       "painting/aogusite_2"
+    ]
+  },
+  "aogusite_3": {
+    "key": "aogusite_3",
+    "res_list": [
+      "painting/aogusite_3_tex",
+      "painting/aogusite_3_rw_tex",
+      "painting/aogusite_3_n_tex",
+      "painting/aogusite_3_n",
+      "painting/aogusite_3"
     ]
   },
   "aolike": {
@@ -1756,6 +1779,20 @@
       "painting/beiyade"
     ]
   },
+  "beiyade_2": {
+    "key": "beiyade_2",
+    "res_list": [
+      "painting/beiyade_2_tex",
+      "painting/beiyade_2_rw_tex",
+      "painting/beiyade_2_n_tex",
+      "painting/beiyade_2_n_hx_tex",
+      "painting/beiyade_2_n_hx",
+      "painting/beiyade_2_n",
+      "painting/beiyade_2_hx_tex",
+      "painting/beiyade_2_hx",
+      "painting/beiyade_2"
+    ]
+  },
   "beiyaen": {
     "key": "beiyaen",
     "res_list": [
@@ -2027,6 +2064,20 @@
       "painting/bisimai_3"
     ]
   },
+  "bisimai_4": {
+    "key": "bisimai_4",
+    "res_list": [
+      "painting/bisimai_4_tex",
+      "painting/bisimai_4_rw_tex",
+      "painting/bisimai_4_n_tex",
+      "painting/bisimai_4_n_hx_tex",
+      "painting/bisimai_4_n_hx",
+      "painting/bisimai_4_n",
+      "painting/bisimai_4_hx_tex",
+      "painting/bisimai_4_hx",
+      "painting/bisimai_4"
+    ]
+  },
   "bisimai_h": {
     "key": "bisimai_h",
     "res_list": [
@@ -2287,6 +2338,9 @@
     "key": "bulaimodun_3",
     "res_list": [
       "painting/bulaimodun_3_tex",
+      "painting/bulaimodun_3_rw_tex",
+      "painting/bulaimodun_3_n_tex",
+      "painting/bulaimodun_3_n",
       "painting/bulaimodun_3"
     ]
   },
@@ -2441,6 +2495,7 @@
     "key": "bulvxieer_2",
     "res_list": [
       "painting/bulvxieer_2_tex",
+      "painting/bulvxieer_2_rw_tex",
       "painting/bulvxieer_2_n_tex",
       "painting/bulvxieer_2_n",
       "painting/bulvxieer_2"
@@ -3210,6 +3265,16 @@
       "painting/dafeng_6"
     ]
   },
+  "dafeng_alter": {
+    "key": "dafeng_alter",
+    "res_list": [
+      "painting/dafeng_alter_tex",
+      "painting/dafeng_alter_rw_tex",
+      "painting/dafeng_alter_n_tex",
+      "painting/dafeng_alter_n",
+      "painting/dafeng_alter"
+    ]
+  },
   "dafeng_h": {
     "key": "dafeng_h",
     "res_list": [
@@ -3462,6 +3527,16 @@
       "painting/dashan"
     ]
   },
+  "dashan_2": {
+    "key": "dashan_2",
+    "res_list": [
+      "painting/dashan_2_tex",
+      "painting/dashan_2_rw_tex",
+      "painting/dashan_2_n_tex",
+      "painting/dashan_2_n",
+      "painting/dashan_2"
+    ]
+  },
   "deleike": {
     "key": "deleike",
     "res_list": [
@@ -3623,6 +3698,7 @@
     "key": "dingan",
     "res_list": [
       "painting/dingan_tex",
+      "painting/dingan_hx",
       "painting/dingan"
     ]
   },
@@ -3630,8 +3706,12 @@
     "key": "dingan_2",
     "res_list": [
       "painting/dingan_2_tex",
+      "painting/dingan_2_rw_tex",
+      "painting/dingan_2_rw_hx_tex",
       "painting/dingan_2_n_tex",
+      "painting/dingan_2_n_hx",
       "painting/dingan_2_n",
+      "painting/dingan_2_hx",
       "painting/dingan_2"
     ]
   },
@@ -3890,6 +3970,29 @@
     "res_list": [
       "painting/duwei_3_tex",
       "painting/duwei_3"
+    ]
+  },
+  "duyisibao": {
+    "key": "duyisibao",
+    "res_list": [
+      "painting/duyisibao_tex",
+      "painting/duyisibao_rw_tex",
+      "painting/duyisibao_n_tex",
+      "painting/duyisibao_n",
+      "painting/duyisibao"
+    ]
+  },
+  "duyisibao_2": {
+    "key": "duyisibao_2",
+    "res_list": [
+      "painting/duyisibao_2_tex",
+      "painting/duyisibao_2_rw_tex",
+      "painting/duyisibao_2_n_tex",
+      "painting/duyisibao_2_n_hx",
+      "painting/duyisibao_2_n",
+      "painting/duyisibao_2_hx_tex",
+      "painting/duyisibao_2_hx",
+      "painting/duyisibao_2"
     ]
   },
   "edu": {
@@ -4405,6 +4508,26 @@
       "painting/fulandeer_2_n_tex",
       "painting/fulandeer_2_n",
       "painting/fulandeer_2"
+    ]
+  },
+  "fulici": {
+    "key": "fulici",
+    "res_list": [
+      "painting/fulici_tex",
+      "painting/fulici_rw_tex",
+      "painting/fulici_n_tex",
+      "painting/fulici_n",
+      "painting/fulici"
+    ]
+  },
+  "fulici_2": {
+    "key": "fulici_2",
+    "res_list": [
+      "painting/fulici_2_tex",
+      "painting/fulici_2_rw_tex",
+      "painting/fulici_2_n_tex",
+      "painting/fulici_2_n",
+      "painting/fulici_2"
     ]
   },
   "fuluoxiluofu": {
@@ -5084,6 +5207,26 @@
       "painting/guogan_2"
     ]
   },
+  "gushouchuan_2_tolove": {
+    "key": "gushouchuan_2_tolove",
+    "res_list": [
+      "painting/gushouchuan_2_tolove_tex",
+      "painting/gushouchuan_2_tolove_rw_tex",
+      "painting/gushouchuan_2_tolove_n_tex",
+      "painting/gushouchuan_2_tolove_n",
+      "painting/gushouchuan_2_tolove"
+    ]
+  },
+  "gushouchuan_tolove": {
+    "key": "gushouchuan_tolove",
+    "res_list": [
+      "painting/gushouchuan_tolove_wjz_tex",
+      "painting/gushouchuan_tolove_wjz",
+      "painting/gushouchuan_tolove_tex",
+      "painting/gushouchuan_tolove_rw_tex",
+      "painting/gushouchuan_tolove"
+    ]
+  },
   "guying": {
     "key": "guying",
     "res_list": [
@@ -5148,6 +5291,17 @@
       "painting/haerfude_n",
       "painting/haerfude_bj_tex",
       "painting/haerfude"
+    ]
+  },
+  "haerfude_2": {
+    "key": "haerfude_2",
+    "res_list": [
+      "painting/haerfude_2_tex",
+      "painting/haerfude_2_rw_tex",
+      "painting/haerfude_2_n_tex",
+      "painting/haerfude_2_n_rw_tex",
+      "painting/haerfude_2_n",
+      "painting/haerfude_2"
     ]
   },
   "haerxibaoweier": {
@@ -7002,6 +7156,28 @@
       "painting/jinqu"
     ]
   },
+  "jinseanying_2_tolove": {
+    "key": "jinseanying_2_tolove",
+    "res_list": [
+      "painting/jinseanying_2_tolove_tex",
+      "painting/jinseanying_2_tolove_rw_tex",
+      "painting/jinseanying_2_tolove_n_tex",
+      "painting/jinseanying_2_tolove_n",
+      "painting/jinseanying_2_tolove"
+    ]
+  },
+  "jinseanying_tolove": {
+    "key": "jinseanying_tolove",
+    "res_list": [
+      "painting/jinseanying_tolove_wjz_tex",
+      "painting/jinseanying_tolove_wjz",
+      "painting/jinseanying_tolove_tex",
+      "painting/jinseanying_tolove_rw_tex",
+      "painting/jinseanying_tolove_n_tex",
+      "painting/jinseanying_tolove_n",
+      "painting/jinseanying_tolove"
+    ]
+  },
   "jiqi": {
     "key": "jiqi",
     "res_list": [
@@ -7308,6 +7484,14 @@
       "painting/kaisa_3_n_tex",
       "painting/kaisa_3_n",
       "painting/kaisa_3"
+    ]
+  },
+  "kaisa_alter": {
+    "key": "kaisa_alter",
+    "res_list": [
+      "painting/kaisa_alter_tex",
+      "painting/kaisa_alter_rw_tex",
+      "painting/kaisa_alter"
     ]
   },
   "kaixuan": {
@@ -7733,6 +7917,19 @@
       "painting/kewei_4"
     ]
   },
+  "kewei_5": {
+    "key": "kewei_5",
+    "res_list": [
+      "painting/kewei_5_tex",
+      "painting/kewei_5_rw_tex",
+      "painting/kewei_5_n_tex",
+      "painting/kewei_5_n_hx",
+      "painting/kewei_5_n",
+      "painting/kewei_5_hx_tex",
+      "painting/kewei_5_hx",
+      "painting/kewei_5"
+    ]
+  },
   "kewei_idol": {
     "key": "kewei_idol",
     "res_list": [
@@ -7991,6 +8188,7 @@
     "key": "lafeiii_3",
     "res_list": [
       "painting/lafeiii_3_tex",
+      "painting/lafeiii_3_rw_tex",
       "painting/lafeiii_3_n_tex",
       "painting/lafeiii_3_n",
       "painting/lafeiii_3"
@@ -8044,6 +8242,29 @@
     "res_list": [
       "painting/laisha_2_tex",
       "painting/laisha_2"
+    ]
+  },
+  "lala_2_tolove": {
+    "key": "lala_2_tolove",
+    "res_list": [
+      "painting/lala_2_tolove_tex",
+      "painting/lala_2_tolove_rw_tex",
+      "painting/lala_2_tolove_n_tex",
+      "painting/lala_2_tolove_n",
+      "painting/lala_2_tolove"
+    ]
+  },
+  "lala_tolove": {
+    "key": "lala_tolove",
+    "res_list": [
+      "painting/lala_tolove_wjz_tex",
+      "painting/lala_tolove_wjz",
+      "painting/lala_tolove_tex",
+      "painting/lala_tolove_rw_tex",
+      "painting/lala_tolove_n_tex",
+      "painting/lala_tolove_n",
+      "painting/lala_tolove_bj1_tex",
+      "painting/lala_tolove"
     ]
   },
   "lanli": {
@@ -8164,6 +8385,16 @@
       "painting/leigensibao_2_n_tex",
       "painting/leigensibao_2_n",
       "painting/leigensibao_2"
+    ]
+  },
+  "leigensibao_3": {
+    "key": "leigensibao_3",
+    "res_list": [
+      "painting/leigensibao_3_tex",
+      "painting/leigensibao_3_rw_tex",
+      "painting/leigensibao_3_n_tex",
+      "painting/leigensibao_3_n",
+      "painting/leigensibao_3"
     ]
   },
   "leiming": {
@@ -9337,6 +9568,20 @@
       "painting/mabuerheide_5"
     ]
   },
+  "machinemagician": {
+    "key": "machinemagician",
+    "res_list": [
+      "painting/machinemagician_tex",
+      "painting/machinemagician"
+    ]
+  },
+  "madamm": {
+    "key": "madamm",
+    "res_list": [
+      "painting/madamm_tex",
+      "painting/madamm"
+    ]
+  },
   "magedebao": {
     "key": "magedebao",
     "res_list": [
@@ -9695,6 +9940,28 @@
       "painting/mengfeisi_alter"
     ]
   },
+  "mengmeng_2_tolove": {
+    "key": "mengmeng_2_tolove",
+    "res_list": [
+      "painting/mengmeng_2_tolove_tex",
+      "painting/mengmeng_2_tolove_rw_tex",
+      "painting/mengmeng_2_tolove_n_tex",
+      "painting/mengmeng_2_tolove_n",
+      "painting/mengmeng_2_tolove"
+    ]
+  },
+  "mengmeng_tolove": {
+    "key": "mengmeng_tolove",
+    "res_list": [
+      "painting/mengmeng_tolove_wjz_tex",
+      "painting/mengmeng_tolove_wjz",
+      "painting/mengmeng_tolove_tex",
+      "painting/mengmeng_tolove_rw_tex",
+      "painting/mengmeng_tolove_n_tex",
+      "painting/mengmeng_tolove_n",
+      "painting/mengmeng_tolove"
+    ]
+  },
   "mengya": {
     "key": "mengya",
     "res_list": [
@@ -9991,6 +10258,13 @@
       "painting/monika_doa_wjz"
     ]
   },
+  "moon": {
+    "key": "moon",
+    "res_list": [
+      "painting/moon_tex",
+      "painting/moon"
+    ]
+  },
   "moye": {
     "key": "moye",
     "res_list": [
@@ -10053,6 +10327,19 @@
       "painting/nabulesi_n",
       "painting/nabulesi_blueprint",
       "painting/nabulesi"
+    ]
+  },
+  "nabulesi_2": {
+    "key": "nabulesi_2",
+    "res_list": [
+      "painting/nabulesi_2_tex",
+      "painting/nabulesi_2_rw_tex",
+      "painting/nabulesi_2_n_tex",
+      "painting/nabulesi_2_n_hx",
+      "painting/nabulesi_2_n",
+      "painting/nabulesi_2_hx_tex",
+      "painting/nabulesi_2_hx",
+      "painting/nabulesi_2"
     ]
   },
   "naerxun": {
@@ -10123,6 +10410,27 @@
       "painting/nake_2"
     ]
   },
+  "nana_2_tolove": {
+    "key": "nana_2_tolove",
+    "res_list": [
+      "painting/nana_2_tolove_tex",
+      "painting/nana_2_tolove_rw_tex",
+      "painting/nana_2_tolove_n_tex",
+      "painting/nana_2_tolove_n",
+      "painting/nana_2_tolove"
+    ]
+  },
+  "nana_tolove": {
+    "key": "nana_tolove",
+    "res_list": [
+      "painting/nana_tolove_wjz_tex",
+      "painting/nana_tolove_wjz",
+      "painting/nana_tolove_tex",
+      "painting/nana_tolove_n_tex",
+      "painting/nana_tolove_n",
+      "painting/nana_tolove"
+    ]
+  },
   "nananpudun": {
     "key": "nananpudun",
     "res_list": [
@@ -10173,6 +10481,19 @@
       "painting/naximofu_tex",
       "painting/naximofu_rw_tex",
       "painting/naximofu"
+    ]
+  },
+  "naximofu_2": {
+    "key": "naximofu_2",
+    "res_list": [
+      "painting/naximofu_2_tex",
+      "painting/naximofu_2_rw_tex",
+      "painting/naximofu_2_n_tex",
+      "painting/naximofu_2_n_hx",
+      "painting/naximofu_2_n",
+      "painting/naximofu_2_hx_tex",
+      "painting/naximofu_2_hx",
+      "painting/naximofu_2"
     ]
   },
   "nazhi": {
@@ -10475,6 +10796,12 @@
       "painting/niulunbao_2_n_tex",
       "painting/niulunbao_2_n",
       "painting/niulunbao_2"
+    ]
+  },
+  "npcaersasi_2": {
+    "key": "npcaersasi_2",
+    "res_list": [
+      "painting/npcaersasi_2_rw_tex"
     ]
   },
   "npcbulaimodun_6": {
@@ -12901,6 +13228,13 @@
       "painting/songfeng_g"
     ]
   },
+  "starbeast": {
+    "key": "starbeast",
+    "res_list": [
+      "painting/starbeast_tex",
+      "painting/starbeast"
+    ]
+  },
   "strength": {
     "key": "strength",
     "res_list": [
@@ -14279,6 +14613,16 @@
       "painting/weixi_4"
     ]
   },
+  "weixi_5": {
+    "key": "weixi_5",
+    "res_list": [
+      "painting/weixi_5_tex",
+      "painting/weixi_5_rw_tex",
+      "painting/weixi_5_n_tex",
+      "painting/weixi_5_n",
+      "painting/weixi_5"
+    ]
+  },
   "weiyan": {
     "key": "weiyan",
     "res_list": [
@@ -14536,6 +14880,16 @@
       "painting/wuerlixi_3_n_tex",
       "painting/wuerlixi_3_n",
       "painting/wuerlixi_3"
+    ]
+  },
+  "wuerlixi_4": {
+    "key": "wuerlixi_4",
+    "res_list": [
+      "painting/wuerlixi_4_tex",
+      "painting/wuerlixi_4_rw_tex",
+      "painting/wuerlixi_4_n_tex",
+      "painting/wuerlixi_4_n",
+      "painting/wuerlixi_4"
     ]
   },
   "wululu": {
@@ -15195,6 +15549,27 @@
       "painting/xili_h"
     ]
   },
+  "xiliansi_2_tolove": {
+    "key": "xiliansi_2_tolove",
+    "res_list": [
+      "painting/xiliansi_2_tolove_tex",
+      "painting/xiliansi_2_tolove_rw_tex",
+      "painting/xiliansi_2_tolove_n_tex",
+      "painting/xiliansi_2_tolove_n",
+      "painting/xiliansi_2_tolove"
+    ]
+  },
+  "xiliansi_tolove": {
+    "key": "xiliansi_tolove",
+    "res_list": [
+      "painting/xiliansi_tolove_wjz_tex",
+      "painting/xiliansi_tolove_wjz",
+      "painting/xiliansi_tolove_tex",
+      "painting/xiliansi_tolove_n_tex",
+      "painting/xiliansi_tolove_n",
+      "painting/xiliansi_tolove"
+    ]
+  },
   "ximu": {
     "key": "ximu",
     "res_list": [
@@ -15334,7 +15709,7 @@
       "painting/xingzuo_2_rw_tex",
       "painting/xingzuo_2_n_tex",
       "painting/xingzuo_2_n",
-      "painting/xingzuo_2_bj_tex",
+      "painting/xingzuo_2_bj1_tex",
       "painting/xingzuo_2"
     ]
   },
@@ -15370,6 +15745,16 @@
     "res_list": [
       "painting/xinnong_4_tex",
       "painting/xinnong_4"
+    ]
+  },
+  "xinnong_5": {
+    "key": "xinnong_5",
+    "res_list": [
+      "painting/xinnong_5_tex",
+      "painting/xinnong_5_rw_tex",
+      "painting/xinnong_5_n_tex",
+      "painting/xinnong_5_n",
+      "painting/xinnong_5"
     ]
   },
   "xinnong_younv": {
@@ -15517,6 +15902,14 @@
       "painting/xipeierhaijunshangjiang_3_n_tex",
       "painting/xipeierhaijunshangjiang_3_n",
       "painting/xipeierhaijunshangjiang_3"
+    ]
+  },
+  "xipeierhaijunshangjiang_alter": {
+    "key": "xipeierhaijunshangjiang_alter",
+    "res_list": [
+      "painting/xipeierhaijunshangjiang_alter_tex",
+      "painting/xipeierhaijunshangjiang_alter_rw_tex",
+      "painting/xipeierhaijunshangjiang_alter"
     ]
   },
   "xishao": {
@@ -15819,6 +16212,7 @@
     "key": "yade_2",
     "res_list": [
       "painting/yade_2_tex",
+      "painting/yade_2_rw_tex",
       "painting/yade_2_n_tex",
       "painting/yade_2_n",
       "painting/yade_2"
@@ -16014,6 +16408,16 @@
       "painting/yanusi_5_n_tex",
       "painting/yanusi_5_n",
       "painting/yanusi_5"
+    ]
+  },
+  "yanusi_6": {
+    "key": "yanusi_6",
+    "res_list": [
+      "painting/yanusi_6_tex",
+      "painting/yanusi_6_rw_tex",
+      "painting/yanusi_6_n_tex",
+      "painting/yanusi_6_n",
+      "painting/yanusi_6"
     ]
   },
   "yanzhan": {
@@ -16660,6 +17064,13 @@
       "painting/yuekecheng_alter"
     ]
   },
+  "yuekecheng_alter_hei": {
+    "key": "yuekecheng_alter_hei",
+    "res_list": [
+      "painting/yuekecheng_alter_hei_tex",
+      "painting/yuekecheng_alter_hei"
+    ]
+  },
   "yuekecheng_h": {
     "key": "yuekecheng_h",
     "res_list": [
@@ -16817,6 +17228,46 @@
     "res_list": [
       "painting/z2_3_tex",
       "painting/z2_3"
+    ]
+  },
+  "z9": {
+    "key": "z9",
+    "res_list": [
+      "painting/z9_tex",
+      "painting/z9_rw_tex",
+      "painting/z9_n_tex",
+      "painting/z9_n_rw_tex",
+      "painting/z9_n",
+      "painting/z9"
+    ]
+  },
+  "z9_2": {
+    "key": "z9_2",
+    "res_list": [
+      "painting/z9_2_tex",
+      "painting/z9_2_rw_tex",
+      "painting/z9_2_n_tex",
+      "painting/z9_2_n",
+      "painting/z9_2"
+    ]
+  },
+  "z11": {
+    "key": "z11",
+    "res_list": [
+      "painting/z11_tex",
+      "painting/z11_n_tex",
+      "painting/z11_n",
+      "painting/z11"
+    ]
+  },
+  "z11_2": {
+    "key": "z11_2",
+    "res_list": [
+      "painting/z11_2_tex",
+      "painting/z11_2_rw_tex",
+      "painting/z11_2_n_tex",
+      "painting/z11_2_n",
+      "painting/z11_2"
     ]
   },
   "z16": {
@@ -17188,6 +17639,24 @@
       "painting/z47_2"
     ]
   },
+  "z52": {
+    "key": "z52",
+    "res_list": [
+      "painting/z52_tex",
+      "painting/z52_rw_tex",
+      "painting/z52"
+    ]
+  },
+  "z52_2": {
+    "key": "z52_2",
+    "res_list": [
+      "painting/z52_2_tex",
+      "painting/z52_2_rw_tex",
+      "painting/z52_2_n_tex",
+      "painting/z52_2_n",
+      "painting/z52_2"
+    ]
+  },
   "zaoshen": {
     "key": "zaoshen",
     "res_list": [
@@ -17505,6 +17974,19 @@
       "painting/zhumo_n_tex",
       "painting/zhumo_n",
       "painting/zhumo"
+    ]
+  },
+  "zhumo_2": {
+    "key": "zhumo_2",
+    "res_list": [
+      "painting/zhumo_2_tex",
+      "painting/zhumo_2_rw_tex",
+      "painting/zhumo_2_n_tex",
+      "painting/zhumo_2_n_hx",
+      "painting/zhumo_2_n",
+      "painting/zhumo_2_hx_tex",
+      "painting/zhumo_2_hx",
+      "painting/zhumo_2"
     ]
   },
   "zhunuo": {

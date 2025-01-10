@@ -77806,6 +77806,376 @@
     "strengthen_id": 40102,
     "type": 1
   },
+  "401091": {
+    "airassist_time": [],
+    "buff_list": [
+      150650,
+      150660
+    ],
+    "buff_list_display": [
+      150650,
+      150660,
+      23021
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 41000,
+    "equip_id_2": 5100,
+    "equip_id_3": 0,
+    "group_type": 40109,
+    "hide_buff_list": [],
+    "id": 401091,
+    "max_level": 70,
+    "oil_at_end": 3,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 2,
+    "star_max": 5,
+    "strengthen_id": 40109,
+    "type": 1
+  },
+  "401092": {
+    "airassist_time": [],
+    "buff_list": [
+      150650,
+      150660,
+      23021
+    ],
+    "buff_list_display": [
+      150650,
+      150660,
+      23021
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40109,
+    "hide_buff_list": [],
+    "id": 401092,
+    "max_level": 80,
+    "oil_at_end": 5,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 5,
+    "strengthen_id": 40109,
+    "type": 1
+  },
+  "401093": {
+    "airassist_time": [],
+    "buff_list": [
+      150650,
+      150660,
+      23021
+    ],
+    "buff_list_display": [
+      150650,
+      150660,
+      23021
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40109,
+    "hide_buff_list": [],
+    "id": 401093,
+    "max_level": 90,
+    "oil_at_end": 7,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 5,
+    "strengthen_id": 40109,
+    "type": 1
+  },
+  "401094": {
+    "airassist_time": [],
+    "buff_list": [
+      150650,
+      150660,
+      23022
+    ],
+    "buff_list_display": [
+      150650,
+      150660,
+      23022
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40109,
+    "hide_buff_list": [],
+    "id": 401094,
+    "max_level": 100,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [
+      "GNR"
+    ],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 40109,
+    "type": 1
+  },
+  "401111": {
+    "airassist_time": [],
+    "buff_list": [
+      150730,
+      150740
+    ],
+    "buff_list_display": [
+      150730,
+      150740,
+      23021
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 41000,
+    "equip_id_2": 5100,
+    "equip_id_3": 0,
+    "group_type": 40111,
+    "hide_buff_list": [],
+    "id": 401111,
+    "max_level": 70,
+    "oil_at_end": 3,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 2,
+    "star_max": 5,
+    "strengthen_id": 40111,
+    "type": 1
+  },
+  "401112": {
+    "airassist_time": [],
+    "buff_list": [
+      150730,
+      150740,
+      23021
+    ],
+    "buff_list_display": [
+      150730,
+      150740,
+      23021
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40111,
+    "hide_buff_list": [],
+    "id": 401112,
+    "max_level": 80,
+    "oil_at_end": 5,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 5,
+    "strengthen_id": 40111,
+    "type": 1
+  },
+  "401113": {
+    "airassist_time": [],
+    "buff_list": [
+      150730,
+      150740,
+      23021
+    ],
+    "buff_list_display": [
+      150730,
+      150740,
+      23021
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40111,
+    "hide_buff_list": [],
+    "id": 401113,
+    "max_level": 90,
+    "oil_at_end": 7,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 5,
+    "strengthen_id": 40111,
+    "type": 1
+  },
+  "401114": {
+    "airassist_time": [],
+    "buff_list": [
+      150730,
+      150740,
+      23022
+    ],
+    "buff_list_display": [
+      150730,
+      150740,
+      23022
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40111,
+    "hide_buff_list": [],
+    "id": 401114,
+    "max_level": 100,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [
+      "TORP"
+    ],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 40111,
+    "type": 1
+  },
   "401161": {
     "airassist_time": [],
     "buff_list": [
@@ -80549,6 +80919,199 @@
     "strengthen_id": 40147,
     "type": 1
   },
+  "401521": {
+    "airassist_time": [],
+    "buff_list": [
+      150670,
+      150680,
+      150690
+    ],
+    "buff_list_display": [
+      150670,
+      150680,
+      150690,
+      30391
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40152,
+    "hide_buff_list": [],
+    "id": 401521,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 40152,
+    "type": 1
+  },
+  "401522": {
+    "airassist_time": [],
+    "buff_list": [
+      150670,
+      150680,
+      150690,
+      30391
+    ],
+    "buff_list_display": [
+      150670,
+      150680,
+      150690,
+      30391
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40152,
+    "hide_buff_list": [],
+    "id": 401522,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 40152,
+    "type": 1
+  },
+  "401523": {
+    "airassist_time": [],
+    "buff_list": [
+      150670,
+      150680,
+      150690,
+      30391
+    ],
+    "buff_list_display": [
+      150670,
+      150680,
+      150690,
+      30391
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40152,
+    "hide_buff_list": [],
+    "id": 401523,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 40152,
+    "type": 1
+  },
+  "401524": {
+    "airassist_time": [],
+    "buff_list": [
+      150670,
+      150680,
+      150690,
+      30392
+    ],
+    "buff_list_display": [
+      150670,
+      150680,
+      150690,
+      30392
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40152,
+    "hide_buff_list": [],
+    "id": 401524,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [
+      "GNR"
+    ],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40152,
+    "type": 1
+  },
   "401991": {
     "airassist_time": [],
     "buff_list": [
@@ -82367,6 +82930,189 @@
     "star": 6,
     "star_max": 6,
     "strengthen_id": 40210,
+    "type": 2
+  },
+  "402111": {
+    "airassist_time": [],
+    "buff_list": [
+      150710,
+      150720
+    ],
+    "buff_list_display": [
+      150710,
+      150720,
+      30401
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 42200,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40211,
+    "hide_buff_list": [],
+    "id": 402111,
+    "max_level": 70,
+    "oil_at_end": 5,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 40211,
+    "type": 2
+  },
+  "402112": {
+    "airassist_time": [],
+    "buff_list": [
+      150710,
+      150720,
+      30401
+    ],
+    "buff_list_display": [
+      150710,
+      150720,
+      30401
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40211,
+    "hide_buff_list": [],
+    "id": 402112,
+    "max_level": 80,
+    "oil_at_end": 7,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 40211,
+    "type": 2
+  },
+  "402113": {
+    "airassist_time": [],
+    "buff_list": [
+      150710,
+      150720,
+      30401
+    ],
+    "buff_list_display": [
+      150710,
+      150720,
+      30401
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40211,
+    "hide_buff_list": [],
+    "id": 402113,
+    "max_level": 90,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 40211,
+    "type": 2
+  },
+  "402114": {
+    "airassist_time": [],
+    "buff_list": [
+      150710,
+      150720,
+      30402
+    ],
+    "buff_list_display": [
+      150710,
+      150720,
+      30402
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40211,
+    "hide_buff_list": [],
+    "id": 402114,
+    "max_level": 100,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40211,
     "type": 2
   },
   "402134": {
@@ -88286,6 +89032,206 @@
     "star": 6,
     "star_max": 6,
     "strengthen_id": 40703,
+    "type": 7
+  },
+  "407041": {
+    "airassist_time": [
+      23
+    ],
+    "buff_list": [
+      150750,
+      150760,
+      150770
+    ],
+    "buff_list_display": [
+      150750,
+      150760,
+      150770
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      2,
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40704,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 407041,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 40704,
+    "type": 7
+  },
+  "407042": {
+    "airassist_time": [
+      24
+    ],
+    "buff_list": [
+      150750,
+      150760,
+      150770
+    ],
+    "buff_list_display": [
+      150750,
+      150760,
+      150770
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      2,
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40704,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 407042,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 40704,
+    "type": 7
+  },
+  "407043": {
+    "airassist_time": [
+      24,
+      24
+    ],
+    "buff_list": [
+      150750,
+      150760,
+      150770
+    ],
+    "buff_list_display": [
+      150750,
+      150760,
+      150770
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      2,
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40704,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 407043,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 40704,
+    "type": 7
+  },
+  "407044": {
+    "airassist_time": [
+      25,
+      25
+    ],
+    "buff_list": [
+      150750,
+      150760,
+      150770
+    ],
+    "buff_list_display": [
+      150750,
+      150760,
+      150770
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      7,
+      8,
+      9
+    ],
+    "equip_3": [
+      2,
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40704,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 407044,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40704,
     "type": 7
   },
   "408011": {
@@ -121422,6 +122368,660 @@
     "strengthen_id": 960007,
     "type": 24
   },
+  "900469": {
+    "airassist_time": [],
+    "buff_list": [
+      10610,
+      4101,
+      29102
+    ],
+    "buff_list_display": [
+      10610,
+      4101,
+      29102
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 20212,
+    "hide_buff_list": [],
+    "id": 900469,
+    "max_level": 100,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 20212,
+    "type": 2
+  },
+  "900470": {
+    "airassist_time": [],
+    "buff_list": [
+      10300
+    ],
+    "buff_list_display": [
+      10300
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 20501,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 900470,
+    "max_level": 100,
+    "oil_at_end": 14,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 20501,
+    "type": 5
+  },
+  "900471": {
+    "airassist_time": [],
+    "buff_list": [
+      15680,
+      15690,
+      15700
+    ],
+    "buff_list_display": [
+      15680,
+      15690,
+      15700
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 20513,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 900471,
+    "max_level": 100,
+    "oil_at_end": 17,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 20513,
+    "type": 5
+  },
+  "900472": {
+    "airassist_time": [],
+    "buff_list": [
+      19030,
+      19040,
+      19002
+    ],
+    "buff_list_display": [
+      19030,
+      19040,
+      19002
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 29902,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 900472,
+    "max_level": 100,
+    "oil_at_end": 16,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 29902,
+    "type": 5
+  },
+  "900473": {
+    "airassist_time": [],
+    "buff_list": [
+      111010,
+      111020
+    ],
+    "buff_list_display": [
+      111010,
+      111020
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110001,
+    "hide_buff_list": [],
+    "id": 900473,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110001,
+    "type": 3
+  },
+  "900474": {
+    "airassist_time": [],
+    "buff_list": [
+      111040,
+      111050
+    ],
+    "buff_list_display": [
+      111040,
+      111050
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110002,
+    "hide_buff_list": [],
+    "id": 900474,
+    "max_level": 100,
+    "oil_at_end": 10,
+    "oil_at_start": 1,
+    "specific_type": [
+      "AUX"
+    ],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110002,
+    "type": 1
+  },
+  "900475": {
+    "airassist_time": [],
+    "buff_list": [
+      111070,
+      111090
+    ],
+    "buff_list_display": [
+      111070,
+      111090
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110003,
+    "hide_buff_list": [],
+    "id": 900475,
+    "max_level": 100,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110003,
+    "type": 2
+  },
+  "900476": {
+    "airassist_time": [],
+    "buff_list": [
+      111100,
+      111120
+    ],
+    "buff_list_display": [
+      111100,
+      111120
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110004,
+    "hide_buff_list": [],
+    "id": 900476,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110004,
+    "type": 5
+  },
+  "900477": {
+    "airassist_time": [],
+    "buff_list": [
+      111130,
+      111150
+    ],
+    "buff_list_display": [
+      111130,
+      111150
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110005,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 900477,
+    "max_level": 100,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 1110005,
+    "type": 4
+  },
+  "900478": {
+    "airassist_time": [
+      25,
+      25
+    ],
+    "buff_list": [
+      111160,
+      111180
+    ],
+    "buff_list_display": [
+      111160,
+      111180
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110006,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 900478,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 1110006,
+    "type": 7
+  },
+  "900479": {
+    "airassist_time": [],
+    "buff_list": [
+      150710,
+      150720,
+      30402
+    ],
+    "buff_list_display": [
+      150710,
+      150720,
+      30402
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40211,
+    "hide_buff_list": [],
+    "id": 900479,
+    "max_level": 100,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40211,
+    "type": 2
+  },
+  "900480": {
+    "airassist_time": [],
+    "buff_list": [
+      150670,
+      150680,
+      150690,
+      30392
+    ],
+    "buff_list_display": [
+      150670,
+      150680,
+      150690,
+      30392
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40152,
+    "hide_buff_list": [],
+    "id": 900480,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [
+      "GNR"
+    ],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40152,
+    "type": 1
+  },
+  "900481": {
+    "airassist_time": [],
+    "buff_list": [
+      150650,
+      150660,
+      23022
+    ],
+    "buff_list_display": [
+      150650,
+      150660,
+      23022
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40109,
+    "hide_buff_list": [],
+    "id": 900481,
+    "max_level": 100,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [
+      "GNR"
+    ],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 40109,
+    "type": 1
+  },
+  "900482": {
+    "airassist_time": [
+      25,
+      25
+    ],
+    "buff_list": [
+      150750,
+      150760,
+      150770
+    ],
+    "buff_list_display": [
+      150750,
+      150760,
+      150770
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      7,
+      8,
+      9
+    ],
+    "equip_3": [
+      2,
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40704,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 900482,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40704,
+    "type": 7
+  },
   "900801": {
     "airassist_time": [
       27
@@ -121824,6 +123424,56 @@
     "star": 6,
     "star_max": 6,
     "strengthen_id": 90107,
+    "type": 1
+  },
+  "900810": {
+    "airassist_time": [],
+    "buff_list": [
+      150670,
+      150680,
+      150690,
+      30392
+    ],
+    "buff_list_display": [
+      150670,
+      150680,
+      150690,
+      30392
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 40152,
+    "hide_buff_list": [],
+    "id": 900810,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [
+      "GNR"
+    ],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 40152,
     "type": 1
   },
   "900907": {
@@ -132718,6 +134368,176 @@
     "strengthen_id": 970304,
     "type": 3
   },
+  "9703051": {
+    "airassist_time": [],
+    "buff_list": [],
+    "buff_list_display": [
+      801530,
+      801540,
+      801550,
+      801561
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970305,
+    "hide_buff_list": [],
+    "id": 9703051,
+    "max_level": 100,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 970305,
+    "type": 3
+  },
+  "9703052": {
+    "airassist_time": [],
+    "buff_list": [
+      801561
+    ],
+    "buff_list_display": [
+      801530,
+      801540,
+      801550,
+      801561
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970305,
+    "hide_buff_list": [],
+    "id": 9703052,
+    "max_level": 100,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 970305,
+    "type": 3
+  },
+  "9703053": {
+    "airassist_time": [],
+    "buff_list": [
+      801561
+    ],
+    "buff_list_display": [
+      801530,
+      801540,
+      801550,
+      801561
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970305,
+    "hide_buff_list": [],
+    "id": 9703053,
+    "max_level": 100,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 970305,
+    "type": 3
+  },
+  "9703054": {
+    "airassist_time": [],
+    "buff_list": [
+      801562
+    ],
+    "buff_list_display": [
+      801530,
+      801540,
+      801550,
+      801562
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970305,
+    "hide_buff_list": [],
+    "id": 9703054,
+    "max_level": 100,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 970305,
+    "type": 3
+  },
   "9704011": {
     "airassist_time": [],
     "buff_list": [],
@@ -134781,6 +136601,187 @@
     "strengthen_id": 970506,
     "type": 5
   },
+  "9705071": {
+    "airassist_time": [],
+    "buff_list": [],
+    "buff_list_display": [
+      801460,
+      801470,
+      801481
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970507,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 9705071,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 2,
+    "star_max": 5,
+    "strengthen_id": 970507,
+    "type": 5
+  },
+  "9705072": {
+    "airassist_time": [],
+    "buff_list": [
+      801481
+    ],
+    "buff_list_display": [
+      801460,
+      801470,
+      801481
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970507,
+    "hide_buff_list": [
+      1,
+      340
+    ],
+    "id": 9705072,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 5,
+    "strengthen_id": 970507,
+    "type": 5
+  },
+  "9705073": {
+    "airassist_time": [],
+    "buff_list": [
+      801481
+    ],
+    "buff_list_display": [
+      801460,
+      801470,
+      801481
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970507,
+    "hide_buff_list": [
+      1,
+      340
+    ],
+    "id": 9705073,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 5,
+    "strengthen_id": 970507,
+    "type": 5
+  },
+  "9705074": {
+    "airassist_time": [],
+    "buff_list": [
+      801482
+    ],
+    "buff_list_display": [
+      801460,
+      801470,
+      801482
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970507,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 9705074,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 970507,
+    "type": 5
+  },
   "9706011": {
     "airassist_time": [
       20
@@ -136311,6 +138312,194 @@
     "star": 6,
     "star_max": 6,
     "strengthen_id": 970704,
+    "type": 7
+  },
+  "9707051": {
+    "airassist_time": [
+      23
+    ],
+    "buff_list": [],
+    "buff_list_display": [
+      801490,
+      801500,
+      801510,
+      801521
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970705,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 9707051,
+    "max_level": 100,
+    "oil_at_end": 14,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 970705,
+    "type": 7
+  },
+  "9707052": {
+    "airassist_time": [
+      24
+    ],
+    "buff_list": [
+      801521
+    ],
+    "buff_list_display": [
+      801490,
+      801500,
+      801510,
+      801521
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970705,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 9707052,
+    "max_level": 100,
+    "oil_at_end": 14,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 970705,
+    "type": 7
+  },
+  "9707053": {
+    "airassist_time": [
+      24,
+      24
+    ],
+    "buff_list": [
+      801521
+    ],
+    "buff_list_display": [
+      801490,
+      801500,
+      801510,
+      801521
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970705,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 9707053,
+    "max_level": 100,
+    "oil_at_end": 14,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 970705,
+    "type": 7
+  },
+  "9707054": {
+    "airassist_time": [
+      25,
+      25
+    ],
+    "buff_list": [
+      801522
+    ],
+    "buff_list_display": [
+      801490,
+      801500,
+      801510,
+      801522
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 970705,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 9707054,
+    "max_level": 100,
+    "oil_at_end": 14,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 970705,
     "type": 7
   },
   "9708011": {
@@ -148278,6 +150467,1084 @@
     "strengthen_id": 1100007,
     "type": 3
   },
+  "11100011": {
+    "airassist_time": [],
+    "buff_list": [
+      111010,
+      111020
+    ],
+    "buff_list_display": [
+      111010,
+      111020
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110001,
+    "hide_buff_list": [],
+    "id": 11100011,
+    "max_level": 70,
+    "oil_at_end": 6,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 1110001,
+    "type": 3
+  },
+  "11100012": {
+    "airassist_time": [],
+    "buff_list": [
+      111010,
+      111020
+    ],
+    "buff_list_display": [
+      111010,
+      111020
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110001,
+    "hide_buff_list": [],
+    "id": 11100012,
+    "max_level": 80,
+    "oil_at_end": 8,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 1110001,
+    "type": 3
+  },
+  "11100013": {
+    "airassist_time": [],
+    "buff_list": [
+      111010,
+      111020
+    ],
+    "buff_list_display": [
+      111010,
+      111020
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110001,
+    "hide_buff_list": [],
+    "id": 11100013,
+    "max_level": 90,
+    "oil_at_end": 10,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 1110001,
+    "type": 3
+  },
+  "11100014": {
+    "airassist_time": [],
+    "buff_list": [
+      111010,
+      111020
+    ],
+    "buff_list_display": [
+      111010,
+      111020
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      3
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110001,
+    "hide_buff_list": [],
+    "id": 11100014,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110001,
+    "type": 3
+  },
+  "11100021": {
+    "airassist_time": [],
+    "buff_list": [
+      111040,
+      111050
+    ],
+    "buff_list_display": [
+      111040,
+      111050
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110002,
+    "hide_buff_list": [],
+    "id": 11100021,
+    "max_level": 70,
+    "oil_at_end": 4,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 1110002,
+    "type": 1
+  },
+  "11100022": {
+    "airassist_time": [],
+    "buff_list": [
+      111040,
+      111050
+    ],
+    "buff_list_display": [
+      111040,
+      111050
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110002,
+    "hide_buff_list": [],
+    "id": 11100022,
+    "max_level": 80,
+    "oil_at_end": 6,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 1110002,
+    "type": 1
+  },
+  "11100023": {
+    "airassist_time": [],
+    "buff_list": [
+      111040,
+      111050
+    ],
+    "buff_list_display": [
+      111040,
+      111050
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110002,
+    "hide_buff_list": [],
+    "id": 11100023,
+    "max_level": 90,
+    "oil_at_end": 8,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 1110002,
+    "type": 1
+  },
+  "11100024": {
+    "airassist_time": [],
+    "buff_list": [
+      111040,
+      111050
+    ],
+    "buff_list_display": [
+      111040,
+      111050
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      1
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110002,
+    "hide_buff_list": [],
+    "id": 11100024,
+    "max_level": 100,
+    "oil_at_end": 10,
+    "oil_at_start": 1,
+    "specific_type": [
+      "AUX"
+    ],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110002,
+    "type": 1
+  },
+  "11100031": {
+    "airassist_time": [],
+    "buff_list": [
+      111070,
+      111090
+    ],
+    "buff_list_display": [
+      111070,
+      111090
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110003,
+    "hide_buff_list": [],
+    "id": 11100031,
+    "max_level": 70,
+    "oil_at_end": 5,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 1110003,
+    "type": 2
+  },
+  "11100032": {
+    "airassist_time": [],
+    "buff_list": [
+      111070,
+      111090
+    ],
+    "buff_list_display": [
+      111070,
+      111090
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110003,
+    "hide_buff_list": [],
+    "id": 11100032,
+    "max_level": 80,
+    "oil_at_end": 7,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 1110003,
+    "type": 2
+  },
+  "11100033": {
+    "airassist_time": [],
+    "buff_list": [
+      111070,
+      111090
+    ],
+    "buff_list_display": [
+      111070,
+      111090
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110003,
+    "hide_buff_list": [],
+    "id": 11100033,
+    "max_level": 90,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 1110003,
+    "type": 2
+  },
+  "11100034": {
+    "airassist_time": [],
+    "buff_list": [
+      111070,
+      111090
+    ],
+    "buff_list_display": [
+      111070,
+      111090
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      2
+    ],
+    "equip_2": [
+      5
+    ],
+    "equip_3": [
+      6
+    ],
+    "equip_4": [
+      10,
+      14
+    ],
+    "equip_5": [
+      10,
+      14
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110003,
+    "hide_buff_list": [],
+    "id": 11100034,
+    "max_level": 100,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110003,
+    "type": 2
+  },
+  "11100041": {
+    "airassist_time": [],
+    "buff_list": [
+      111100,
+      111120
+    ],
+    "buff_list_display": [
+      111100,
+      111120
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110004,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 11100041,
+    "max_level": 70,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 6,
+    "strengthen_id": 1110004,
+    "type": 5
+  },
+  "11100042": {
+    "airassist_time": [],
+    "buff_list": [
+      111100,
+      111120
+    ],
+    "buff_list_display": [
+      111100,
+      111120
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110004,
+    "hide_buff_list": [
+      1,
+      340
+    ],
+    "id": 11100042,
+    "max_level": 80,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 6,
+    "strengthen_id": 1110004,
+    "type": 5
+  },
+  "11100043": {
+    "airassist_time": [],
+    "buff_list": [
+      111100,
+      111120
+    ],
+    "buff_list_display": [
+      111100,
+      111120
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110004,
+    "hide_buff_list": [
+      1,
+      340
+    ],
+    "id": 11100043,
+    "max_level": 90,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 6,
+    "strengthen_id": 1110004,
+    "type": 5
+  },
+  "11100044": {
+    "airassist_time": [],
+    "buff_list": [
+      111100,
+      111120
+    ],
+    "buff_list_display": [
+      111100,
+      111120
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1,
+      2
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110004,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 11100044,
+    "max_level": 100,
+    "oil_at_end": 15,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 6,
+    "star_max": 6,
+    "strengthen_id": 1110004,
+    "type": 5
+  },
+  "11100051": {
+    "airassist_time": [],
+    "buff_list": [
+      111130,
+      111150
+    ],
+    "buff_list_display": [
+      111130,
+      111150
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110005,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 11100051,
+    "max_level": 70,
+    "oil_at_end": 7,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 2,
+    "star_max": 5,
+    "strengthen_id": 1110005,
+    "type": 4
+  },
+  "11100052": {
+    "airassist_time": [],
+    "buff_list": [
+      111130,
+      111150
+    ],
+    "buff_list_display": [
+      111130,
+      111150
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110005,
+    "hide_buff_list": [
+      1,
+      340
+    ],
+    "id": 11100052,
+    "max_level": 80,
+    "oil_at_end": 9,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 5,
+    "strengthen_id": 1110005,
+    "type": 4
+  },
+  "11100053": {
+    "airassist_time": [],
+    "buff_list": [
+      111130,
+      111150
+    ],
+    "buff_list_display": [
+      111130,
+      111150
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110005,
+    "hide_buff_list": [
+      1,
+      340
+    ],
+    "id": 11100053,
+    "max_level": 90,
+    "oil_at_end": 11,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 5,
+    "strengthen_id": 1110005,
+    "type": 4
+  },
+  "11100054": {
+    "airassist_time": [],
+    "buff_list": [
+      111130,
+      111150
+    ],
+    "buff_list_display": [
+      111130,
+      111150
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      4
+    ],
+    "equip_2": [
+      1
+    ],
+    "equip_3": [
+      6,
+      21
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110005,
+    "hide_buff_list": [
+      2,
+      340
+    ],
+    "id": 11100054,
+    "max_level": 100,
+    "oil_at_end": 13,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 1110005,
+    "type": 4
+  },
+  "11100061": {
+    "airassist_time": [
+      23
+    ],
+    "buff_list": [
+      111160,
+      111180
+    ],
+    "buff_list_display": [
+      111160,
+      111180
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110006,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 11100061,
+    "max_level": 70,
+    "oil_at_end": 6,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 2,
+    "star_max": 5,
+    "strengthen_id": 1110006,
+    "type": 7
+  },
+  "11100062": {
+    "airassist_time": [
+      24
+    ],
+    "buff_list": [
+      111160,
+      111180
+    ],
+    "buff_list_display": [
+      111160,
+      111180
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110006,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 11100062,
+    "max_level": 80,
+    "oil_at_end": 8,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 3,
+    "star_max": 5,
+    "strengthen_id": 1110006,
+    "type": 7
+  },
+  "11100063": {
+    "airassist_time": [
+      24,
+      24
+    ],
+    "buff_list": [
+      111160,
+      111180
+    ],
+    "buff_list_display": [
+      111160,
+      111180
+    ],
+    "can_get_proficency": 0,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110006,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 11100063,
+    "max_level": 90,
+    "oil_at_end": 10,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 4,
+    "star_max": 5,
+    "strengthen_id": 1110006,
+    "type": 7
+  },
+  "11100064": {
+    "airassist_time": [
+      25,
+      25
+    ],
+    "buff_list": [
+      111160,
+      111180
+    ],
+    "buff_list_display": [
+      111160,
+      111180
+    ],
+    "can_get_proficency": 1,
+    "energy": 150,
+    "equip_1": [
+      7
+    ],
+    "equip_2": [
+      9
+    ],
+    "equip_3": [
+      8
+    ],
+    "equip_4": [
+      10
+    ],
+    "equip_5": [
+      10
+    ],
+    "equip_id_1": 0,
+    "equip_id_2": 0,
+    "equip_id_3": 0,
+    "group_type": 1110006,
+    "hide_buff_list": [
+      340
+    ],
+    "id": 11100064,
+    "max_level": 100,
+    "oil_at_end": 12,
+    "oil_at_start": 1,
+    "specific_type": [],
+    "star": 5,
+    "star_max": 5,
+    "strengthen_id": 1110006,
+    "type": 7
+  },
   "__name": "ship_data_template",
   "all": [
     100001,
@@ -149920,6 +153187,14 @@
     401022,
     401023,
     401024,
+    401091,
+    401092,
+    401093,
+    401094,
+    401111,
+    401112,
+    401113,
+    401114,
     401161,
     401162,
     401163,
@@ -149980,6 +153255,10 @@
     401472,
     401473,
     401474,
+    401521,
+    401522,
+    401523,
+    401524,
     401991,
     401992,
     401993,
@@ -150021,6 +153300,10 @@
     402102,
     402103,
     402104,
+    402111,
+    402112,
+    402113,
+    402114,
     403011,
     403012,
     403013,
@@ -150149,6 +153432,10 @@
     407032,
     407033,
     407034,
+    407041,
+    407042,
+    407043,
+    407044,
     408011,
     408012,
     408013,
@@ -150891,6 +154178,20 @@
     900466,
     900467,
     900468,
+    900469,
+    900470,
+    900471,
+    900472,
+    900473,
+    900474,
+    900475,
+    900476,
+    900477,
+    900478,
+    900479,
+    900480,
+    900481,
+    900482,
     900801,
     900802,
     900803,
@@ -150900,6 +154201,7 @@
     900807,
     900808,
     900809,
+    900810,
     900907,
     900908,
     900909,
@@ -151018,6 +154320,10 @@
     9703042,
     9703043,
     9703044,
+    9703051,
+    9703052,
+    9703053,
+    9703054,
     9704011,
     9704012,
     9704013,
@@ -151062,6 +154368,10 @@
     9705062,
     9705063,
     9705064,
+    9705071,
+    9705072,
+    9705073,
+    9705074,
     9706011,
     9706012,
     9706013,
@@ -151094,6 +154404,10 @@
     9707042,
     9707043,
     9707044,
+    9707051,
+    9707052,
+    9707053,
+    9707054,
     9708011,
     9708012,
     9708013,
@@ -151384,6 +154698,30 @@
     11000072,
     11000073,
     11000074,
+    11100011,
+    11100012,
+    11100013,
+    11100014,
+    11100021,
+    11100022,
+    11100023,
+    11100024,
+    11100031,
+    11100032,
+    11100033,
+    11100034,
+    11100041,
+    11100042,
+    11100043,
+    11100044,
+    11100051,
+    11100052,
+    11100053,
+    11100054,
+    11100061,
+    11100062,
+    11100063,
+    11100064,
     299011,
     299012,
     299013,

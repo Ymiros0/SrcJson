@@ -992,7 +992,7 @@
     "game_room": 0,
     "hub_id": 38,
     "id": 33,
-    "is_ranking": 0,
+    "is_ranking": 1,
     "mediator_name": "MiniHubMediator",
     "name": "冰壶小游戏",
     "request_data": 0,
@@ -2448,6 +2448,190 @@
     "type": 2,
     "view_name": "BoatAdGameView"
   },
+  "69": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": "",
+    "game_room": 0,
+    "hub_id": 59,
+    "id": 69,
+    "is_ranking": 1,
+    "mediator_name": "MiniHubMediator",
+    "name": "tolove联动小游戏",
+    "request_data": 0,
+    "simple_config_data": {
+      "drop_ids": [
+        [
+          5,
+          316303,
+          1
+        ],
+        [
+          2,
+          54049,
+          2
+        ],
+        [
+          5,
+          316306,
+          1
+        ],
+        [
+          1,
+          1,
+          500
+        ],
+        [
+          2,
+          30362,
+          1
+        ],
+        [
+          2,
+          54016,
+          10
+        ],
+        [
+          5,
+          316307,
+          1
+        ]
+      ],
+      "story": [
+        [
+          "WEIXIANFAMINGPOJINZHONGRICHANG1"
+        ],
+        [
+          "WEIXIANFAMINGPOJINZHONGRICHANG2"
+        ],
+        [
+          "WEIXIANFAMINGPOJINZHONGRICHANG3"
+        ],
+        [
+          "WEIXIANFAMINGPOJINZHONGRICHANG4"
+        ],
+        [
+          "WEIXIANFAMINGPOJINZHONGRICHANG5"
+        ],
+        [
+          "WEIXIANFAMINGPOJINZHONGRICHANG6"
+        ],
+        []
+      ]
+    },
+    "type": 2,
+    "view_name": "ToLoveGameView"
+  },
+  "70": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": [
+      0,
+      [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      1
+    ],
+    "game_room": 0,
+    "hub_id": 60,
+    "id": 70,
+    "is_ranking": 0,
+    "mediator_name": "MiniHubMediator",
+    "name": "2024神社舰娘许愿",
+    "request_data": 1,
+    "simple_config_data": [
+      8,
+      65066,
+      1
+    ],
+    "type": 5,
+    "view_name": "Shrine2022View"
+  },
+  "71": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": [
+      5,
+      [
+        10,
+        11,
+        12
+      ],
+      2
+    ],
+    "game_room": 0,
+    "hub_id": 60,
+    "id": 71,
+    "is_ranking": 0,
+    "mediator_name": "MiniHubMediator",
+    "name": "2024神社指挥官许愿",
+    "request_data": 1,
+    "simple_config_data": {
+      "shipGameID": 70,
+      "target": 100000
+    },
+    "type": 3,
+    "view_name": "Shrine2022View"
+  },
+  "72": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": "",
+    "game_room": 0,
+    "hub_id": 60,
+    "id": 72,
+    "is_ranking": 0,
+    "mediator_name": "MiniHubMediator",
+    "name": "冰壶小游戏",
+    "request_data": 0,
+    "simple_config_data": {
+      "drop": [
+        [
+          1,
+          449,
+          15
+        ],
+        [
+          1,
+          449,
+          15
+        ],
+        [
+          5,
+          317304,
+          1
+        ],
+        [
+          1,
+          449,
+          25
+        ],
+        [
+          1,
+          449,
+          25
+        ],
+        [
+          1,
+          449,
+          25
+        ],
+        [
+          5,
+          317107,
+          1
+        ]
+      ]
+    },
+    "type": 2,
+    "view_name": "CurlingGameView"
+  },
   "1001": {
     "config_csv": "",
     "config_csv_key": "",
@@ -3045,6 +3229,10 @@
     66,
     67,
     68,
+    69,
+    70,
+    71,
+    72,
     1001,
     1002,
     1003,

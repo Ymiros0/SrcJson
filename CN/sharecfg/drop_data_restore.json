@@ -3860,6 +3860,168 @@
     "target_type": 5,
     "type": 1
   },
+  "508": {
+    "drop_id": 0,
+    "id": 508,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "target_id": 322,
+    "target_type": 14,
+    "type": 1
+  },
+  "509": {
+    "drop_id": 998310,
+    "id": 509,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 407041,
+    "target_type": 7,
+    "type": 1
+  },
+  "510": {
+    "drop_id": 998310,
+    "id": 510,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 405013,
+    "target_type": 7,
+    "type": 1
+  },
+  "511": {
+    "drop_id": 998310,
+    "id": 511,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 499053,
+    "target_type": 7,
+    "type": 1
+  },
+  "512": {
+    "drop_id": 998310,
+    "id": 512,
+    "resource_num": 980,
+    "resource_type": 14,
+    "target_id": 401521,
+    "target_type": 7,
+    "type": 1
+  },
+  "513": {
+    "drop_id": 998310,
+    "id": 513,
+    "resource_num": 980,
+    "resource_type": 14,
+    "target_id": 402111,
+    "target_type": 7,
+    "type": 1
+  },
+  "514": {
+    "drop_id": 998310,
+    "id": 514,
+    "resource_num": 980,
+    "resource_type": 14,
+    "target_id": 207054,
+    "target_type": 7,
+    "type": 1
+  },
+  "515": {
+    "drop_id": 998310,
+    "id": 515,
+    "resource_num": 880,
+    "resource_type": 14,
+    "target_id": 201354,
+    "target_type": 7,
+    "type": 1
+  },
+  "516": {
+    "drop_id": 998310,
+    "id": 516,
+    "resource_num": 780,
+    "resource_type": 14,
+    "target_id": 401091,
+    "target_type": 7,
+    "type": 1
+  },
+  "517": {
+    "drop_id": 998310,
+    "id": 517,
+    "resource_num": 780,
+    "resource_type": 14,
+    "target_id": 401111,
+    "target_type": 7,
+    "type": 1
+  },
+  "518": {
+    "drop_id": 998311,
+    "id": 518,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 307084,
+    "target_type": 7,
+    "type": 1
+  },
+  "519": {
+    "drop_id": 998311,
+    "id": 519,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 699021,
+    "target_type": 7,
+    "type": 1
+  },
+  "520": {
+    "drop_id": 998311,
+    "id": 520,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 799021,
+    "target_type": 7,
+    "type": 1
+  },
+  "521": {
+    "drop_id": 998311,
+    "id": 521,
+    "resource_num": 980,
+    "resource_type": 14,
+    "target_id": 199051,
+    "target_type": 7,
+    "type": 1
+  },
+  "522": {
+    "drop_id": 998311,
+    "id": 522,
+    "resource_num": 980,
+    "resource_type": 14,
+    "target_id": 399071,
+    "target_type": 7,
+    "type": 1
+  },
+  "523": {
+    "drop_id": 998311,
+    "id": 523,
+    "resource_num": 880,
+    "resource_type": 14,
+    "target_id": 899041,
+    "target_type": 7,
+    "type": 1
+  },
+  "524": {
+    "drop_id": 998311,
+    "id": 524,
+    "resource_num": 880,
+    "resource_type": 14,
+    "target_id": 402102,
+    "target_type": 7,
+    "type": 1
+  },
+  "525": {
+    "drop_id": 998311,
+    "id": 525,
+    "resource_num": 880,
+    "resource_type": 14,
+    "target_id": 303061,
+    "target_type": 7,
+    "type": 1
+  },
   "1020": {
     "drop_id": 8249,
     "id": 1020,
@@ -3948,6 +4110,114 @@
     "resource_type": 14,
     "target_id": 213,
     "target_type": 5,
+    "type": 1
+  },
+  "1320": {
+    "drop_id": 998308,
+    "id": 1320,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 307083,
+    "target_type": 7,
+    "type": 1
+  },
+  "1321": {
+    "drop_id": 998308,
+    "id": 1321,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 303191,
+    "target_type": 7,
+    "type": 1
+  },
+  "1322": {
+    "drop_id": 998308,
+    "id": 1322,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 805031,
+    "target_type": 7,
+    "type": 1
+  },
+  "1323": {
+    "drop_id": 998308,
+    "id": 1323,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 499091,
+    "target_type": 7,
+    "type": 1
+  },
+  "1324": {
+    "drop_id": 998308,
+    "id": 1324,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 901071,
+    "target_type": 7,
+    "type": 1
+  },
+  "1325": {
+    "drop_id": 998308,
+    "id": 1325,
+    "resource_num": 1080,
+    "resource_type": 14,
+    "target_id": 102134,
+    "target_type": 7,
+    "type": 1
+  },
+  "1326": {
+    "drop_id": 998308,
+    "id": 1326,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 118021,
+    "target_type": 7,
+    "type": 1
+  },
+  "1327": {
+    "drop_id": 998308,
+    "id": 1327,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 137060,
+    "target_type": 7,
+    "type": 1
+  },
+  "1328": {
+    "drop_id": 998308,
+    "id": 1328,
+    "resource_num": 1080,
+    "resource_type": 14,
+    "target_id": 102053,
+    "target_type": 7,
+    "type": 1
+  },
+  "1329": {
+    "drop_id": 998308,
+    "id": 1329,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 301891,
+    "target_type": 7,
+    "type": 1
+  },
+  "1330": {
+    "drop_id": 998308,
+    "id": 1330,
+    "resource_num": 1080,
+    "resource_type": 14,
+    "target_id": 319013,
+    "target_type": 7,
+    "type": 1
+  },
+  "1331": {
+    "drop_id": 998308,
+    "id": 1331,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "target_id": 199041,
+    "target_type": 7,
     "type": 1
   },
   "5000": {
@@ -4139,12 +4409,57 @@
     "target_type": 7,
     "type": 1
   },
+  "5021": {
+    "drop_id": 904641,
+    "id": 5021,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "target_id": 201235,
+    "target_type": 7,
+    "type": 1
+  },
   "6000": {
     "drop_id": 65228,
     "id": 6000,
     "resource_num": 1000,
     "resource_type": 1,
     "target_id": 191,
+    "target_type": 5,
+    "type": 1
+  },
+  "6001": {
+    "drop_id": 94054,
+    "id": 6001,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "target_id": 19,
+    "target_type": 5,
+    "type": 1
+  },
+  "6002": {
+    "drop_id": 94055,
+    "id": 6002,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "target_id": 22,
+    "target_type": 5,
+    "type": 1
+  },
+  "6003": {
+    "drop_id": 94056,
+    "id": 6003,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "target_id": 21,
+    "target_type": 5,
+    "type": 1
+  },
+  "6004": {
+    "drop_id": 94057,
+    "id": 6004,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "target_id": 20,
     "target_type": 5,
     "type": 1
   },
@@ -4902,6 +5217,24 @@
     505,
     506,
     507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
     1020,
     1142,
     1143,
@@ -4912,6 +5245,18 @@
     1148,
     1164,
     1178,
+    1320,
+    1321,
+    1322,
+    1323,
+    1324,
+    1325,
+    1326,
+    1327,
+    1328,
+    1329,
+    1330,
+    1331,
     5000,
     5001,
     5002,
@@ -4933,7 +5278,12 @@
     5018,
     5019,
     5020,
+    5021,
     6000,
+    6001,
+    6002,
+    6003,
+    6004,
     7001,
     7002,
     7003,

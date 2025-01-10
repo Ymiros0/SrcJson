@@ -7564,6 +7564,625 @@
     "type": 1,
     "type_order": 2
   },
+  "80": {
+    "airijp_id": "com.yostarjp.azurlane.diamond168",
+    "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
+    "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        86411,
+        1
+      ],
+      [
+        1,
+        14,
+        2024
+      ],
+      [
+        2,
+        42066,
+        2
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81419,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86411,
+        1
+      ],
+      [
+        1,
+        14,
+        2024
+      ],
+      [
+        2,
+        42066,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        35
+      ],
+      [
+        2,
+        15003,
+        12
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 80,
+    "id_str": "com.bilibili.blhx.zuanshi180",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "豪华冬至促销礼盒(2024)",
+    "name_display": "豪华冬至促销礼盒(2024)",
+    "picture": "fudai17",
+    "show_group": "",
+    "skin_inquire_relation": 86411,
+    "sub_display": [],
+    "subject": "豪华冬至促销礼盒(2024)",
+    "tag": 2,
+    "time": "stop",
+    "type": 1,
+    "type_order": 2
+  },
+  "81": {
+    "airijp_id": "com.yostarjp.azurlane.diamond169",
+    "descrip": "可获得列表中未拥有的L2D换装*1（拥有列表中所有换装则转换为获得钻石）和其他奖励",
+    "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*拥有列表中的所有换装则转换为获得1080钻石。",
+    "display": [
+      [
+        2,
+        86412,
+        1
+      ],
+      [
+        1,
+        2,
+        1000
+      ],
+      [
+        2,
+        15008,
+        20
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81420,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86412,
+        1
+      ],
+      [
+        1,
+        1,
+        2000
+      ],
+      [
+        1,
+        2,
+        1000
+      ],
+      [
+        2,
+        15008,
+        20
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 81,
+    "id_str": "com.bilibili.blhx.zuanshi181",
+    "ignorePlatform": [],
+    "limit_arg": 2,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 68,
+    "name": "冬至促销礼盒(2024)",
+    "name_display": "冬至促销礼盒(2024)",
+    "picture": "fudai18",
+    "show_group": "",
+    "skin_inquire_relation": 86412,
+    "sub_display": [],
+    "subject": "冬至促销礼盒(2024)",
+    "tag": 2,
+    "time": "stop",
+    "type": 1,
+    "type_order": 2
+  },
+  "82": {
+    "airijp_id": "com.yostarjp.azurlane.diamond170",
+    "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        86208,
+        1
+      ],
+      [
+        1,
+        14,
+        2025
+      ],
+      [
+        2,
+        42066,
+        2
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81208,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86208,
+        1
+      ],
+      [
+        1,
+        14,
+        2025
+      ],
+      [
+        2,
+        42066,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 82,
+    "id_str": "com.bilibili.blhx.zuanshi182",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "港区游戏之夜礼盒·I",
+    "name_display": "港区游戏之夜礼盒·I",
+    "picture": "fudai19",
+    "show_group": "",
+    "skin_inquire_relation": 86208,
+    "sub_display": [],
+    "subject": "港区游戏之夜礼盒·I",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 1,
+    "type_order": 2
+  },
+  "83": {
+    "airijp_id": "com.yostarjp.azurlane.diamond171",
+    "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
+    "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        86200,
+        1
+      ],
+      [
+        1,
+        14,
+        2024
+      ],
+      [
+        2,
+        42056,
+        2
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81200,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86200,
+        1
+      ],
+      [
+        1,
+        14,
+        2024
+      ],
+      [
+        2,
+        42056,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 83,
+    "id_str": "com.bilibili.blhx.zuanshi183",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "绚烂缤纷夜福袋·I复刻",
+    "name_display": "绚烂缤纷夜福袋·I复刻",
+    "picture": "fudai9",
+    "show_group": "",
+    "skin_inquire_relation": 86200,
+    "sub_display": [],
+    "subject": "绚烂缤纷夜福袋·I复刻",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 1,
+    "type_order": 2
+  },
+  "84": {
+    "airijp_id": "com.yostarjp.azurlane.diamond172",
+    "descrip": "可获得一件角色换装，2025钻，和大量其他奖励",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        86209,
+        1
+      ],
+      [
+        1,
+        14,
+        2025
+      ],
+      [
+        2,
+        42066,
+        2
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81209,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86209,
+        1
+      ],
+      [
+        1,
+        14,
+        2025
+      ],
+      [
+        2,
+        42066,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 84,
+    "id_str": "com.bilibili.blhx.zuanshi184",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "港区游戏之夜礼盒·II",
+    "name_display": "港区游戏之夜礼盒·II",
+    "picture": "fudai20",
+    "show_group": "",
+    "skin_inquire_relation": 86209,
+    "sub_display": [],
+    "subject": "港区游戏之夜礼盒·II",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          26
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 1,
+    "type_order": 2
+  },
+  "85": {
+    "airijp_id": "com.yostarjp.azurlane.diamond173",
+    "descrip": "可获得一件角色换装，2024钻，和大量其他奖励",
+    "descrip_extra": "*福袋将发送到邮箱，请注意查收。\n*重复获得已拥有的换装时，则自动置换成等价的钻石。",
+    "display": [
+      [
+        2,
+        86201,
+        1
+      ],
+      [
+        1,
+        14,
+        2024
+      ],
+      [
+        2,
+        42056,
+        2
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81201,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86201,
+        1
+      ],
+      [
+        1,
+        14,
+        2024
+      ],
+      [
+        2,
+        42056,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 85,
+    "id_str": "com.bilibili.blhx.zuanshi185",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 198,
+    "name": "绚烂缤纷夜福袋·II复刻",
+    "name_display": "绚烂缤纷夜福袋·II复刻",
+    "picture": "fudai10",
+    "show_group": "",
+    "skin_inquire_relation": 86201,
+    "sub_display": [],
+    "subject": "绚烂缤纷夜福袋·II复刻",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          26
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 1,
+    "type_order": 2
+  },
   "1000": {
     "airijp_id": "com.yostarjp.azurlane.seasonpass1",
     "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励:约克城限定换装和其他奖励",
@@ -8997,6 +9616,82 @@
           2024,
           11,
           30
+        ],
+        [
+          22,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 0,
+    "type_order": 4
+  },
+  "1019": {
+    "airijp_id": "com.yostarjp.azurlane.seasonpass20",
+    "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·威悉限定换装和其他奖励",
+    "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
+    "display": [
+      [
+        8,
+        59599,
+        1500
+      ]
+    ],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 4,
+    "extra_service_item": [
+      [
+        1,
+        4020,
+        1500
+      ],
+      [
+        8,
+        65057,
+        1
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 1019,
+    "id_str": "com.bilibili.blhx.battlepass21",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 68,
+    "name": "特许巡游凭证(2024.12)",
+    "name_display": "特许巡游凭证",
+    "picture": "battlepass_1",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [
+      7020,
+      1500
+    ],
+    "subject": "特许巡游凭证",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          31
         ],
         [
           22,
@@ -11688,6 +12383,450 @@
     "type": 0,
     "type_order": 5
   },
+  "2036": {
+    "airijp_id": "com.yostarjp.azurlane.package121",
+    "descrip": "可获得大量教材奖励",
+    "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        2,
+        16004,
+        1
+      ],
+      [
+        2,
+        16014,
+        1
+      ],
+      [
+        2,
+        16024,
+        1
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40023,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        16004,
+        1
+      ],
+      [
+        2,
+        16014,
+        1
+      ],
+      [
+        2,
+        16024,
+        1
+      ],
+      [
+        2,
+        16003,
+        3
+      ],
+      [
+        2,
+        16013,
+        3
+      ],
+      [
+        2,
+        16023,
+        3
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 2036,
+    "id_str": "com.bilibili.blhx.libao121",
+    "ignorePlatform": [],
+    "limit_arg": 4,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 18,
+    "name": "舰艇教材礼包(2024冬)",
+    "name_display": "舰艇教材礼包",
+    "picture": "boxSkill",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "舰艇教材礼包",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          11,
+          21
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          4,
+          16
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 0,
+    "type_order": 0
+  },
+  "2037": {
+    "airijp_id": "com.yostarjp.azurlane.ui3",
+    "descrip": "可获得战斗界面主题 圣诞雪境*1",
+    "descrip_extra": "此处不会被看到",
+    "display": [
+      [
+        31,
+        201,
+        1
+      ]
+    ],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        31,
+        201,
+        1
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 2037,
+    "id_str": "com.bilibili.blhx.ui3",
+    "ignorePlatform": [],
+    "limit_arg": 0,
+    "limit_args": [],
+    "limit_group": 102,
+    "limit_type": 5,
+    "money": 78,
+    "name": "圣诞雪境主题礼包",
+    "name_display": "圣诞雪境主题礼包",
+    "picture": "ui2",
+    "show_group": "uigift",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "圣诞雪境主题礼包",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 0,
+    "type_order": 4
+  },
+  "2038": {
+    "airijp_id": "com.yostarjp.azurlane.ui4",
+    "descrip": "可获得战斗界面主题 圣诞雪境*1",
+    "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        31,
+        201,
+        1
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40051,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        31,
+        201,
+        1
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 2038,
+    "id_str": "com.bilibili.blhx.ui4",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 102,
+    "limit_type": 5,
+    "money": 78,
+    "name": "圣诞雪境主题礼包（基础版）",
+    "name_display": "圣诞雪境主题礼包（基础版）",
+    "picture": "ui2",
+    "show_group": "uigift",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "圣诞雪境主题礼包（基础版）",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 0,
+    "type_order": 4
+  },
+  "2039": {
+    "airijp_id": "com.yostarjp.azurlane.ui5",
+    "descrip": "可获得战斗界面主题 圣诞雪境*1,3060钻石",
+    "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        31,
+        201,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40052,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        31,
+        201,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 2039,
+    "id_str": "com.bilibili.blhx.ui5",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 102,
+    "limit_type": 5,
+    "money": 258,
+    "name": "圣诞雪境主题礼包（豪华版）",
+    "name_display": "圣诞雪境主题礼包（豪华版）",
+    "picture": "ui2",
+    "show_group": "uigift",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "圣诞雪境主题礼包（豪华版）",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 0,
+    "type_order": 4
+  },
+  "2040": {
+    "airijp_id": "com.yostarjp.azurlane.package122",
+    "descrip": "可获得3880钻，和特装型布里MKIII*1和其他奖励",
+    "descrip_extra": "*礼包将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        1,
+        14,
+        3880
+      ],
+      [
+        4,
+        100021,
+        1
+      ],
+      [
+        4,
+        100011,
+        2
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40053,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        1,
+        14,
+        3880
+      ],
+      [
+        4,
+        100021,
+        1
+      ],
+      [
+        4,
+        100011,
+        2
+      ],
+      [
+        2,
+        15012,
+        150
+      ],
+      [
+        2,
+        16502,
+        60
+      ],
+      [
+        2,
+        30113,
+        150
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 2040,
+    "id_str": "com.bilibili.blhx.libao122",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 258,
+    "name": "冬至礼包(2024冬)",
+    "name_display": "冬至礼包(2024冬)",
+    "picture": "dongzhi3",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "冬至礼包(2024冬)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          12,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          1,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 0,
+    "type_order": 0
+  },
   "5001": {
     "airijp_id": "com.yostarjp.azurlane.package201",
     "descrip": "可获得60钻，高级定向蓝图·五期*2",
@@ -12081,6 +13220,399 @@
     "type": 0,
     "type_order": 0
   },
+  "5011": {
+    "airijp_id": "com.yostarjp.azurlane.package211",
+    "descrip": "购买礼包可获得60钻，高级定向蓝图·六期*2",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        2,
+        42056,
+        2
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81410,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        42056,
+        2
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5011,
+    "id_str": "com.bilibili.blhx.libao211",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包I(2024)",
+    "name_display": "促销礼包I",
+    "picture": "pack_day1",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包I",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
+  "5012": {
+    "airijp_id": "com.yostarjp.azurlane.package212",
+    "descrip": "购买礼包可获得200钻",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        1,
+        14,
+        200
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81411,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        1,
+        14,
+        200
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5012,
+    "id_str": "com.bilibili.blhx.libao212",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包II(2024)",
+    "name_display": "促销礼包II",
+    "picture": "pack_day2",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包II",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
+  "5013": {
+    "airijp_id": "com.yostarjp.azurlane.package213",
+    "descrip": "购买礼包可获得定向部件T4*5，心智单元*200",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        2,
+        30114,
+        5
+      ],
+      [
+        2,
+        15008,
+        200
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81412,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        30114,
+        5
+      ],
+      [
+        2,
+        15008,
+        200
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5013,
+    "id_str": "com.bilibili.blhx.libao213",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包III(2024)",
+    "name_display": "促销礼包III",
+    "picture": "pack_day3",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包III",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
+  "5014": {
+    "airijp_id": "com.yostarjp.azurlane.package214",
+    "descrip": "购买礼包可获得60钻，试作型布里MKII*1",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        4,
+        100011,
+        1
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81413,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        4,
+        100011,
+        1
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5014,
+    "id_str": "com.bilibili.blhx.libao214",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包IV(2024)",
+    "name_display": "促销礼包IV",
+    "picture": "pack_day4",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包IV",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
+  "5015": {
+    "airijp_id": "com.yostarjp.azurlane.package215",
+    "descrip": "购买礼包可获得舰艇演习数据T2*60",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        2,
+        16502,
+        60
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81414,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        16502,
+        60
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5015,
+    "id_str": "com.bilibili.blhx.libao215",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包V(2024)",
+    "name_display": "促销礼包V",
+    "picture": "pack_day5",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包V",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
+  "5016": {
+    "airijp_id": "com.yostarjp.azurlane.package216",
+    "descrip": "购买礼包可获得心智魔方*10，快速完成工具*5",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        2,
+        20001,
+        10
+      ],
+      [
+        2,
+        15003,
+        5
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81415,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        20001,
+        10
+      ],
+      [
+        2,
+        15003,
+        5
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5016,
+    "id_str": "com.bilibili.blhx.libao216",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包VI(2024)",
+    "name_display": "促销礼包VI",
+    "picture": "pack_day6",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包VI",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
+  "5017": {
+    "airijp_id": "com.yostarjp.azurlane.package217",
+    "descrip": "购买礼包可获得60钻，高级定向蓝图·七期*2",
+    "descrip_extra": "*礼盒将发送到邮箱，请注意查收。",
+    "display": [
+      [
+        2,
+        42066,
+        2
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81416,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        42066,
+        2
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "first_pay_double": 0,
+    "gem": 0,
+    "id": 5017,
+    "id_str": "com.bilibili.blhx.libao217",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 6,
+    "name": "促销礼包VII(2024)",
+    "name_display": "促销礼包VII",
+    "picture": "pack_day7",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": "",
+    "subject": "促销礼包VII",
+    "tag": 2,
+    "time": "stop",
+    "type": 0,
+    "type_order": 5
+  },
   "all": [
     1,
     2,
@@ -12154,6 +13686,12 @@
     74,
     75,
     76,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
     1000,
     1001,
     1002,
@@ -12173,6 +13711,7 @@
     1016,
     1017,
     1018,
+    1019,
     2001,
     2002,
     2003,
@@ -12208,12 +13747,24 @@
     2033,
     2034,
     2035,
+    2036,
+    2037,
+    2038,
+    2039,
+    2040,
     5001,
     5002,
     5003,
     5004,
     5005,
     5006,
-    5007
+    5007,
+    5011,
+    5012,
+    5013,
+    5014,
+    5015,
+    5016,
+    5017
   ]
 }

@@ -1,4 +1,9 @@
 {
+  "ActiveStarlightHomepage": {
+    "bgm": "story-ironblood-strong",
+    "default_bgm": "story-ironblood-strong",
+    "special_bgm": ""
+  },
   "ActivityBossAisaikesiScene": {
     "bgm": "main",
     "default_bgm": "main",
@@ -64,9 +69,14 @@
     "default_bgm": "theme-lightheven",
     "special_bgm": ""
   },
+  "AirForceActivityPage": {
+    "bgm": "theme-donghuang",
+    "default_bgm": "theme-donghuang",
+    "special_bgm": ""
+  },
   "AirForceOfDragonEmperyUI": {
-    "bgm": "story-richang",
-    "default_bgm": "story-richang",
+    "bgm": "theme-donghuang",
+    "default_bgm": "theme-donghuang",
     "special_bgm": ""
   },
   "AmagiACTaskPage": {
@@ -194,9 +204,19 @@
     "default_bgm": "theme-warmwinter-daily",
     "special_bgm": ""
   },
+  "BlackFridaySalesScene": {
+    "bgm": "theme-warmwinter-daily",
+    "default_bgm": "theme-warmwinter-daily",
+    "special_bgm": ""
+  },
   "BlackFridayWithManualSignPage": {
     "bgm": "bar-soft",
     "default_bgm": "bar-soft",
+    "special_bgm": ""
+  },
+  "BlackFridayWithManualSignPage_2024": {
+    "bgm": "theme-warmwinter-daily",
+    "default_bgm": "theme-warmwinter-daily",
     "special_bgm": ""
   },
   "BlackFridayWithManualSignPageInCH": {
@@ -324,6 +344,16 @@
     "default_bgm": "Blueocean-image",
     "special_bgm": ""
   },
+  "CryptolaliaScene": {
+    "bgm": "story-richang-quiet",
+    "default_bgm": "story-richang-quiet",
+    "special_bgm": ""
+  },
+  "CurlingGameView": {
+    "bgm": "bar-soft",
+    "default_bgm": "bar-soft",
+    "special_bgm": ""
+  },
   "DailyLevelScene": {
     "bgm": "level",
     "default_bgm": "level",
@@ -372,6 +402,16 @@
   "DexiV5PtPage": {
     "bgm": "theme-bismark-reborn",
     "default_bgm": "theme-bismark-reborn",
+    "special_bgm": ""
+  },
+  "DexiV6FramePage": {
+    "bgm": "story-ironblood-strong",
+    "default_bgm": "story-ironblood-strong",
+    "special_bgm": ""
+  },
+  "DeXiV6TaskPage": {
+    "bgm": "theme-akagi-meta",
+    "default_bgm": "theme-akagi-meta",
     "special_bgm": ""
   },
   "DOALinkIslandScene": {
@@ -629,6 +669,26 @@
     "default_bgm": "battle-longgong",
     "special_bgm": ""
   },
+  "JapanV3FrameRePage": {
+    "bgm": "theme-misaka",
+    "default_bgm": "theme-misaka",
+    "special_bgm": ""
+  },
+  "JapanV3PtPage": {
+    "bgm": "story-mayrain",
+    "default_bgm": "story-mayrain",
+    "special_bgm": ""
+  },
+  "JapanV3REMainPage": {
+    "bgm": "story-maystorm",
+    "default_bgm": "story-maystorm",
+    "special_bgm": ""
+  },
+  "JapanV3SkinPage": {
+    "bgm": "story-richang-light",
+    "default_bgm": "story-richang-light",
+    "special_bgm": ""
+  },
   "JavelinDressSkinPage": {
     "bgm": "theme-partydress",
     "default_bgm": "theme-partydress",
@@ -834,6 +894,11 @@
     "default_bgm": "azumaster-ins",
     "special_bgm": ""
   },
+  "NavalAcademyScene": {
+    "bgm": "newyear2",
+    "default_bgm": "newyear2",
+    "special_bgm": ""
+  },
   "NenjuuMiniGameView": {
     "bgm": "main-chunjie2",
     "default_bgm": "main-chunjie2",
@@ -845,8 +910,8 @@
     "special_bgm": ""
   },
   "NewMainScene": {
-    "bgm": "main",
-    "default_bgm": "main",
+    "bgm": "newyear2",
+    "default_bgm": "newyear2",
     "special_bgm": ""
   },
   "NewMeixiV4frameRePage": {
@@ -879,6 +944,11 @@
     "default_bgm": "main",
     "special_bgm": ""
   },
+  "NewPlymouthTecCatchupPage": {
+    "bgm": "theme-designshipVI",
+    "default_bgm": "theme-designshipVI",
+    "special_bgm": ""
+  },
   "NewServerLoginPage": {
     "bgm": "story-musicanniversary-gorgeous",
     "default_bgm": "story-musicanniversary-gorgeous",
@@ -890,8 +960,8 @@
     "special_bgm": ""
   },
   "NewShopsScene": {
-    "bgm": "story-tempest-marching",
-    "default_bgm": "story-tempest-marching",
+    "bgm": "story-ironblood-light",
+    "default_bgm": "story-ironblood-light",
     "special_bgm": ""
   },
   "NewYear24LoginPage": {
@@ -930,6 +1000,11 @@
     "special_bgm": ""
   },
   "NewYearShrinePage2024": {
+    "bgm": "newyear2",
+    "default_bgm": "newyear2",
+    "special_bgm": ""
+  },
+  "NewYearShrinePage2025": {
     "bgm": "newyear2",
     "default_bgm": "newyear2",
     "special_bgm": ""
@@ -1009,6 +1084,16 @@
     "default_bgm": "level02",
     "special_bgm": ""
   },
+  "PuzzleConnectLayer": {
+    "bgm": "story-richang-refreshing",
+    "default_bgm": "story-richang-refreshing",
+    "special_bgm": ""
+  },
+  "PuzzleConnectPlayingUI": {
+    "bgm": "story-richang-refreshing",
+    "default_bgm": "story-richang-refreshing",
+    "special_bgm": ""
+  },
   "RacePage": {
     "bgm": "story-richang-7",
     "default_bgm": "story-richang-7",
@@ -1032,6 +1117,11 @@
   "RuiFengSpPage": {
     "bgm": "story-newsakura",
     "default_bgm": "story-newsakura",
+    "special_bgm": ""
+  },
+  "RuoyueLoginRePage": {
+    "bgm": "musashi-1",
+    "default_bgm": "musashi-1",
     "special_bgm": ""
   },
   "RupprechtTecCatchupPage": {
@@ -1194,6 +1284,16 @@
     "default_bgm": "story-richang-11",
     "special_bgm": ""
   },
+  "SkinMagazinePage6": {
+    "bgm": "story-richang-light",
+    "default_bgm": "story-richang-light",
+    "special_bgm": ""
+  },
+  "SkinMagazinePage7": {
+    "bgm": "story-richang-partynight",
+    "default_bgm": "story-richang-partynight",
+    "special_bgm": ""
+  },
   "SkinMagazinePageSummerRacing": {
     "bgm": "story-richang-light",
     "default_bgm": "story-richang-light",
@@ -1264,6 +1364,11 @@
     "default_bgm": "ssss-az-story",
     "special_bgm": ""
   },
+  "StarlightAccumulate": {
+    "bgm": "story-ironblood-light",
+    "default_bgm": "story-ironblood-light",
+    "special_bgm": ""
+  },
   "StarSeaFacilityPage": {
     "bgm": "blueocean-image",
     "default_bgm": "blueocean-image",
@@ -1314,6 +1419,26 @@
     "default_bgm": "story-fantasyland-light",
     "special_bgm": ""
   },
+  "ToLoveCollabBackHillScene": {
+    "bgm": "main",
+    "default_bgm": "main",
+    "special_bgm": ""
+  },
+  "ToloveCollectPage": {
+    "bgm": "story-richang-rosy-short",
+    "default_bgm": "story-richang-rosy-short",
+    "special_bgm": ""
+  },
+  "ToLoveMainPage": {
+    "bgm": "story-richang-rosy-short",
+    "default_bgm": "story-richang-rosy-short",
+    "special_bgm": ""
+  },
+  "ToLovePtPage": {
+    "bgm": "story-richang-rosy-short",
+    "default_bgm": "story-richang-rosy-short",
+    "special_bgm": ""
+  },
   "TongXinSpringLayer": {
     "bgm": "story-richang-10",
     "default_bgm": "story-richang-10",
@@ -1329,9 +1454,19 @@
     "default_bgm": "theme-vichy-church",
     "special_bgm": ""
   },
+  "UrExchangeZ52Page": {
+    "bgm": "story-richang-partynight",
+    "default_bgm": "story-richang-partynight",
+    "special_bgm": ""
+  },
   "USCastle2023Scene": {
     "bgm": "story-expo-lastday",
     "default_bgm": "story-expo-lastday",
+    "special_bgm": ""
+  },
+  "USChristmas2024Page": {
+    "bgm": "main-christmas",
+    "default_bgm": "main-christmas",
     "special_bgm": ""
   },
   "ValentineQteGameView": {
@@ -1340,8 +1475,8 @@
     "special_bgm": ""
   },
   "VampireSkinPage2": {
-    "bgm": "main-christmas",
-    "default_bgm": "main-christmas",
+    "bgm": "theme-highseasfleet-reborn",
+    "default_bgm": "theme-highseasfleet-reborn",
     "special_bgm": ""
   },
   "VolleyballGameView": {
@@ -1602,6 +1737,31 @@
   "WorldInPictureScene": {
     "bgm": "main-chunjie",
     "default_bgm": "main-chunjie",
+    "special_bgm": ""
+  },
+  "WorldMediaCollectionAlbumGroupLayer": {
+    "bgm": "story-newsakura",
+    "default_bgm": "story-newsakura",
+    "special_bgm": ""
+  },
+  "WorldMediaCollectionEntranceScene": {
+    "bgm": "story-2",
+    "default_bgm": "story-2",
+    "special_bgm": ""
+  },
+  "WorldMediaCollectionFileLayer": {
+    "bgm": "story-2",
+    "default_bgm": "story-2",
+    "special_bgm": ""
+  },
+  "WorldMediaCollectionMemoryLayer": {
+    "bgm": "story-2",
+    "default_bgm": "story-2",
+    "special_bgm": ""
+  },
+  "WorldMediaCollectionRecordLayer": {
+    "bgm": "story-2",
+    "default_bgm": "story-2",
     "special_bgm": ""
   },
   "WorldScene": {

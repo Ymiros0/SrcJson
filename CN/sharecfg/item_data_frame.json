@@ -476,6 +476,15 @@
     "time_limit_type": 0,
     "time_second": 0
   },
+  "333": {
+    "desc": "<color=#ffffff>「天地万物，皆在星光的注视之下」</color>\n「星光下的余晖」活动获取",
+    "gain_by": "星光下的余晖",
+    "id": 333,
+    "name": "天外星光",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
   "401": {
     "desc": "<color=#ffffff>为企业特别制作的角色专属头像框</color>\n「Azurlane人气投票2019」活动获取",
     "gain_by": "",
@@ -629,6 +638,15 @@
     "time_limit_type": 0,
     "time_second": 0
   },
+  "609": {
+    "desc": "<color=#ffffff>「指挥官，感谢您参与促销活动，请收好赠品喵~！」</color>通过参与「2024冬至茗的大促销」活动获取",
+    "gain_by": "",
+    "id": 609,
+    "name": "冬至促销纪念",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
   "1001": {
     "desc": "<color=#ffffff>每一口都充满甜蜜的回忆。</color>\n通过提升「宿舍计划」中天狼星的契合度等级获取",
     "gain_by": "",
@@ -643,6 +661,24 @@
     "gain_by": "",
     "id": 1002,
     "name": "悠然下午茶",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
+  "1003": {
+    "desc": "<color=#ffffff>金色的落樱，诉说着高洁与凛然。</color>\n通过提升「宿舍计划」中能代的契合度等级获取",
+    "gain_by": "",
+    "id": 1003,
+    "name": "琅华金樱",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
+  "1004": {
+    "desc": "<color=#ffffff>浪漫的纸伞下，是谁的思绪悄悄飞远？</color>\n通过提升「宿舍计划」中能代的契合度等级获取",
+    "gain_by": "",
+    "id": 1004,
+    "name": "花雨归鸟",
     "scene": [],
     "time_limit_type": 0,
     "time_second": 0
@@ -809,6 +845,7 @@
     330,
     331,
     332,
+    333,
     401,
     402,
     404,
@@ -826,8 +863,11 @@
     605,
     606,
     607,
+    609,
     1001,
     1002,
+    1003,
+    1004,
     10001,
     10002,
     10003,

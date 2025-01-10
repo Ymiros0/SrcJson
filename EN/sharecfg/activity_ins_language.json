@@ -5781,7 +5781,328 @@
     "ins_op_511_1_1",
     "op_reply_511_1_1",
     "ins_op_511_1_2",
-    "op_reply_511_1_2"
+    "op_reply_511_1_2",
+    "ins_512",
+    "ins_discuss_512_1",
+    "ins_reply_512_1_1",
+    "ins_reply_512_1_2",
+    "ins_reply_512_1_3",
+    "ins_reply_512_1_4",
+    "ins_reply_512_1_5",
+    "ins_discuss_512_2",
+    "ins_reply_512_2_1",
+    "ins_reply_512_2_2",
+    "ins_discuss_512_3",
+    "ins_reply_512_3_1",
+    "ins_reply_512_3_2",
+    "ins_reply_512_3_3",
+    "ins_reply_512_3_4",
+    "ins_op_512_1_1",
+    "op_reply_512_1_1",
+    "ins_op_512_1_2",
+    "op_reply_512_1_2",
+    "ins_513",
+    "ins_discuss_513_1",
+    "ins_reply_513_1_1",
+    "ins_reply_513_1_2",
+    "ins_reply_513_1_3",
+    "ins_reply_513_1_4",
+    "ins_discuss_513_2",
+    "ins_reply_513_2_1",
+    "ins_reply_513_2_2",
+    "ins_reply_513_2_3",
+    "ins_op_513_1_1",
+    "op_reply_513_1_1",
+    "ins_op_513_1_2",
+    "op_reply_513_1_2",
+    "ins_514",
+    "ins_discuss_514_1",
+    "ins_reply_514_1_1",
+    "ins_reply_514_1_2",
+    "ins_reply_514_1_3",
+    "ins_reply_514_1_4",
+    "ins_reply_514_1_5",
+    "ins_discuss_514_2",
+    "ins_reply_514_2_1",
+    "ins_reply_514_2_2",
+    "ins_reply_514_2_3",
+    "ins_discuss_514_3",
+    "ins_reply_514_3_1",
+    "ins_reply_514_3_2",
+    "ins_reply_514_3_3",
+    "ins_reply_514_3_4",
+    "ins_op_514_1_1",
+    "op_reply_514_1_1",
+    "ins_op_514_1_2",
+    "op_reply_514_1_2",
+    "ins_515",
+    "ins_discuss_515_1",
+    "ins_reply_515_1_1",
+    "ins_reply_515_1_2",
+    "ins_reply_515_1_3",
+    "ins_reply_515_1_4",
+    "ins_reply_515_1_5",
+    "ins_discuss_515_2",
+    "ins_reply_515_2_1",
+    "ins_reply_515_2_2",
+    "ins_reply_515_2_3",
+    "ins_reply_515_2_4",
+    "ins_op_515_1_1",
+    "op_reply_515_1_1",
+    "ins_op_515_1_2",
+    "op_reply_515_1_2",
+    "ins_516",
+    "ins_discuss_516_1",
+    "ins_reply_516_1_1",
+    "ins_reply_516_1_2",
+    "ins_reply_516_1_3",
+    "ins_reply_516_1_4",
+    "ins_discuss_516_2",
+    "ins_reply_516_2_1",
+    "ins_reply_516_2_2",
+    "ins_reply_516_2_3",
+    "ins_reply_516_2_4",
+    "ins_reply_516_2_5",
+    "ins_reply_516_2_6",
+    "ins_op_516_1_1",
+    "op_reply_516_1_1",
+    "ins_op_516_1_2",
+    "op_reply_516_1_2",
+    "ins_517",
+    "ins_discuss_517_1",
+    "ins_reply_517_1_1",
+    "ins_reply_517_1_2",
+    "ins_reply_517_1_3",
+    "ins_reply_517_1_4",
+    "ins_discuss_517_2",
+    "ins_reply_517_2_1",
+    "ins_reply_517_2_2",
+    "ins_reply_517_2_3",
+    "ins_reply_517_2_4",
+    "ins_op_517_1_1",
+    "op_reply_517_1_1",
+    "ins_op_517_1_2",
+    "op_reply_517_1_2",
+    "ins_518",
+    "ins_discuss_518_1",
+    "ins_reply_518_1_1",
+    "ins_reply_518_1_2",
+    "ins_reply_518_1_3",
+    "ins_discuss_518_2",
+    "ins_reply_518_2_1",
+    "ins_discuss_518_3",
+    "ins_reply_518_3_1",
+    "ins_reply_518_3_2",
+    "ins_reply_518_3_3",
+    "ins_reply_518_3_4",
+    "ins_reply_518_3_5",
+    "ins_op_518_1_1",
+    "op_reply_518_1_1",
+    "ins_op_518_1_2",
+    "op_reply_518_1_2",
+    "ins_519",
+    "ins_discuss_519_1",
+    "ins_reply_519_1_1",
+    "ins_reply_519_1_2",
+    "ins_reply_519_1_3",
+    "ins_reply_519_1_4",
+    "ins_reply_519_1_5",
+    "ins_discuss_519_2",
+    "ins_reply_519_2_1",
+    "ins_reply_519_2_2",
+    "ins_reply_519_2_3",
+    "ins_reply_519_2_4",
+    "ins_discuss_519_3",
+    "ins_reply_519_3_1",
+    "ins_reply_519_3_2",
+    "ins_reply_519_3_3",
+    "ins_op_519_1_1",
+    "op_reply_519_1_1",
+    "ins_op_519_1_2",
+    "op_reply_519_1_2",
+    "ins_520",
+    "ins_discuss_520_1",
+    "ins_reply_520_1_1",
+    "ins_reply_520_1_2",
+    "ins_reply_520_1_3",
+    "ins_reply_520_1_4",
+    "ins_discuss_520_2",
+    "ins_reply_520_2_1",
+    "ins_reply_520_2_2",
+    "ins_discuss_520_3",
+    "ins_reply_520_3_1",
+    "ins_reply_520_3_2",
+    "ins_reply_520_3_3",
+    "ins_reply_520_3_4",
+    "ins_op_520_1_1",
+    "op_reply_520_1_1",
+    "ins_op_520_1_2",
+    "op_reply_520_1_2",
+    "ins_521",
+    "ins_discuss_521_1",
+    "ins_reply_521_1_1",
+    "ins_reply_521_1_2",
+    "ins_reply_521_1_3",
+    "ins_discuss_521_2",
+    "ins_reply_521_2_1",
+    "ins_reply_521_2_2",
+    "ins_discuss_521_3",
+    "ins_reply_521_3_1",
+    "ins_reply_521_3_2",
+    "ins_op_521_1_1",
+    "op_reply_521_1_1",
+    "ins_op_521_1_2",
+    "op_reply_521_1_2",
+    "ins_522",
+    "ins_discuss_522_1",
+    "ins_reply_522_1_1",
+    "ins_reply_522_1_2",
+    "ins_reply_522_1_3",
+    "ins_discuss_522_2",
+    "ins_reply_522_2_1",
+    "ins_reply_522_2_2",
+    "ins_reply_522_2_3",
+    "ins_reply_522_2_4",
+    "ins_discuss_522_3",
+    "ins_reply_522_3_1",
+    "ins_reply_522_3_2",
+    "ins_reply_522_3_3",
+    "ins_reply_522_3_4",
+    "ins_reply_522_3_5",
+    "ins_reply_522_3_6",
+    "ins_op_522_1_1",
+    "op_reply_522_1_1",
+    "ins_op_522_1_2",
+    "op_reply_522_1_2",
+    "ins_523",
+    "ins_discuss_523_1",
+    "ins_reply_523_1_1",
+    "ins_discuss_523_2",
+    "ins_reply_523_2_1",
+    "ins_discuss_523_3",
+    "ins_reply_523_3_1",
+    "ins_discuss_523_4",
+    "ins_op_523_1_1",
+    "op_reply_523_1_1",
+    "ins_op_523_1_2",
+    "op_reply_523_1_2",
+    "ins_524",
+    "ins_discuss_524_1",
+    "ins_reply_524_1_1",
+    "ins_reply_524_1_2",
+    "ins_reply_524_1_3",
+    "ins_discuss_524_2",
+    "ins_reply_524_2_1",
+    "ins_reply_524_2_2",
+    "ins_reply_524_2_3",
+    "ins_discuss_524_3",
+    "ins_reply_524_3_1",
+    "ins_reply_524_3_2",
+    "ins_reply_524_3_3",
+    "ins_reply_524_3_4",
+    "ins_op_524_1_1",
+    "op_reply_524_1_1",
+    "ins_op_524_1_2",
+    "op_reply_524_1_2",
+    "ins_525",
+    "ins_discuss_525_1",
+    "ins_reply_525_1_1",
+    "ins_reply_525_1_2",
+    "ins_discuss_525_2",
+    "ins_reply_525_2_1",
+    "ins_reply_525_2_2",
+    "ins_discuss_525_3",
+    "ins_reply_525_3_1",
+    "ins_reply_525_3_2",
+    "ins_reply_525_3_3",
+    "ins_op_525_1_1",
+    "op_reply_525_1_1",
+    "ins_op_525_1_2",
+    "op_reply_525_1_2",
+    "ins_526",
+    "ins_discuss_526_1",
+    "ins_reply_526_1_1",
+    "ins_reply_526_1_2",
+    "ins_reply_526_1_3",
+    "ins_discuss_526_2",
+    "ins_reply_526_2_1",
+    "ins_reply_526_2_2",
+    "ins_discuss_526_3",
+    "ins_reply_526_3_1",
+    "ins_reply_526_3_2",
+    "ins_op_526_1_1",
+    "op_reply_526_1_1",
+    "ins_op_526_1_2",
+    "op_reply_526_1_2",
+    "ins_527",
+    "ins_discuss_527_1",
+    "ins_reply_527_1_1",
+    "ins_reply_527_1_2",
+    "ins_reply_527_1_3",
+    "ins_reply_527_1_4",
+    "ins_discuss_527_2",
+    "ins_reply_527_2_1",
+    "ins_reply_527_2_2",
+    "ins_reply_527_2_3",
+    "ins_reply_527_2_4",
+    "ins_discuss_527_3",
+    "ins_reply_527_3_1",
+    "ins_reply_527_3_2",
+    "ins_reply_527_3_3",
+    "ins_reply_527_3_4",
+    "ins_op_527_1_1",
+    "op_reply_527_1_1",
+    "ins_op_527_1_2",
+    "op_reply_527_1_2",
+    "ins_528",
+    "ins_discuss_528_1",
+    "ins_reply_528_1_1",
+    "ins_reply_528_1_2",
+    "ins_reply_528_1_3",
+    "ins_discuss_528_2",
+    "ins_reply_528_2_1",
+    "ins_reply_528_2_2",
+    "ins_reply_528_2_3",
+    "ins_reply_528_2_4",
+    "ins_reply_528_2_5",
+    "ins_discuss_528_3",
+    "ins_reply_528_3_1",
+    "ins_reply_528_3_2",
+    "ins_reply_528_3_3",
+    "ins_reply_528_3_4",
+    "ins_op_528_1_1",
+    "op_reply_528_1_1",
+    "ins_op_528_1_2",
+    "op_reply_528_1_2",
+    "ins_529",
+    "ins_discuss_529_1",
+    "ins_reply_529_1_1",
+    "ins_reply_529_1_2",
+    "ins_reply_529_1_3",
+    "ins_reply_529_1_4",
+    "ins_discuss_529_2",
+    "ins_reply_529_2_1",
+    "ins_reply_529_2_2",
+    "ins_reply_529_2_3",
+    "ins_reply_529_2_4",
+    "ins_op_529_1_1",
+    "op_reply_529_1_1",
+    "ins_op_529_1_2",
+    "op_reply_529_1_2",
+    "ins_530",
+    "ins_discuss_530_1",
+    "ins_reply_530_1_1",
+    "ins_reply_530_1_2",
+    "ins_discuss_530_2",
+    "ins_reply_530_2_1",
+    "ins_reply_530_2_2",
+    "ins_reply_530_2_3",
+    "ins_reply_530_2_4",
+    "ins_reply_530_2_5",
+    "ins_op_530_1_1",
+    "op_reply_530_1_1",
+    "ins_op_530_1_2",
+    "op_reply_530_1_2"
   ],
   "ins_1": {
     "value": "I'm surprised how good these things are. To eat. Starting from the head, working my way down, ahahaha..."
@@ -5796,7 +6117,7 @@
     "value": "It's late and I'm in the practice room, but I just can't get fired up without the Commander by my side..."
   },
   "ins_5": {
-    "value": "Orders received from Master: \"do whatever you want.\" Attention: unable to deduce meaning of said phrase."
+    "value": "Orders received from Master: \\\\\"do whatever you want.\\\\\" Attention: unable to deduce meaning of said phrase."
   },
   "ins_6": {
     "value": "Sandcastle construction complete."
@@ -6057,7 +6378,7 @@
     "value": "I went for a dive and gosh, it was a ton of fun!"
   },
   "ins_92": {
-    "value": "\"Hey there, little one. Are you lost?\""
+    "value": "\\\\\"Hey there, little one. Are you lost?\\\\\""
   },
   "ins_93": {
     "value": "There's no problem on this earth that cookies can't fix!"
@@ -6183,7 +6504,7 @@
     "value": "Those without talent... simply have to work harder!"
   },
   "ins_134": {
-    "value": "So, I signed up because I heard there would be an \"Idol Basketball Showdown,\" but I can't break any ankles in this outfit."
+    "value": "So, I signed up because I heard there would be an \\\\\"Idol Basketball Showdown,\\\\\" but I can't break any ankles in this outfit."
   },
   "ins_135": {
     "value": "This newly released pudding is simply delectable~♡"
@@ -6201,7 +6522,7 @@
     "value": "Poor baby got lost~"
   },
   "ins_140": {
-    "value": "I'm not exactly your image of \"a cute girl shining on stage,\" now am I?"
+    "value": "I'm not exactly your image of \\\\\"a cute girl shining on stage,\\\\\" now am I?"
   },
   "ins_141": {
     "value": "My dear sister at a recording session"
@@ -6246,7 +6567,7 @@
     "value": "Think you can read MY poker face?"
   },
   "ins_155": {
-    "value": "Humans make such curious things. Be it this \"cell-fee\" gadget or that airborne metal bird."
+    "value": "Humans make such curious things. Be it this \\\\\"cell-fee\\\\\" gadget or that airborne metal bird."
   },
   "ins_156": {
     "value": "Woohoo! My fortune says I have a very lucky year ahead of me!"
@@ -6300,13 +6621,13 @@
     "value": "The Z-class all got together and we wrote down our New Year's wishes!"
   },
   "ins_173": {
-    "value": "Bought this thing called an \"omamori\" while on a shrine visit."
+    "value": "Bought this thing called an \\\\\"omamori\\\\\" while on a shrine visit."
   },
   "ins_174": {
     "value": "Whew. It's been a hectic, but fulfilling day!"
   },
   "ins_175": {
-    "value": "Mmm! I don't know what \"shiruko\" or \"zouni\" actually are, but boy do they smell delish!"
+    "value": "Mmm! I don't know what \\\\\"shiruko\\\\\" or \\\\\"zouni\\\\\" actually are, but boy do they smell delish!"
   },
   "ins_176": {
     "value": "Lucky Laugh is harder than one might think."
@@ -6510,7 +6831,7 @@
     "value": "I made a new friend today."
   },
   "ins_243": {
-    "value": "Out on a morning jog! \"Gotta go fast,\" as they say!"
+    "value": "Out on a morning jog! \\\\\"Gotta go fast,\\\\\" as they say!"
   },
   "ins_244": {
     "value": "Gaze in awe at what I, the full-fledged aircraft carrier Katsuragi, am capable of with my planes!"
@@ -6561,7 +6882,7 @@
     "value": "Brewing tea always clears my mind so good."
   },
   "ins_260": {
-    "value": "Brainstorming titles for my video. \"Streamer Girl Ends Up in AL Universe\" maybe."
+    "value": "Brainstorming titles for my video. \\\\\"Streamer Girl Ends Up in AL Universe\\\\\" maybe."
   },
   "ins_261": {
     "value": "made a new friend"
@@ -6570,7 +6891,7 @@
     "value": "Anyone tryna break the school rules will have ME to answer to!"
   },
   "ins_263": {
-    "value": "These \"riggings\" you have are very intriguing..."
+    "value": "These \\\\\"riggings\\\\\" you have are very intriguing..."
   },
   "ins_264": {
     "value": "The lengths I gotta go to tame these little bastards..."
@@ -6603,7 +6924,7 @@
     "value": "Tip: if the Commander's in crunch mode and you're brewing tea, pour it into a thermos so it stays warm for longer."
   },
   "ins_274": {
-    "value": "Hehe... I pull off the \"master strategist\" look quite well, don't I?"
+    "value": "Hehe... I pull off the \\\\\"master strategist\\\\\" look quite well, don't I?"
   },
   "ins_275": {
     "value": "Investigation in progress! The mysteries of this port will soon be brought to light!"
@@ -6738,7 +7059,7 @@
     "value": "A wolf must be patient and strike only when the time is right."
   },
   "ins_319": {
-    "value": "\"What's in a name? That which we call a rose, by any other name would smell as sweet.\""
+    "value": "\\\\\"What's in a name? That which we call a rose, by any other name would smell as sweet.\\\\\""
   },
   "ins_320": {
     "value": "I will admit I am quite particular when it comes to props."
@@ -6831,7 +7152,7 @@
     "value": "Choices, choices... Which should I wear today?"
   },
   "ins_350": {
-    "value": "Reading \"Adventures in the Forest of Fables.\" It's harder to follow than I expected..."
+    "value": "Reading \\\\\"Adventures in the Forest of Fables.\\\\\" It's harder to follow than I expected..."
   },
   "ins_351": {
     "value": "This will be on the exam, so make sure you review it closely!"
@@ -7269,24 +7590,81 @@
     "value": "Have a gander at my new katana!"
   },
   "ins_505": {
-    "value": ""
+    "value": "THIS is the secret to good taste!"
   },
   "ins_506": {
-    "value": ""
+    "value": "The last one tasted bitter. This one was sour."
   },
   "ins_507": {
-    "value": ""
+    "value": "The treasure is right below. Just jump down and get it."
   },
   "ins_508": {
-    "value": ""
+    "value": "this drink tastes a bit weird"
   },
   "ins_509": {
-    "value": ""
+    "value": "Commander! I'm here to play"
   },
   "ins_510": {
-    "value": ""
+    "value": "loyal carrots, be nourished by my magic and grow!"
   },
   "ins_511": {
+    "value": "I scored a nice trophy from my last investigation!"
+  },
+  "ins_512": {
+    "value": "Let's all take a bath with my Super-Spacious Bathtime invention!"
+  },
+  "ins_513": {
+    "value": "Tomorrow, I'm gonna start drinking milk every day!"
+  },
+  "ins_514": {
+    "value": "Tomatoes are such good babies. Look how they grow♪ And they don't fight back, so you can cook them right up!"
+  },
+  "ins_515": {
+    "value": "So ghosts ARE real here..."
+  },
+  "ins_516": {
+    "value": "the port's taiyaki is just as delicious."
+  },
+  "ins_517": {
+    "value": "Discipline inspection day!"
+  },
+  "ins_518": {
+    "value": "\\\\\"Fall into the Commander's arms and feel the warmth...\\\\\" Will this truly bring us closer?"
+  },
+  "ins_519": {
+    "value": "Trying some new makeup. How do I look?"
+  },
+  "ins_520": {
+    "value": "Watch out cause I'm coming in at MAX SPEED!"
+  },
+  "ins_521": {
+    "value": "Oh no... I ripped my stocking again..."
+  },
+  "ins_522": {
+    "value": "There's no greater pleasure in life than chilling indoors on your day off."
+  },
+  "ins_523": {
+    "value": ""
+  },
+  "ins_524": {
+    "value": ""
+  },
+  "ins_525": {
+    "value": ""
+  },
+  "ins_526": {
+    "value": ""
+  },
+  "ins_527": {
+    "value": ""
+  },
+  "ins_528": {
+    "value": ""
+  },
+  "ins_529": {
+    "value": ""
+  },
+  "ins_530": {
     "value": ""
   },
   "ins_discuss_1_1": {
@@ -7320,7 +7698,7 @@
     "value": "If you say you're gonna do something, do it right! Don't make excuses!"
   },
   "ins_discuss_4_3": {
-    "value": "Assessment: \"practice\" seems entertaining."
+    "value": "Assessment: \\\\\"practice\\\\\" seems entertaining."
   },
   "ins_discuss_4_4": {
     "value": "I know you're doing your best in there, Akagi! Keep it up! ^.^"
@@ -7701,7 +8079,7 @@
     "value": "It's freakin' cold outside! Cannonball!! Ahhhh~ that felt great!"
   },
   "ins_discuss_55_1": {
-    "value": "Querying \"Postmodern Art Database\" for matches... Not recognized as \"Art.\""
+    "value": "Querying \\\\\"Postmodern Art Database\\\\\" for matches... Not recognized as \\\\\"Art.\\\\\""
   },
   "ins_discuss_55_2": {
     "value": "Oh my, what a wonderful work of art~"
@@ -7749,7 +8127,7 @@
     "value": "I have to agree... once you start eating them, you just can't stop."
   },
   "ins_discuss_62_1": {
-    "value": "Everyone has different tastes, I suppose... Is the Iron Blood's mayo the \"greatest in the world,\" as I've heard?"
+    "value": "Everyone has different tastes, I suppose... Is the Iron Blood's mayo the \\\\\"greatest in the world,\\\\\" as I've heard?"
   },
   "ins_discuss_62_2": {
     "value": "Did you just... put mayonnaise on those buns?"
@@ -8130,7 +8508,7 @@
     "value": "Abandoning oneself to nocturnal passions while hidden in the dark of the night, hmm?"
   },
   "ins_discuss_120_2": {
-    "value": "So this is the Sakura Empire's \"Nebuta Festival.\" It seems like you had a wild time!"
+    "value": "So this is the Sakura Empire's \\\\\"Nebuta Festival.\\\\\" It seems like you had a wild time!"
   },
   "ins_discuss_121_1": {
     "value": "When enjoying tasty food with friends, you gotta have alcohol. The sake I got from the Sakura Empire was just amazing~"
@@ -8142,7 +8520,7 @@
     "value": "Is that... the wanko soba challenge?!"
   },
   "ins_discuss_122_2": {
-    "value": "Oh, if you cover up your bowl, you're saying \"I give up!\" so you can stop whenever you'd like."
+    "value": "Oh, if you cover up your bowl, you're saying \\\\\"I give up!\\\\\" so you can stop whenever you'd like."
   },
   "ins_discuss_123_1": {
     "value": "I know we ate the same thing, but did it actually look like that?"
@@ -8154,7 +8532,7 @@
     "value": "You took a picture of that? Ahaha... When I saw that little girl looking scared, I couldn't help but dash out in front of her..."
   },
   "ins_discuss_124_2": {
-    "value": "Those \"namahage\" might look scary, but they're servants of the gods who punish bad children and bring happiness to families... Or so the legends say."
+    "value": "Those \\\\\"namahage\\\\\" might look scary, but they're servants of the gods who punish bad children and bring happiness to families... Or so the legends say."
   },
   "ins_discuss_125_1": {
     "value": "Even if one lacks technique, if one puts their all into making sushi, their feelings will be conveyed... Or so I've heard, at least."
@@ -8178,7 +8556,7 @@
     "value": "Hm? Is double dipping bad?"
   },
   "ins_discuss_128_1": {
-    "value": "Hah, look at the doggie in the back. I can imagine the \"GIMME MEAT!\" so vividly."
+    "value": "Hah, look at the doggie in the back. I can imagine the \\\\\"GIMME MEAT!\\\\\" so vividly."
   },
   "ins_discuss_128_2": {
     "value": "It sure is fun having hotpot with everyone like this."
@@ -8379,7 +8757,7 @@
     "value": "Congratulations, Kasumi!"
   },
   "ins_discuss_156_2": {
-    "value": "Is that supposed to be a big deal? I've gotten \"exceptional luck\" for as long as I can remember."
+    "value": "Is that supposed to be a big deal? I've gotten \\\\\"exceptional luck\\\\\" for as long as I can remember."
   },
   "ins_discuss_157_1": {
     "value": "You certainly performed the shrine maiden dance just like one! I'm impressed."
@@ -8397,7 +8775,7 @@
     "value": "Did you see any shooting stars?"
   },
   "ins_discuss_159_1": {
-    "value": "Wow! Nothing says \"Christmas\" like a huge Christmas tree! Nice job, everyone!"
+    "value": "Wow! Nothing says \\\\\"Christmas\\\\\" like a huge Christmas tree! Nice job, everyone!"
   },
   "ins_discuss_159_2": {
     "value": "and there's the obligatory marblehead selfie. I was WAITING for it."
@@ -8448,7 +8826,7 @@
     "value": "WHOA! I'll be there faster than you can say kamaboko!"
   },
   "ins_discuss_166_2": {
-    "value": "And might I ask what \"osechi\" is?"
+    "value": "And might I ask what \\\\\"osechi\\\\\" is?"
   },
   "ins_discuss_166_3": {
     "value": "Exemplary work, Belfast! Show the world that no cuisine is too complex for our maids!"
@@ -8541,7 +8919,7 @@
     "value": "Do I look like I give a damn? No! I'll play fetch solo if I have to!"
   },
   "ins_discuss_179_1": {
-    "value": "Do you mean \"sweet\" literally? Are you having amazake, by any chance?"
+    "value": "Do you mean \\\\\"sweet\\\\\" literally? Are you having amazake, by any chance?"
   },
   "ins_discuss_179_2": {
     "value": "Really low ABV? Well, I don't mean to be a stereotype, but... Heresy!"
@@ -8781,7 +9159,7 @@
     "value": "Tried using a tripod? Usually that helps. I can DM you some good ones if you want"
   },
   "ins_discuss_210_1": {
-    "value": "Uncorking a bottle with a rapier isn't \"splendor,\" that's just showing off! Ngl though I wanna learn how to do it!"
+    "value": "Uncorking a bottle with a rapier isn't \\\\\"splendor,\\\\\" that's just showing off! Ngl though I wanna learn how to do it!"
   },
   "ins_discuss_210_2": {
     "value": "Sardegnian crimson nectar doth live up to its reputation, I must say."
@@ -8955,7 +9333,7 @@
     "value": "What I learned is a cuppa instant noodles always be good, outdoors or indoors."
   },
   "ins_discuss_231_3": {
-    "value": "Boy that fresh woodland air tho. Y'know when books say a smell is \"intoxicating\"? This is what they mean."
+    "value": "Boy that fresh woodland air tho. Y'know when books say a smell is \\\\\"intoxicating\\\\\"? This is what they mean."
   },
   "ins_discuss_232_1": {
     "value": "Sounds almost like a romantic film quote. That ice cream parlour was lovely, by the way!"
@@ -9210,7 +9588,7 @@
     "value": "Teehee~ This gives me an idea for an even bigger prank!"
   },
   "ins_discuss_268_1": {
-    "value": "Despite the huge \"don't push me\" warning on it?"
+    "value": "Despite the huge \\\\\"don't push me\\\\\" warning on it?"
   },
   "ins_discuss_268_2": {
     "value": "Heheh, sounds like a rave review for our new stress relief button, nya. Time to mass-produce it, nya."
@@ -9255,7 +9633,7 @@
     "value": "A wise idea. Nobody likes a cup of cold tea, after all."
   },
   "ins_discuss_274_1": {
-    "value": "\"A heroic stature, a wave of feathered fan. With a word and a smile, comes a flawless plan.\""
+    "value": "\\\\\"A heroic stature, a wave of feathered fan. With a word and a smile, comes a flawless plan.\\\\\""
   },
   "ins_discuss_274_2": {
     "value": "An unpredictable military tactician with no shortage of stratagems... Indeed, that does fit Chen Hai's personality well."
@@ -9330,7 +9708,7 @@
     "value": "woah, your spear technique is so cool... think you could teach me?"
   },
   "ins_discuss_283_2": {
-    "value": "\"A flourish of a white spear below, a flurry of pink petals above.\" A truly poetic scenery."
+    "value": "\\\\\"A flourish of a white spear below, a flurry of pink petals above.\\\\\" A truly poetic scenery."
   },
   "ins_discuss_283_3": {
     "value": "Splendid form. I've learned a thing or two about the art of the spear recently. How about we spar?"
@@ -9690,7 +10068,7 @@
     "value": "I was going to call you out as well, but you DID save that poor cat, so I'll look the other way this once."
   },
   "ins_discuss_332_1": {
-    "value": "\"A single moment of leisure, snatched from an eternity of labor.\" A literal breath of fresh air, so to speak~"
+    "value": "\\\\\"A single moment of leisure, snatched from an eternity of labor.\\\\\" A literal breath of fresh air, so to speak~"
   },
   "ins_discuss_332_2": {
     "value": "Are we going swimming? Hang on, let me get my bikini!"
@@ -9720,7 +10098,7 @@
     "value": "Wow. Now you truly look the part of a dignified flagship! ;)"
   },
   "ins_discuss_336_1": {
-    "value": "\"Splendid\" really is the word! You're literally glimmering! *o*"
+    "value": "\\\\\"Splendid\\\\\" really is the word! You're literally glimmering! *o*"
   },
   "ins_discuss_336_2": {
     "value": "Gosh. You're as bright as a whole constellation. I wish I could be like you..."
@@ -9819,7 +10197,7 @@
     "value": "Oh no... I told you to stay away from the wine, Yorktown!"
   },
   "ins_discuss_349_1": {
-    "value": "Why not let the Commander decide? \"Hey, which makes me look the cutest~?\""
+    "value": "Why not let the Commander decide? \\\\\"Hey, which makes me look the cutest~?\\\\\""
   },
   "ins_discuss_349_2": {
     "value": "Yes, yeees... The cat ear crusade has reached the shores of the Eagle Union! >:3"
@@ -10083,7 +10461,7 @@
     "value": "never committing to one thing. like always."
   },
   "ins_discuss_390_2": {
-    "value": "I could use your help with \"balancing\" the amount of tasks on my plate right now..."
+    "value": "I could use your help with \\\\\"balancing\\\\\" the amount of tasks on my plate right now..."
   },
   "ins_discuss_390_3": {
     "value": "It can be very hard to have to choose between two options..."
@@ -10743,7 +11121,7 @@
     "value": "How are you content with not holding a real sword? Know you some secret that I do not?"
   },
   "ins_discuss_478_2": {
-    "value": "Is this what is meant by, \"it isn't the blade that matters, but the hand that holds it\"? The path of bushido is a long one."
+    "value": "Is this what is meant by, \\\\\"it isn't the blade that matters, but the hand that holds it\\\\\"? The path of bushido is a long one."
   },
   "ins_discuss_478_3": {
     "value": "I wonder if drinking hot milk after the bath is what gave you this insight."
@@ -10806,7 +11184,7 @@
     "value": "Nice sword."
   },
   "ins_discuss_486_1": {
-    "value": "Unable to determine the meaning of the word \"V(o_o)V\"."
+    "value": "Unable to determine the meaning of the word \\\\\"V(o_o)V\\\\\"."
   },
   "ins_discuss_486_2": {
     "value": "That feel when you wake up and your package is already at your doorstep is sooo good. Not having to go outside slaps."
@@ -10833,7 +11211,7 @@
     "value": "Ah, so you were reviewing herring. I sent a team of Royal Maids to investigate because I thought a drainage pipe had been clogged."
   },
   "ins_discuss_489_3": {
-    "value": "That's +1 to my \"never allowed inside the kitchen\" list."
+    "value": "That's +1 to my \\\\\"never allowed inside the kitchen\\\\\" list."
   },
   "ins_discuss_490_1": {
     "value": "Yes. The ninja run is the best way to get around the port."
@@ -10908,10 +11286,10 @@
     "value": "Wow, it's rare to see you having fun like this!"
   },
   "ins_discuss_498_3": {
-    "value": "Scans indicate that the merry-go-round is inanimate. The probability that you \"made friends\" is nonexistent."
+    "value": "Scans indicate that the merry-go-round is inanimate. The probability that you \\\\\"made friends\\\\\" is nonexistent."
   },
   "ins_discuss_499_1": {
-    "value": "You look like the spitting image of Murasaki no Choumu, AKA Lois \"Brilliant Kirial\" Lolita Purple."
+    "value": "You look like the spitting image of Murasaki no Choumu, AKA Lois \\\\\"Brilliant Kirial\\\\\" Lolita Purple."
   },
   "ins_discuss_499_2": {
     "value": "Bet those wings make your AA capabilities even better. Would make swatting mosquitoes easier too!"
@@ -10953,51 +11331,207 @@
     "value": "Take care. Her blade..."
   },
   "ins_discuss_505_1": {
-    "value": ""
+    "value": "Is that the famed masala? That's packed with spices, isn't it?"
   },
   "ins_discuss_505_2": {
-    "value": ""
+    "value": "Curry done the traditional way! I can hardly wait."
   },
   "ins_discuss_505_3": {
-    "value": ""
+    "value": "The art of curry is a balancing act of ingredients and spices. Some unique and flavorful recipes even include chocolate and mango from what I've heard."
   },
   "ins_discuss_506_1": {
-    "value": ""
+    "value": "r u srsly chomping on TREES??? theres perfectly good meat out there smh"
   },
   "ins_discuss_506_2": {
-    "value": ""
+    "value": "That's one way to explore and analyze your surroundings... This one shall incorporate this technique."
   },
   "ins_discuss_507_1": {
-    "value": ""
+    "value": "This reminds me, does anyone else get that one feeling when you're up in a high place?"
   },
   "ins_discuss_507_2": {
-    "value": ""
+    "value": "Is there really treasure there? All I see is a steep drop"
   },
   "ins_discuss_508_1": {
-    "value": ""
+    "value": "What's wrong with you? Hold it with your hands like a normal person!"
   },
   "ins_discuss_508_2": {
-    "value": ""
+    "value": "Hey, isn't that my prank drink? Where'd you get that?"
   },
   "ins_discuss_509_1": {
-    "value": ""
+    "value": "I see! You enter rooms like that deer girl does!"
   },
   "ins_discuss_509_2": {
-    "value": ""
+    "value": "Sweet! I've always thought we should make that doorway bigger."
   },
   "ins_discuss_510_1": {
-    "value": ""
+    "value": "Can you grow other veggies too? Like kale or something."
   },
   "ins_discuss_510_2": {
-    "value": ""
+    "value": "I see a new demoness has taken the throne. I shall analyze your power."
   },
   "ins_discuss_511_1": {
-    "value": ""
+    "value": "Are you going to auction it off? If so, I could help you with the planning."
   },
   "ins_discuss_511_2": {
-    "value": ""
+    "value": "The head of a statue at Her Majesty's holiday house has gone missing. You don't happen to know anything about that, do you?"
   },
   "ins_discuss_511_3": {
+    "value": "My head... Where is my head... Give it back!"
+  },
+  "ins_discuss_512_1": {
+    "value": "Magnificent. This is sure to expedite thermae parties."
+  },
+  "ins_discuss_512_2": {
+    "value": "A big, hot bath... Sounds nice, but that's gonna be sweaty as heck..."
+  },
+  "ins_discuss_512_3": {
+    "value": "This is kind of like the Instant Bathtub I invented the other day!"
+  },
+  "ins_discuss_513_1": {
+    "value": "Nothing beats a nice, cold bottle of milk~"
+  },
+  "ins_discuss_513_2": {
+    "value": "Hot milk is tasty, too. Want to give it a try?"
+  },
+  "ins_discuss_514_1": {
+    "value": "they're good stuff! come to the canteen, we're giving out samples and bulk discounts!"
+  },
+  "ins_discuss_514_2": {
+    "value": "Why are we talking about tomatoes fighting back? A-are these safe to eat?"
+  },
+  "ins_discuss_514_3": {
+    "value": "Dancing tomatoes?! Now THIS has gotta fit among the seven mysteries of the port!"
+  },
+  "ins_discuss_515_1": {
+    "value": "There you are, Foo! It's okay, Foo is friend, not foe."
+  },
+  "ins_discuss_515_2": {
+    "value": "Get this, what if a ghost took the picture, too? Weren't you alone...?"
+  },
+  "ins_discuss_516_1": {
+    "value": "Did you enjoy the taiyaki miso soup and taiyaki mixed rice?"
+  },
+  "ins_discuss_516_2": {
+    "value": "I love taiyaki! Let's have a tea party sometime, Yami! Munch munch~"
+  },
+  "ins_discuss_517_1": {
+    "value": "Hmm... This is a form of trial I had not considered."
+  },
+  "ins_discuss_517_2": {
+    "value": "You look adorable in this picture, Yui."
+  },
+  "ins_discuss_518_1": {
+    "value": "No, never!"
+  },
+  "ins_discuss_518_2": {
+    "value": "Into the Commander's arms... Ahh, just thinking about it brings my emotion module to the brink of overheating!"
+  },
+  "ins_discuss_518_3": {
+    "value": "That sounds like quite an interesting book. Can I borrow it when you're done?"
+  },
+  "ins_discuss_519_1": {
+    "value": "howd u do it... i tried the same pose and filter and it looked completely diff..."
+  },
+  "ins_discuss_519_2": {
+    "value": "This cat ears filter is adorable. Where'd you get it?"
+  },
+  "ins_discuss_519_3": {
+    "value": "You look just like this \\\\\\\\(0.<)v kaomoji emote thingy!"
+  },
+  "ins_discuss_520_1": {
+    "value": "You there! You look like you've got the guts and skill to take on big-league adventures! Whaddya say to teaming up with me?"
+  },
+  "ins_discuss_520_2": {
+    "value": "Who took this photo? Capturing a moving subject with live fireworks so perfectly is no small feat! Bravo!"
+  },
+  "ins_discuss_520_3": {
+    "value": "Whoa, it's the Speedy Zoomy Runny Fasty Model 3 I invented earlier... but I haven't finished screwing everything in yet..."
+  },
+  "ins_discuss_521_1": {
+    "value": "I know that feeling all too well, it makes me wanna cry... Hold on, I'll be there in no time..."
+  },
+  "ins_discuss_521_2": {
+    "value": "Isn't legwear with holes the big thing these days?"
+  },
+  "ins_discuss_521_3": {
+    "value": "new for 3 years, worn for 3 more, and with some mending, they can last another 3!"
+  },
+  "ins_discuss_522_1": {
+    "value": "What? You really don't wanna go out when you're free? But there's so much we could do! Like food with friends, watching films, or visiting the amusement park!"
+  },
+  "ins_discuss_522_2": {
+    "value": "Day off? I'm fairly sure that you still have work to do."
+  },
+  "ins_discuss_522_3": {
+    "value": "Racing. 1 open slot. Be quick!"
+  },
+  "ins_discuss_523_1": {
+    "value": ""
+  },
+  "ins_discuss_523_2": {
+    "value": ""
+  },
+  "ins_discuss_523_3": {
+    "value": ""
+  },
+  "ins_discuss_523_4": {
+    "value": ""
+  },
+  "ins_discuss_524_1": {
+    "value": ""
+  },
+  "ins_discuss_524_2": {
+    "value": ""
+  },
+  "ins_discuss_524_3": {
+    "value": ""
+  },
+  "ins_discuss_525_1": {
+    "value": ""
+  },
+  "ins_discuss_525_2": {
+    "value": ""
+  },
+  "ins_discuss_525_3": {
+    "value": ""
+  },
+  "ins_discuss_526_1": {
+    "value": ""
+  },
+  "ins_discuss_526_2": {
+    "value": ""
+  },
+  "ins_discuss_526_3": {
+    "value": ""
+  },
+  "ins_discuss_527_1": {
+    "value": ""
+  },
+  "ins_discuss_527_2": {
+    "value": ""
+  },
+  "ins_discuss_527_3": {
+    "value": ""
+  },
+  "ins_discuss_528_1": {
+    "value": ""
+  },
+  "ins_discuss_528_2": {
+    "value": ""
+  },
+  "ins_discuss_528_3": {
+    "value": ""
+  },
+  "ins_discuss_529_1": {
+    "value": ""
+  },
+  "ins_discuss_529_2": {
+    "value": ""
+  },
+  "ins_discuss_530_1": {
+    "value": ""
+  },
+  "ins_discuss_530_2": {
     "value": ""
   },
   "ins_op_1_1_1": {
@@ -11352,7 +11886,7 @@
     "value": "Looks like you found him in the end. Phew!"
   },
   "ins_op_68_1_1": {
-    "value": "Sponsor, eh? If I wear a uniform with \"Akashi's Shop\" on the back, will you pay me?"
+    "value": "Sponsor, eh? If I wear a uniform with \\\\\"Akashi's Shop\\\\\" on the back, will you pay me?"
   },
   "ins_op_68_1_2": {
     "value": "Very nice photo. Would make for a nice lock screen picture."
@@ -11427,7 +11961,7 @@
     "value": "Lunch the size of a small house? This looks shopped to me."
   },
   "ins_op_82_1_2": {
-    "value": "Care to explain this whole \"elder\" thing to me?"
+    "value": "Care to explain this whole \\\\\"elder\\\\\" thing to me?"
   },
   "ins_op_83_1_1": {
     "value": "To boba, or not to boba, that is the question."
@@ -11622,7 +12156,7 @@
     "value": "Definitely the sort of activity you do together with someone."
   },
   "ins_op_117_1_2": {
-    "value": "You know what they say... \"The moon really is beautiful today.\""
+    "value": "You know what they say... \\\\\"The moon really is beautiful today.\\\\\""
   },
   "ins_op_118_1_1": {
     "value": "What a grand statue of the Buddha!"
@@ -11631,7 +12165,7 @@
     "value": "Don't try to rush it. Enjoy the wabi-sabi for what it is."
   },
   "ins_op_120_1_1": {
-    "value": "What's the wishing slip say? \"Sound Health\"?"
+    "value": "What's the wishing slip say? \\\\\"Sound Health\\\\\"?"
   },
   "ins_op_120_1_2": {
     "value": "I'm glad that you enjoyed it."
@@ -11715,7 +12249,7 @@
     "value": "Woah, wonder what's inside?"
   },
   "ins_op_137_1_2": {
-    "value": "I swear your \"surprises\" are more anxiety-inducing than enemy attacks."
+    "value": "I swear your \\\\\"surprises\\\\\" are more anxiety-inducing than enemy attacks."
   },
   "ins_op_138_1_1": {
     "value": "I ship this."
@@ -11811,7 +12345,7 @@
     "value": "You're no ordinary poker player, I'll give you that much..."
   },
   "ins_op_155_1_1": {
-    "value": "You mean \"selfie\"? A cell-fee is a bail."
+    "value": "You mean \\\\\"selfie\\\\\"? A cell-fee is a bail."
   },
   "ins_op_155_1_2": {
     "value": "Man. I wish I could fly through the air."
@@ -11952,7 +12486,7 @@
     "value": "So, the bonfire is lit..."
   },
   "ins_op_184_1_2": {
-    "value": "\"Sagichou.\" It's got a nice ring to it."
+    "value": "\\\\\"Sagichou.\\\\\" It's got a nice ring to it."
   },
   "ins_op_185_1_1": {
     "value": "I still think it looks really good."
@@ -11964,7 +12498,7 @@
     "value": "Am I at risk for being... revolutionized?"
   },
   "ins_op_187_1_1": {
-    "value": "A collar is, let's say, a \"novel\" item to put on a snowman..."
+    "value": "A collar is, let's say, a \\\\\"novel\\\\\" item to put on a snowman..."
   },
   "ins_op_188_1_1": {
     "value": "They still sell that tea? Thought the hype around it died down."
@@ -12948,7 +13482,7 @@
     "value": "You're doing great. Keep it up."
   },
   "ins_op_439_1_1": {
-    "value": "\"Something good\" like what?"
+    "value": "\\\\\"Something good\\\\\" like what?"
   },
   "ins_op_439_1_2": {
     "value": "You're giving out lucky masks? I'll have one!"
@@ -13107,7 +13641,7 @@
     "value": "Working hard, or hardly working?"
   },
   "ins_op_467_1_1": {
-    "value": "How did you... learn about these \"observations\"?"
+    "value": "How did you... learn about these \\\\\"observations\\\\\"?"
   },
   "ins_op_467_1_2": {
     "value": "I feel like I've been made into a zoo animal..."
@@ -13218,7 +13752,7 @@
     "value": "Knight of the Holy Iris, show us your shimmering blade!"
   },
   "ins_op_485_1_2": {
-    "value": "You look so cool. \"Ready to cut the baddies in half\" kind of cool."
+    "value": "You look so cool. \\\\\"Ready to cut the baddies in half\\\\\" kind of cool."
   },
   "ins_op_486_1_1": {
     "value": "What do your drones run on? Mawnster Energy?"
@@ -13335,45 +13869,159 @@
     "value": "Got any tips on sword maintenance?"
   },
   "ins_op_505_1_1": {
-    "value": ""
+    "value": "It's glowing... Is there more than just spice in there?"
   },
   "ins_op_505_1_2": {
-    "value": ""
+    "value": "Save a serving for me!"
   },
   "ins_op_506_1_1": {
-    "value": ""
+    "value": "My office plants were eaten. Do you know who did this?"
   },
   "ins_op_506_1_2": {
-    "value": ""
+    "value": "Come here and let's have a proper lunch together."
   },
   "ins_op_507_1_1": {
-    "value": ""
+    "value": "Why don't you go first?"
   },
   "ins_op_507_1_2": {
-    "value": ""
+    "value": "I'll jump if you jump."
   },
   "ins_op_508_1_1": {
-    "value": ""
+    "value": "That's one hell of a way to drink."
   },
   "ins_op_508_1_2": {
-    "value": ""
+    "value": "How do you feel now after drinking it?"
   },
   "ins_op_509_1_1": {
-    "value": ""
+    "value": "That poor door... It was one week away from retirement..."
   },
   "ins_op_509_1_2": {
-    "value": ""
+    "value": "That did improve the circulation in here!"
   },
   "ins_op_510_1_1": {
-    "value": ""
+    "value": "\\\\\"Grown with magic\\\\\" makes for a nice marketing slogan."
   },
   "ins_op_510_1_2": {
-    "value": ""
+    "value": "I need these vegetables on sale yesterday!"
   },
   "ins_op_511_1_1": {
-    "value": ""
+    "value": "That's my ace investigator!"
   },
   "ins_op_511_1_2": {
+    "value": "Is the Headless Horseman real?"
+  },
+  "ins_op_512_1_1": {
+    "value": "Who doesn't love a long bath on a cold day?"
+  },
+  "ins_op_512_1_2": {
+    "value": "Where is it? I'll make a note of that."
+  },
+  "ins_op_513_1_1": {
+    "value": "Can I have some, too?"
+  },
+  "ins_op_513_1_2": {
+    "value": "You won't feel good if you drink too many cold drinks, Nana."
+  },
+  "ins_op_514_1_1": {
+    "value": "What prodigious size they have!"
+  },
+  "ins_op_514_1_2": {
+    "value": "I dunno 'bout those tomatoes..."
+  },
+  "ins_op_515_1_1": {
+    "value": "I'll walk you to your dorm."
+  },
+  "ins_op_515_1_2": {
+    "value": "Don't worry. You get used to this kind of stuff."
+  },
+  "ins_op_516_1_1": {
+    "value": "I'd like to try some of that little taiyaki feast."
+  },
+  "ins_op_516_1_2": {
+    "value": "Remember your food pyramid? Balance your nutrition with fruits and veggies."
+  },
+  "ins_op_517_1_1": {
+    "value": "I'll help you out."
+  },
+  "ins_op_517_1_2": {
+    "value": "Should I send a helper?"
+  },
+  "ins_op_518_1_1": {
+    "value": "\\\\\"Fall into my arms\\\\\"? Really?"
+  },
+  "ins_op_518_1_2": {
+    "value": "Who'd write something like this?"
+  },
+  "ins_op_519_1_1": {
+    "value": "It's a perfect fit! You look really cute!"
+  },
+  "ins_op_519_1_2": {
+    "value": "Nice filter. Maybe try some other ones too?"
+  },
+  "ins_op_520_1_1": {
+    "value": "Does it have an afterburner? Break the sound barrier!"
+  },
+  "ins_op_520_1_2": {
+    "value": "Don't go TOO fast now!"
+  },
+  "ins_op_521_1_1": {
+    "value": "Did you trip on something? I'll be right there."
+  },
+  "ins_op_521_1_2": {
+    "value": "Do you have any spares?"
+  },
+  "ins_op_522_1_1": {
+    "value": "It's your holiday, so enjoy it to the fullest."
+  },
+  "ins_op_522_1_2": {
+    "value": "Psst. Hey, you. It's back to work tomorrow."
+  },
+  "ins_op_523_1_1": {
+    "value": ""
+  },
+  "ins_op_523_1_2": {
+    "value": ""
+  },
+  "ins_op_524_1_1": {
+    "value": ""
+  },
+  "ins_op_524_1_2": {
+    "value": ""
+  },
+  "ins_op_525_1_1": {
+    "value": ""
+  },
+  "ins_op_525_1_2": {
+    "value": ""
+  },
+  "ins_op_526_1_1": {
+    "value": ""
+  },
+  "ins_op_526_1_2": {
+    "value": ""
+  },
+  "ins_op_527_1_1": {
+    "value": ""
+  },
+  "ins_op_527_1_2": {
+    "value": ""
+  },
+  "ins_op_528_1_1": {
+    "value": ""
+  },
+  "ins_op_528_1_2": {
+    "value": ""
+  },
+  "ins_op_529_1_1": {
+    "value": ""
+  },
+  "ins_op_529_1_2": {
+    "value": ""
+  },
+  "ins_op_530_1_1": {
+    "value": ""
+  },
+  "ins_op_530_1_2": {
     "value": ""
   },
   "ins_reply_1_3_1": {
@@ -13404,7 +14052,7 @@
     "value": "Oh, I'm not angry, I can take a jab or two from my friends. Vixens who dare whisper lies about me to the Commander, on the other hand..."
   },
   "ins_reply_4_2_1": {
-    "value": "My, you seem very serious about this. Pardon me if I'm mistaken, but didn't a certain somebody say, \"It's not like this is worth getting worked up over or anything\""
+    "value": "My, you seem very serious about this. Pardon me if I'm mistaken, but didn't a certain somebody say, \\\\\"It's not like this is worth getting worked up over or anything\\\\\""
   },
   "ins_reply_4_2_2": {
     "value": "Excuse me?! When did I ever say something like that?! You're TOTALLY wrong AND misremembering!"
@@ -13413,13 +14061,13 @@
     "value": "*Sigh*... If only the Commander was here for me..."
   },
   "ins_reply_5_1_1": {
-    "value": "Requesting examples of activities classified as \"playing around and having fun.\""
+    "value": "Requesting examples of activities classified as \\\\\"playing around and having fun.\\\\\""
   },
   "ins_reply_5_1_2": {
     "value": "Examples? Umm, surfing or sunbathing I guess? Maybe building a sandcastle? I think you'd like that"
   },
   "ins_reply_5_1_3": {
-    "value": "\"Build a sandcastle.\" Interest piqued..."
+    "value": "\\\\\"Build a sandcastle.\\\\\" Interest piqued..."
   },
   "ins_reply_5_2_1": {
     "value": "Cmon, don't be the no-fun police! It's our day off, let loose a little! > <"
@@ -13428,7 +14076,7 @@
     "value": "Let loose?! Are you implying I'm all wound up?!"
   },
   "ins_reply_6_1_1": {
-    "value": "Emotion experienced during construction process identified as \"enjoyment.\""
+    "value": "Emotion experienced during construction process identified as \\\\\"enjoyment.\\\\\""
   },
   "ins_reply_6_1_2": {
     "value": "Haha! Sounds like you had fun!"
@@ -13446,7 +14094,7 @@
     "value": "Keep it! I don't need your help!"
   },
   "ins_reply_7_1_1": {
-    "value": "Topic: \"love\" identified. Attention: database lacking in records on this emotion."
+    "value": "Topic: \\\\\"love\\\\\" identified. Attention: database lacking in records on this emotion."
   },
   "ins_reply_8_1_1": {
     "value": "Straight to the point, I see."
@@ -13746,10 +14394,10 @@
     "value": "Surely you did not mistake that pile of... stuff there as a proper meal, Miss Enteprise."
   },
   "ins_reply_41_1_2": {
-    "value": "Fine... But who came up with this \"meal\" anyway?"
+    "value": "Fine... But who came up with this \\\\\"meal\\\\\" anyway?"
   },
   "ins_reply_41_1_3": {
-    "value": "Miss Nevada gave me this recipe. Her instructions were: \"Who cares if she likes it or not, just make her get it down.\""
+    "value": "Miss Nevada gave me this recipe. Her instructions were: \\\\\"Who cares if she likes it or not, just make her get it down.\\\\\""
   },
   "ins_reply_41_1_4": {
     "value": "Where are my rights..."
@@ -13773,7 +14421,7 @@
     "value": "This is the kind of activity that a lowly animal would do, but my magnanimity knows no bounds! Ahahaha!"
   },
   "ins_reply_42_2_1": {
-    "value": "Spiritual leaders are not supposed to be \"cute.\" You should use that word to praise Spee."
+    "value": "Spiritual leaders are not supposed to be \\\\\"cute.\\\\\" You should use that word to praise Spee."
   },
   "ins_reply_42_2_2": {
     "value": "Yes, yes, that's what makes you so cute~"
@@ -13824,7 +14472,7 @@
     "value": "Is that one of your new products, Akashi?"
   },
   "ins_reply_45_1_2": {
-    "value": "it's that new \"prototype self-heating frying pan\" thinger. I wanted to give it a try, but..."
+    "value": "it's that new \\\\\"prototype self-heating frying pan\\\\\" thinger. I wanted to give it a try, but..."
   },
   "ins_reply_45_1_3": {
     "value": "I'm sure it's some sort of misunderstanding, nya! I'll come take a look right meow!"
@@ -13857,7 +14505,7 @@
     "value": "Don't worry, this little shot will have you feeling much better soon~"
   },
   "ins_reply_47_2_1": {
-    "value": "i can't even tell anymore if i'm feeling sick because i'm ill or bcuase of akagi's \"treatment\""
+    "value": "i can't even tell anymore if i'm feeling sick because i'm ill or bcuase of akagi's \\\\\"treatment\\\\\""
   },
   "ins_reply_47_3_1": {
     "value": "Don't worry, you're on the nursing list as well, Kaga. If you fall ill, I'll be there~"
@@ -14085,16 +14733,16 @@
     "value": "Huh? Why in moderation? I thought grownups can drink all they want?? Why is that, anyway?"
   },
   "ins_reply_68_2_3": {
-    "value": "Hahaha. I think I just figured out who actuakky does the \"PR\" for this account, and ot isn't Nagato."
+    "value": "Hahaha. I think I just figured out who actuakky does the \\\\\"PR\\\\\" for this account, and ot isn't Nagato."
   },
   "ins_reply_69_1_1": {
     "value": "Analysis: photograph depicts a mountain range somewhere above the equator."
   },
   "ins_reply_69_2_1": {
-    "value": "Affirmative; it is cold. However, this so-called \"feeling of accomplishment\" counteracts the freezing temperatures."
+    "value": "Affirmative; it is cold. However, this so-called \\\\\"feeling of accomplishment\\\\\" counteracts the freezing temperatures."
   },
   "ins_reply_69_3_1": {
-    "value": "I don't know what's weirder: you having a \"ma'\" or how misappropriated that quote is..."
+    "value": "I don't know what's weirder: you having a \\\\\"ma'\\\\\" or how misappropriated that quote is..."
   },
   "ins_reply_70_1_1": {
     "value": "Oh yes, they were all good little girls. I'd gladly babysit them again."
@@ -14145,7 +14793,7 @@
     "value": "Going that fast sure seemed to stimulate it, at least!"
   },
   "ins_reply_73_1_1": {
-    "value": "I bet you love the attention anyway lol. And by the way, I heard you sleeptalking like a baby. \"Yukikaze is the greatest everest on the planet!!!\""
+    "value": "I bet you love the attention anyway lol. And by the way, I heard you sleeptalking like a baby. \\\\\"Yukikaze is the greatest everest on the planet!!!\\\\\""
   },
   "ins_reply_73_1_2": {
     "value": "DELET THIS! You're ruining Yukikaze's great reputation!"
@@ -14163,7 +14811,7 @@
     "value": "Silence! Is food all you ever think about, you dumb yuudogchi?!"
   },
   "ins_reply_74_1_1": {
-    "value": "It is designed to look like one, yes. They're calling the project the \"High-Speed Camouflaged Marine Vessel.\""
+    "value": "It is designed to look like one, yes. They're calling the project the \\\\\"High-Speed Camouflaged Marine Vessel.\\\\\""
   },
   "ins_reply_74_1_2": {
     "value": "Ooh! Can I ride it next? It looks fun!"
@@ -14274,7 +14922,7 @@
     "value": "Absolutely, hun! You can invite Maya too. Tell her the hot spring can relieve stiffness, both of the muscle and social varieties, hehe."
   },
   "ins_reply_81_2_2": {
-    "value": "\"Social\" stiffness? Come again?"
+    "value": "\\\\\"Social\\\\\" stiffness? Come again?"
   },
   "ins_reply_82_1_1": {
     "value": "It honours me that my Elders appreciated my gesture, as minor as it was. Thank you for relaying that, Great Elder Mikasa!"
@@ -14358,7 +15006,7 @@
     "value": "Well, nothing too extreme. I'd just ask you to apologize to me, then extract the pudding from you in one way or another."
   },
   "ins_reply_87_2_2": {
-    "value": "Fair enough. But what do you mean \"extract\"? Actually, never mind, I don't want to know..."
+    "value": "Fair enough. But what do you mean \\\\\"extract\\\\\"? Actually, never mind, I don't want to know..."
   },
   "ins_reply_88_1_1": {
     "value": "You're quite right, Edinburgh. I need more practice to advance from mere imitation to a capable second Belfast!"
@@ -14373,7 +15021,7 @@
     "value": "I am honoured, Miss Belfast! And Edinburgh, you must be quite cordial with one another, having a go at her like that!"
   },
   "ins_reply_88_2_3": {
-    "value": "Cordial? Let's just call it a \"friendly\" rivalry :|"
+    "value": "Cordial? Let's just call it a \\\\\"friendly\\\\\" rivalry :|"
   },
   "ins_reply_89_1_1": {
     "value": "nop, didnt see it till it was too late anyway"
@@ -14463,7 +15111,7 @@
     "value": "Well done, Howe! A handshake is the first step to reconciliation."
   },
   "ins_reply_94_1_2": {
-    "value": "\"Reconciliation\"? Oh please, don't paint it as something greater than it is"
+    "value": "\\\\\"Reconciliation\\\\\"? Oh please, don't paint it as something greater than it is"
   },
   "ins_reply_94_1_3": {
     "value": "More than it is? What is it, then?"
@@ -14592,7 +15240,7 @@
     "value": "Hehe, very well. Let's set a time and all head down together."
   },
   "ins_reply_101_1_1": {
-    "value": "\"I've already done my research! Just a bit longer... Beef tongue must be grilled to perfection before it is optimal for consumption...\" So she says."
+    "value": "\\\\\"I've already done my research! Just a bit longer... Beef tongue must be grilled to perfection before it is optimal for consumption...\\\\\" So she says."
   },
   "ins_reply_102_1_1": {
     "value": "Oh, sorry. It looked done to me and I was really hungry..."
@@ -14835,7 +15483,7 @@
     "value": "You should consider that as your great comeback."
   },
   "ins_reply_115_2_4": {
-    "value": "I don't feel like I \"won\" at all!"
+    "value": "I don't feel like I \\\\\"won\\\\\" at all!"
   },
   "ins_reply_116_1_1": {
     "value": "That's right! I bought some for you, so I hope you attend the next tea party as well!"
@@ -14895,7 +15543,7 @@
     "value": "If that's what Miss Victorious desires, then by all means, please join us next time."
   },
   "ins_reply_119_2_4": {
-    "value": "Their tea preparation ceremony seemed like a lot of needless extra work... Or should I say, \"seemed like it took a lot of planning.\""
+    "value": "Their tea preparation ceremony seemed like a lot of needless extra work... Or should I say, \\\\\"seemed like it took a lot of planning.\\\\\""
   },
   "ins_reply_120_1_1": {
     "value": "My compatriot, did you not enjoy yourself?"
@@ -14982,7 +15630,7 @@
     "value": "Is that so?! I had always thought they were some sort of movie villain..."
   },
   "ins_reply_124_2_2": {
-    "value": "It's perfectly fine~ If anything, thanks for protecting Fumizuki. She's been talking about \"her hero, Reno\" ever since~"
+    "value": "It's perfectly fine~ If anything, thanks for protecting Fumizuki. She's been talking about \\\\\"her hero, Reno\\\\\" ever since~"
   },
   "ins_reply_125_1_1": {
     "value": "Which is to say, a chef expresses themselves through their cooking?"
@@ -15228,7 +15876,7 @@
     "value": "Eheh~ You're welcome~♪"
   },
   "ins_reply_139_1_1": {
-    "value": "Eh, really? All I said was, \"I'll help you return to the wild.\""
+    "value": "Eh, really? All I said was, \\\\\"I'll help you return to the wild.\\\\\""
   },
   "ins_reply_139_1_2": {
     "value": "Return to the wild? You know, about the meowfficers..."
@@ -15252,7 +15900,7 @@
     "value": "Commander? Is Commander coming?! Taihou wants to see you so!"
   },
   "ins_reply_140_1_1": {
-    "value": "Cleveland, you were always the model of \"cool.\" Are you also into this cutesy stuff?"
+    "value": "Cleveland, you were always the model of \\\\\"cool.\\\\\" Are you also into this cutesy stuff?"
   },
   "ins_reply_140_1_2": {
     "value": "They're equally important! But, what's most important is that we all work hard, together."
@@ -15495,7 +16143,7 @@
     "value": "There's more than one thing only meant for adults in this image..."
   },
   "ins_reply_154_1_2": {
-    "value": "How long would it take for us to learn this \"poker\" game?"
+    "value": "How long would it take for us to learn this \\\\\"poker\\\\\" game?"
   },
   "ins_reply_154_1_3": {
     "value": "THAT type of poker requires a certain type of... adult mindset."
@@ -15531,7 +16179,7 @@
     "value": "Gee, I wonder if that's because you just have stupidly good luck"
   },
   "ins_reply_156_2_2": {
-    "value": "You guys get good fortunes? My average one reads something like \"disastrous misfortune\"..."
+    "value": "You guys get good fortunes? My average one reads something like \\\\\"disastrous misfortune\\\\\"..."
   },
   "ins_reply_156_2_3": {
     "value": "Oh dear... Don't worry! Luck is relative, so every instance of bad luck will be offset eventually!"
@@ -15609,7 +16257,7 @@
     "value": "Hahahaha! If only! Everyone I know already has a meowfficer!"
   },
   "ins_reply_161_1_1": {
-    "value": "Aww, but you were so into it! \"Ho-ho-ho! You'd best not be on Hammann's perverted idiot list, or you're getting a scolding for Christmas!\""
+    "value": "Aww, but you were so into it! \\\\\"Ho-ho-ho! You'd best not be on Hammann's perverted idiot list, or you're getting a scolding for Christmas!\\\\\""
   },
   "ins_reply_161_1_2": {
     "value": "Enough already! Delete this or Santa really will put you on his naughty list!"
@@ -15729,7 +16377,7 @@
     "value": "I know there's no such thing, DUH! I'm just saying!"
   },
   "ins_reply_170_1_1": {
-    "value": "\"Wakamizu\" it's called. The first scoop of water of the year is meant to be holy, according to folklore. "
+    "value": "\\\\\"Wakamizu\\\\\" it's called. The first scoop of water of the year is meant to be holy, according to folklore. "
   },
   "ins_reply_170_1_2": {
     "value": "Someone's cultured. Unlike Hipper, who spent New Year's Day sleeping in. "
@@ -15741,7 +16389,7 @@
     "value": "Couldn't agree more. Watching the sun rise, a cup of Pharisäer in hand... That's the dream. "
   },
   "ins_reply_170_2_2": {
-    "value": "I can do without the \"waking up early to catch the sunrise\" part, personally. "
+    "value": "I can do without the \\\\\"waking up early to catch the sunrise\\\\\" part, personally. "
   },
   "ins_reply_170_2_3": {
     "value": "See ↑THIS↑, Eugen? And when *I* do it, it's wrong?! "
@@ -15777,7 +16425,7 @@
     "value": "So... you're a sheeple, then? You wrote down a wish too."
   },
   "ins_reply_172_2_2": {
-    "value": "Indeed. I believe it went: \"I wish to never have to do homework again.\""
+    "value": "Indeed. I believe it went: \\\\\"I wish to never have to do homework again.\\\\\""
   },
   "ins_reply_172_2_3": {
     "value": "The both of you, that is so rude! Peeping toms! Spies!"
@@ -15930,7 +16578,7 @@
     "value": "NOOOOO I DON'T WANNA BE MOCHI ANYMORE! "
   },
   "ins_reply_183_1_1": {
-    "value": "As Shouhou explained to me, it is part of their custom called \"kagamibiraki.\" It is for smashing mochi. "
+    "value": "As Shouhou explained to me, it is part of their custom called \\\\\"kagamibiraki.\\\\\" It is for smashing mochi. "
   },
   "ins_reply_183_1_2": {
     "value": "Why wouldn't a knife just cut it? No pun intended... "
@@ -15993,7 +16641,7 @@
     "value": "Just a little something to keep them balanced (and loyal)! Cute, right?"
   },
   "ins_reply_187_3_1": {
-    "value": "Wh-what does milk \"do\" to you? I just have a bottle or two after a bath..."
+    "value": "Wh-what does milk \\\\\"do\\\\\" to you? I just have a bottle or two after a bath..."
   },
   "ins_reply_188_1_1": {
     "value": "Plus a few others! By the way you checked out the latest edition of fashion d'azur yet?"
@@ -16137,7 +16785,7 @@
     "value": "I'm... milk? I don't see what you mean..."
   },
   "ins_reply_199_2_1": {
-    "value": "Wh-what does milk \"do\" to you? I just have a bottle or two after a bath..."
+    "value": "Wh-what does milk \\\\\"do\\\\\" to you? I just have a bottle or two after a bath..."
   },
   "ins_reply_199_3_1": {
     "value": "Perhaps we should invest in dairy farm stocks as well... This could be a big market, green cat."
@@ -16272,7 +16920,7 @@
     "value": "It does? By all means, I'd love your recommendations!"
   },
   "ins_reply_210_1_1": {
-    "value": "When you've grown, I will teach you. A rapier is too much for a \"fun-sized\" girl to handle."
+    "value": "When you've grown, I will teach you. A rapier is too much for a \\\\\"fun-sized\\\\\" girl to handle."
   },
   "ins_reply_210_1_2": {
     "value": "Aww come on! How can I be old enough to serve in the navy but a rapier's outta my league?!"
@@ -16401,7 +17049,7 @@
     "value": "A bit TOO exciting, probably..."
   },
   "ins_reply_219_2_2": {
-    "value": "Ain't no such thing as\"too exciting\"! Try it, you won't regret it!"
+    "value": "Ain't no such thing as\\\\\"too exciting\\\\\"! Try it, you won't regret it!"
   },
   "ins_reply_219_3_1": {
     "value": "Not so much for me... They make me queasy and dizzy."
@@ -16482,7 +17130,7 @@
     "value": "You should get that looked at before you become the inspiration for some creepypasta..."
   },
   "ins_reply_225_2_1": {
-    "value": "I wouldn't be so quick to dismiss \"night bumps\" as mere fiction. I know many spirits who'd haunt you for it."
+    "value": "I wouldn't be so quick to dismiss \\\\\"night bumps\\\\\" as mere fiction. I know many spirits who'd haunt you for it."
   },
   "ins_reply_225_2_2": {
     "value": "And besides, you can't sell horror fiction if there's a rational explanation for every spooky thing, nya!"
@@ -16590,7 +17238,7 @@
     "value": "Shall I invite Vestal, just in case? I am sure she would adore the ice cream as well."
   },
   "ins_reply_233_1_1": {
-    "value": "Incidentally, our cup broke shortly after we got on. They said my \"gravity\" caused it to tip..."
+    "value": "Incidentally, our cup broke shortly after we got on. They said my \\\\\"gravity\\\\\" caused it to tip..."
   },
   "ins_reply_233_1_2": {
     "value": "I've had that happen to me as well. They really ought to build these rides of stronger stuff."
@@ -16608,7 +17256,7 @@
     "value": "Infantilizing? Forgive me. I simply cherish the commander... and my Iron Blood comrades... like you were my own children."
   },
   "ins_reply_234_1_2": {
-    "value": "Well, \"motherly comfort\" is fittingly the words I'd use to describe how sitting next to Friedrich feels..."
+    "value": "Well, \\\\\"motherly comfort\\\\\" is fittingly the words I'd use to describe how sitting next to Friedrich feels..."
   },
   "ins_reply_234_2_1": {
     "value": "I'm delighted to read this, Tirpitz. The commander really has warmed you up to social interaction..."
@@ -17085,7 +17733,7 @@
     "value": "Room-temperature tea then. The bane of both ice tea and regular tea enthusiasts!"
   },
   "ins_reply_274_1_1": {
-    "value": "If Chen Hai is the tactician, then I'll be the fearless general! \"A thousand challenges, a thousand victories!\""
+    "value": "If Chen Hai is the tactician, then I'll be the fearless general! \\\\\"A thousand challenges, a thousand victories!\\\\\""
   },
   "ins_reply_274_2_1": {
     "value": "My, you flatter me~"
@@ -17154,7 +17802,7 @@
     "value": "Life and beauty spring from even the harshest times. I think this flower represents a wonderful life lesson."
   },
   "ins_reply_280_1_1": {
-    "value": "Indeed. As they say in the Dragon Empery, \"a good medicine tastes bitter.\""
+    "value": "Indeed. As they say in the Dragon Empery, \\\\\"a good medicine tastes bitter.\\\\\""
   },
   "ins_reply_280_2_1": {
     "value": "Did you know that the Dragon Empery has a variety of delicious dishes that incorporate medicinal herbs?"
@@ -17349,7 +17997,7 @@
     "value": "Challenge accepted. Emden shall be waiting for you in the library."
   },
   "ins_reply_295_3_1": {
-    "value": "\"That is exactly what Emden's doing.\""
+    "value": "\\\\\"That is exactly what Emden's doing.\\\\\""
   },
   "ins_reply_296_1_1": {
     "value": "wow really? pretty lucky i managed to get some then"
@@ -17592,7 +18240,7 @@
     "value": "Don't be sorry! People getting lost in your maze is proof that it's a well-designed maze, after all!"
   },
   "ins_reply_316_1_1": {
-    "value": "Le Malin said this is the best way to \"get in touch with my vulnerable side,\" so..."
+    "value": "Le Malin said this is the best way to \\\\\"get in touch with my vulnerable side,\\\\\" so..."
   },
   "ins_reply_316_2_1": {
     "value": "Of course! I shall put my nose to the grindstone!"
@@ -17904,7 +18552,7 @@
     "value": "Absolutely! I'm sure they'd love to play with you."
   },
   "ins_reply_337_2_1": {
-    "value": "Maybe because you run at them, shouting \"hey white duckies, let's play\"? I'd be startled too if I were a swan..."
+    "value": "Maybe because you run at them, shouting \\\\\"hey white duckies, let's play\\\\\"? I'd be startled too if I were a swan..."
   },
   "ins_reply_337_2_2": {
     "value": "Be calm with them, and they'll be calm with you, I think..."
@@ -18072,7 +18720,7 @@
     "value": "So wait, doesn't that make this nonfiction?"
   },
   "ins_reply_350_2_4": {
-    "value": "I believe the phrase \"based on a true story\" is applicable here."
+    "value": "I believe the phrase \\\\\"based on a true story\\\\\" is applicable here."
   },
   "ins_reply_351_1_1": {
     "value": "That's unfortunate. I'll print out copies and bring them to your room."
@@ -18156,13 +18804,13 @@
     "value": "I'd need the Champion's permission to divulge such things."
   },
   "ins_reply_357_2_3": {
-    "value": "I'm clearly missing something here. Who the hell is \"our champion\"?"
+    "value": "I'm clearly missing something here. Who the hell is \\\\\"our champion\\\\\"?"
   },
   "ins_reply_358_1_1": {
     "value": "Many spots around the office were long overdue a thorough tidying, so I took it upon myself."
   },
   "ins_reply_358_1_2": {
-    "value": "What you MEAN by \"tidying\" and \"cleaning\"?! Please tell me you didn't do anything drastic!"
+    "value": "What you MEAN by \\\\\"tidying\\\\\" and \\\\\"cleaning\\\\\"?! Please tell me you didn't do anything drastic!"
   },
   "ins_reply_358_1_3": {
     "value": "What is there to clarify? I used a set of tools to take care of some filth."
@@ -18204,10 +18852,10 @@
     "value": "Wait... You're saying I did someone a FAVOR by doing that?"
   },
   "ins_reply_361_2_1": {
-    "value": "Who? I don't know anything about a \"scissorhands\"!"
+    "value": "Who? I don't know anything about a \\\\\"scissorhands\\\\\"!"
   },
   "ins_reply_361_3_1": {
-    "value": "Yeah! Wait, what do you mean \"survivors\"?"
+    "value": "Yeah! Wait, what do you mean \\\\\"survivors\\\\\"?"
   },
   "ins_reply_362_1_1": {
     "value": "I simply strive to seek stimulation from the insipid and mundane parts of daily life~"
@@ -18228,7 +18876,7 @@
     "value": "You're lucky I found it, but make sure to take better care of your belongings next time, Miss Valiant."
   },
   "ins_reply_364_1_1": {
-    "value": "Umm, it's just something I hold myself to. \"Return to your nest before the ordained time,\" or something like that?"
+    "value": "Umm, it's just something I hold myself to. \\\\\"Return to your nest before the ordained time,\\\\\" or something like that?"
   },
   "ins_reply_364_1_2": {
     "value": "...Speaking of bird analogies, you look like a chicken that's been dropped in a pot and stewed for a few hours."
@@ -18381,7 +19029,7 @@
     "value": "sure! what do we call ourselves?"
   },
   "ins_reply_375_1_2": {
-    "value": "How about \"Cat & Rabbit\"? Cause you bring the bunny energy and I bring the cat energy ^w^"
+    "value": "How about \\\\\"Cat & Rabbit\\\\\"? Cause you bring the bunny energy and I bring the cat energy ^w^"
   },
   "ins_reply_375_1_3": {
     "value": "it's got a nice ring to it! we're SO doing a duet next time I'm on stage"
@@ -18495,7 +19143,7 @@
     "value": "Um, sure, if it's not too much to ask?"
   },
   "ins_reply_391_2_1": {
-    "value": "While I'm curious about what you mean by \"absolve,\" I think I'll gracefully pass on the offer..."
+    "value": "While I'm curious about what you mean by \\\\\"absolve,\\\\\" I think I'll gracefully pass on the offer..."
   },
   "ins_reply_391_3_1": {
     "value": "Is that some kind of... fortune-telling?"
@@ -18633,7 +19281,7 @@
     "value": "But of course! Expect no less of a dragon such as I!"
   },
   "ins_reply_399_1_2": {
-    "value": "Gascogne requests knowledge pertaining to \"playing at the beach.\" Knowledge is required to better carry out Master's orders during next beach visit."
+    "value": "Gascogne requests knowledge pertaining to \\\\\"playing at the beach.\\\\\" Knowledge is required to better carry out Master's orders during next beach visit."
   },
   "ins_reply_399_1_3": {
     "value": "Come again? Is playing in the sand truly a subject one needs to study?"
@@ -18855,7 +19503,7 @@
     "value": "Heh. Maybe I should go trick or treating too and make more use of it."
   },
   "ins_reply_413_3_1": {
-    "value": "Candy for everyone! For Argo, for you, and for your... \"self\" I guess?"
+    "value": "Candy for everyone! For Argo, for you, and for your... \\\\\"self\\\\\" I guess?"
   },
   "ins_reply_413_3_2": {
     "value": "Argo must be working hard to look after her..."
@@ -19551,10 +20199,10 @@
     "value": "Yes ma'am!"
   },
   "ins_reply_457_2_1": {
-    "value": "p sure thats \"the 199 techniques of a maid\" cuz i've got it too"
+    "value": "p sure thats \\\\\"the 199 techniques of a maid\\\\\" cuz i've got it too"
   },
   "ins_reply_457_2_2": {
-    "value": "I see, I see! This is what they call \"yabai\"!"
+    "value": "I see, I see! This is what they call \\\\\"yabai\\\\\"!"
   },
   "ins_reply_457_2_3": {
     "value": "Yabai really is the word."
@@ -19569,7 +20217,7 @@
     "value": "Oh. I never knew you could prepare eel that way."
   },
   "ins_reply_458_1_3": {
-    "value": "Yes, Royal cuisine is very \"innovative.\""
+    "value": "Yes, Royal cuisine is very \\\\\"innovative.\\\\\""
   },
   "ins_reply_458_2_1": {
     "value": "As must I."
@@ -19746,7 +20394,7 @@
     "value": "Awww!"
   },
   "ins_reply_467_2_1": {
-    "value": "Yes, I suppose it is a treasure trove, in that sense. \"This treasure is Emden's. No one else may have it.\""
+    "value": "Yes, I suppose it is a treasure trove, in that sense. \\\\\"This treasure is Emden's. No one else may have it.\\\\\""
   },
   "ins_reply_468_1_1": {
     "value": "Encrypting secret recipe... done. Sending data packet now."
@@ -20286,7 +20934,7 @@
     "value": "Party, eh? Sounds good! I'll bring some low-carb snacks loaded with protein."
   },
   "ins_reply_494_2_3": {
-    "value": "\"Loaded with protein\" better not mean \"literally made of protein powder\" like last time lmao."
+    "value": "\\\\\"Loaded with protein\\\\\" better not mean \\\\\"literally made of protein powder\\\\\" like last time lmao."
   },
   "ins_reply_495_1_1": {
     "value": "Agreed. All 3 of them tasted great. We should try different flavors next time!"
@@ -20439,7 +21087,7 @@
     "value": "I'll um give it a try after I'm done delivering all this milk!"
   },
   "ins_reply_501_3_1": {
-    "value": "EXCUSE ME??? What do you MEAN I \"could use that\"???"
+    "value": "EXCUSE ME??? What do you MEAN I \\\\\"could use that\\\\\"???"
   },
   "ins_reply_501_3_2": {
     "value": "Okay! I'll be right there!"
@@ -20526,159 +21174,681 @@
     "value": "What the hell are you all talking about?"
   },
   "ins_reply_505_1_1": {
-    "value": ""
+    "value": "Yes it's masala! A large helping of spice makes anything better!"
   },
   "ins_reply_505_1_2": {
-    "value": ""
+    "value": "Man, that sounds so good. I've gotta invent a smartphone that detects smells!"
   },
   "ins_reply_505_2_1": {
-    "value": ""
+    "value": "I've heard that it's radically different to our curry."
   },
   "ins_reply_505_2_2": {
-    "value": ""
+    "value": "Taste-wise sure, it's pretty different, but they have a lot in common."
   },
   "ins_reply_505_3_1": {
-    "value": ""
+    "value": "If mango's alright then pineapple should get a pass too!"
   },
   "ins_reply_505_3_2": {
-    "value": ""
+    "value": "Wow, that sounds so novel! I'll be sure to try that next time."
   },
   "ins_reply_506_1_1": {
-    "value": ""
+    "value": "I need to consume some fiber if I'm to \\\\\"maintain a well-balanced diet.\\\\\""
   },
   "ins_reply_506_1_2": {
-    "value": ""
+    "value": "thats some advanced vocab who taught u that?"
   },
   "ins_reply_506_1_3": {
-    "value": ""
+    "value": "Oh nice! Someone's learning from my fitness posts!"
   },
   "ins_reply_506_1_4": {
-    "value": ""
+    "value": "They say knowledge is power. Thank you for the power."
   },
   "ins_reply_506_2_1": {
-    "value": ""
+    "value": "It's an... interesting process."
   },
   "ins_reply_506_2_2": {
-    "value": ""
+    "value": "I think you should stick to scanning and analysis modules..."
   },
   "ins_reply_506_2_3": {
-    "value": ""
+    "value": "What's an \\\\\"analysis module\\\\\"? Can you consume it?"
   },
   "ins_reply_507_1_1": {
-    "value": ""
+    "value": "You mean the urge to jump and feel the wind? Same!"
   },
   "ins_reply_507_1_2": {
-    "value": ""
+    "value": "I think your reasons for jumping are a lot more malicious..."
   },
   "ins_reply_507_1_3": {
-    "value": ""
+    "value": "Jump if you want. I'm staying here."
   },
   "ins_reply_507_2_1": {
-    "value": ""
+    "value": "The compass points down, so it has to be there."
   },
   "ins_reply_507_2_2": {
-    "value": ""
+    "value": "someone say treasure? im goin! cliffs mean nothin to me!!"
   },
   "ins_reply_507_2_3": {
-    "value": ""
+    "value": "That's the spirit! Get a running start and go for it!"
   },
   "ins_reply_508_1_1": {
-    "value": ""
+    "value": "this is less effort tho? you can do other stuff with your hands free too. want me to teach u?"
   },
   "ins_reply_508_1_2": {
-    "value": ""
+    "value": "I'm afraid my sister here doesn't have the volume required."
   },
   "ins_reply_508_1_3": {
-    "value": ""
+    "value": "oh damn my bad"
   },
   "ins_reply_508_1_4": {
-    "value": ""
+    "value": "I never asked for an apology!"
   },
   "ins_reply_508_2_1": {
-    "value": ""
+    "value": "Oh, forgive me, Long Island. I borrowed it to brew some tea earlier."
   },
   "ins_reply_508_2_2": {
-    "value": ""
+    "value": "ohh no wonder its so spicy... wow now its making me feel omega buzzed"
   },
   "ins_reply_508_2_3": {
-    "value": ""
+    "value": "you should probably call vestal about that"
   },
   "ins_reply_509_1_1": {
-    "value": ""
+    "value": "Dolphy dolphy dolly dolly dolphin-phin~"
   },
   "ins_reply_509_1_2": {
-    "value": ""
+    "value": "Dolphy dolphy dolly dolly dolphin-phin~"
   },
   "ins_reply_509_1_3": {
-    "value": ""
+    "value": "I have no idea what you're talking about..."
   },
   "ins_reply_509_1_4": {
-    "value": ""
+    "value": "That's okay! When you don't understand something, just look confident and repeat what others say!"
   },
   "ins_reply_509_1_5": {
-    "value": ""
+    "value": "Dolphy dolphy dolly dolly dolphin-phin~"
   },
   "ins_reply_509_2_1": {
-    "value": ""
+    "value": "Wow... that's one way of doing it!"
   },
   "ins_reply_509_2_2": {
-    "value": ""
+    "value": "This gives me an idea..."
   },
   "ins_reply_509_2_3": {
-    "value": ""
+    "value": "Rest assured, the maintenance team is on the way to repair it."
   },
   "ins_reply_509_2_4": {
-    "value": ""
+    "value": "But this is more fun! We should all go into the office like this"
   },
   "ins_reply_510_1_1": {
-    "value": ""
+    "value": "i can grow and deliver any veggies you want for the right price."
   },
   "ins_reply_510_1_2": {
-    "value": ""
+    "value": "Right price? Oh, money. I get you!"
   },
   "ins_reply_510_1_3": {
-    "value": ""
+    "value": "You could make a whole barrel of healthy carrot juice with all those! Heehee..."
   },
   "ins_reply_510_2_1": {
-    "value": ""
+    "value": "So I'm not the only one who wants to replay the fantasy RPG! Yay!"
   },
   "ins_reply_510_2_2": {
-    "value": ""
+    "value": "I do, too. Seeing Miss Owari's flawless performance reminds me fondly of our adventure."
   },
   "ins_reply_510_2_3": {
-    "value": ""
+    "value": "aww thanks! if you ever do play it again you gotta invite me!"
   },
   "ins_reply_511_1_1": {
-    "value": ""
+    "value": "Hmm... not yet! I just wanted to show it to all my followers."
   },
   "ins_reply_511_1_2": {
-    "value": ""
+    "value": "I should warn you that many thieves lurk around auction houses."
   },
   "ins_reply_511_1_3": {
-    "value": ""
+    "value": "I'll think about it!"
   },
   "ins_reply_511_2_1": {
-    "value": ""
+    "value": "No ma'am, nothing at all..."
   },
   "ins_reply_511_2_2": {
-    "value": ""
+    "value": "Head Hunter: The Ace Investigator's Secret Dealings"
   },
   "ins_reply_511_2_3": {
-    "value": ""
+    "value": "What \\\\\"secret dealings\\\\\"?"
   },
   "ins_reply_511_2_4": {
-    "value": ""
+    "value": "Gotta subscribe to read the full story!"
   },
   "ins_reply_511_3_1": {
-    "value": ""
+    "value": "Uh oh! The headless horseman's spirit has possessed fu shun!"
   },
   "ins_reply_511_3_2": {
-    "value": ""
+    "value": "Gimme back my head or my missiles will knock you into next week!"
   },
   "ins_reply_511_3_3": {
-    "value": ""
+    "value": "Think you can take me on? Try me and see how you like my Mark 7 16-inch/50 caliber guns!"
   },
   "ins_reply_511_3_4": {
+    "value": "Don't shoot! I think that exorcised the spirit! Thanks Bristol!"
+  },
+  "ins_reply_512_1_1": {
+    "value": "Yeah! Lala, are you willing to help us have the most glorious bath of all time?"
+  },
+  "ins_reply_512_1_2": {
+    "value": "Of course! I wanna have fun with everyone, too!"
+  },
+  "ins_reply_512_1_3": {
+    "value": "Aww, yeah! Looks like we know what we're doing next girls' night. I'll go tell everyone!"
+  },
+  "ins_reply_512_1_4": {
+    "value": "Heheh, you'd better be ready for a photo op!"
+  },
+  "ins_reply_512_1_5": {
+    "value": "Please refrain from bringing your phone to the pool."
+  },
+  "ins_reply_512_2_1": {
+    "value": "Don't worry about it! It's MORE refreshing if you sweat! Come on, everyone, let's do it!"
+  },
+  "ins_reply_512_2_2": {
+    "value": "Mm, hehehehe♥ Ooh, yes, of course... We can just wash away that sweat any time. Sweat all you want, girls..."
+  },
+  "ins_reply_512_3_1": {
+    "value": "Instant Bathtub? As in, the one that blew up as soon as water touched it?"
+  },
+  "ins_reply_512_3_2": {
+    "value": "That was an unknown unknown!"
+  },
+  "ins_reply_512_3_3": {
+    "value": "Oh, totally~ I always had stuff blow up on me. As they say, past me's inventions walked so present me's inventions could run!"
+  },
+  "ins_reply_512_3_4": {
+    "value": "hum-hum. do they say that?"
+  },
+  "ins_reply_513_1_1": {
+    "value": "Hell yeah! I just hope it starts working fast..."
+  },
+  "ins_reply_513_1_2": {
+    "value": "Um... Working?"
+  },
+  "ins_reply_513_1_3": {
+    "value": "Maybe I should try that, too..."
+  },
+  "ins_reply_513_1_4": {
+    "value": "Remember, Nana, you must never give up."
+  },
+  "ins_reply_513_2_1": {
+    "value": "I guess... It's not gonna ruin the effects, is it?"
+  },
+  "ins_reply_513_2_2": {
+    "value": "To what effects do you refer? It'll only nourish and strengthen you more if you heat it up~"
+  },
+  "ins_reply_513_2_3": {
+    "value": "If it will make me stronger, then I too vow to drink a gallon of milk every day!"
+  },
+  "ins_reply_514_1_1": {
+    "value": "I'll take twenty boxes."
+  },
+  "ins_reply_514_1_2": {
+    "value": "TWENTY?!"
+  },
+  "ins_reply_514_1_3": {
+    "value": "We Sardegnians use tomatoes in all sorts of things. Pasta, pizza, you name it."
+  },
+  "ins_reply_514_1_4": {
+    "value": "Can we taste-test them first...?"
+  },
+  "ins_reply_514_1_5": {
+    "value": "Okay! I'll tell my little babies to grow up big, strong, and delicious."
+  },
+  "ins_reply_514_2_1": {
+    "value": "Big sister says she'll come beat them up if they try to resist getting eaten. Then, they'll settle down."
+  },
+  "ins_reply_514_2_2": {
+    "value": "Don't worry, everyone. Leave all the dirty work to me♪"
+  },
+  "ins_reply_514_2_3": {
+    "value": "Okay! This kitty wants some, too! I'll take some to Lung Wu!"
+  },
+  "ins_reply_514_3_1": {
+    "value": "I'm ready for a big adventure! Let's investigate the Mystery of the Twirling Tomatoes!"
+  },
+  "ins_reply_514_3_2": {
+    "value": "You know, it might just be related to the port's environment. They were happy to dance for me with just a little prodding."
+  },
+  "ins_reply_514_3_3": {
+    "value": "Oooh! Is it that easy to make tomatoes dance?! I wanna try!"
+  },
+  "ins_reply_514_3_4": {
+    "value": "Fu Shun, I don't think it's as easy as she makes it look..."
+  },
+  "ins_reply_515_1_1": {
+    "value": "Sorry. I think my will-o'-wisps scared it away."
+  },
+  "ins_reply_515_1_2": {
+    "value": "W-will-o'-wisps?! At least lie and say I was dreaming..."
+  },
+  "ins_reply_515_1_3": {
+    "value": "Hey, can I borrow Foo and your will-o'-wisps? It's for research!"
+  },
+  "ins_reply_515_1_4": {
+    "value": "Denied."
+  },
+  "ins_reply_515_1_5": {
+    "value": "Not happening."
+  },
+  "ins_reply_515_2_1": {
+    "value": "E-eeep... Don't scare me any more, please!"
+  },
+  "ins_reply_515_2_2": {
+    "value": "This is no ghost! Detective Essex has already divined the truth!"
+  },
+  "ins_reply_515_2_3": {
+    "value": "The one who took the picture was one invisible Mary Celeste! Otherwise, how would she know Haruna was alone?!"
+  },
+  "ins_reply_515_2_4": {
+    "value": "I'm LITERALLY a ghost. So doesn't that mean I was right?"
+  },
+  "ins_reply_516_1_1": {
+    "value": "both were very good."
+  },
+  "ins_reply_516_1_2": {
+    "value": "I knew you'd love them. Why don't I make some for you tonight?"
+  },
+  "ins_reply_516_1_3": {
+    "value": "Is this what people eat these days...? Very interesting!"
+  },
+  "ins_reply_516_1_4": {
+    "value": "I don't think most people do, no..."
+  },
+  "ins_reply_516_2_1": {
+    "value": "(Created with voice input) We should get candy for the T par T too"
+  },
+  "ins_reply_516_2_2": {
+    "value": "taiyaki tea party. good idea."
+  },
+  "ins_reply_516_2_3": {
+    "value": "That does sound fun, but I should stop eating sweets. I'm feeling a little chubby..."
+  },
+  "ins_reply_516_2_4": {
+    "value": "No problemo! Burn off those calories, and you won't gain a pound! That's what you do, right, Yami?"
+  },
+  "ins_reply_516_2_5": {
+    "value": "i am a weapon. i have never been concerned about my figure."
+  },
+  "ins_reply_516_2_6": {
+    "value": "You don't even care, and you're that thin? How can I be you?!"
+  },
+  "ins_reply_517_1_1": {
+    "value": "ANOTHER fighting angel? How am I supposed to strip naked now..."
+  },
+  "ins_reply_517_1_2": {
+    "value": "Running around the port naked is strictly against the rules! And don't reply to my posts naked, too! This is harassment!"
+  },
+  "ins_reply_517_1_3": {
+    "value": "Phew... You make my job much easier. Thank you, Kotegawa."
+  },
+  "ins_reply_517_1_4": {
+    "value": "Whoa. Yui's not the only person who gets all mad over clothes?"
+  },
+  "ins_reply_517_2_1": {
+    "value": "I take my inspections very seriously."
+  },
+  "ins_reply_517_2_2": {
+    "value": "Wow. Crazy how much a little mascot can change someone's aura!"
+  },
+  "ins_reply_517_2_3": {
+    "value": "Maybe putting a Meowfficer on Jean Bart's shoulder can make even that little grump cute."
+  },
+  "ins_reply_517_2_4": {
+    "value": "i'm not here to be cute."
+  },
+  "ins_reply_518_1_1": {
+    "value": "Not a chance in heck."
+  },
+  "ins_reply_518_1_2": {
+    "value": "Of course not! Don't be silly!"
+  },
+  "ins_reply_518_1_3": {
+    "value": "I... see..."
+  },
+  "ins_reply_518_2_1": {
+    "value": "Calm down! Don't cause an explosion!"
+  },
+  "ins_reply_518_3_1": {
+    "value": "It belongs to Eugen. You'll have to ask her."
+  },
+  "ins_reply_518_3_2": {
+    "value": "Sure, go ahead. I'll also recommend \\\\\"How to Steal the Commander's Heart on a Date\\\\\" to you."
+  },
+  "ins_reply_518_3_3": {
+    "value": "Why, thank you!"
+  },
+  "ins_reply_518_3_4": {
+    "value": "Where did you get these books from, anyway?"
+  },
+  "ins_reply_518_3_5": {
+    "value": "Sorry, that's confidential."
+  },
+  "ins_reply_519_1_1": {
+    "value": "I also tried it! I looked pretty cute, but I couldn't quite replicate the vibe either."
+  },
+  "ins_reply_519_1_2": {
+    "value": "Might be the makeup? I'll check it out for you later."
+  },
+  "ins_reply_519_1_3": {
+    "value": "Want me to customize your makeup look?"
+  },
+  "ins_reply_519_1_4": {
+    "value": "You only need to look straight down to see what's missing in the vibe."
+  },
+  "ins_reply_519_1_5": {
+    "value": "(▼へ▼メ)"
+  },
+  "ins_reply_519_2_1": {
+    "value": "Bought it from the filter shop!"
+  },
+  "ins_reply_519_2_2": {
+    "value": "wait, you have to pay for those?"
+  },
+  "ins_reply_519_2_3": {
+    "value": "I'll go negotiate, gimme a sec!"
+  },
+  "ins_reply_519_2_4": {
+    "value": "How generous, nya! There's now a 7-day trial available, nya!"
+  },
+  "ins_reply_519_3_1": {
+    "value": "Wow you're right! Cute \\\\\\\\(0.<)v"
+  },
+  "ins_reply_519_3_2": {
+    "value": "\\\\\\\\(0.<)v!"
+  },
+  "ins_reply_519_3_3": {
+    "value": "Don't mind if I do \\\\\\\\(0.<)v"
+  },
+  "ins_reply_520_1_1": {
+    "value": "What the heck is a big-league adventure?"
+  },
+  "ins_reply_520_1_2": {
+    "value": "Don't sweat the details, I know all about it! Better than anyone else even!"
+  },
+  "ins_reply_520_1_3": {
+    "value": "Well it sounds cool, you gotta tell me about it later!"
+  },
+  "ins_reply_520_1_4": {
+    "value": "You bet! I'll walk you through everything from A to Z!"
+  },
+  "ins_reply_520_2_1": {
+    "value": "Who else but me? Pretty impressive, right?"
+  },
+  "ins_reply_520_2_2": {
+    "value": "But I would also like to thank... YOUR NAME HERE (for a small fee)!"
+  },
+  "ins_reply_520_3_1": {
+    "value": "Uh-oh..."
+  },
+  "ins_reply_520_3_2": {
+    "value": "Z52 are you still okay there? Please respond."
+  },
+  "ins_reply_520_3_3": {
+    "value": "Yeah what? I'm on a running high right now."
+  },
+  "ins_reply_520_3_4": {
+    "value": "Oh, so it works fine. Guess you don't need the screws then. Have fun!"
+  },
+  "ins_reply_521_1_1": {
+    "value": "Don't be sad Z9, I'll help you too! Please don't cry or you're gonna make me cry too..."
+  },
+  "ins_reply_521_1_2": {
+    "value": ";-; sorry..."
+  },
+  "ins_reply_521_1_3": {
+    "value": "There, there, don't cry. I'll get a sewing kit for you."
+  },
+  "ins_reply_521_2_1": {
+    "value": "Are they? But having holes around the knees seems really weird, or maybe that's just me..."
+  },
+  "ins_reply_521_2_2": {
+    "value": "wait, \\\\\"these days\\\\\"? no lmao, that's way outta fashion"
+  },
+  "ins_reply_521_3_1": {
+    "value": "But I bought these just today..."
+  },
+  "ins_reply_521_3_2": {
+    "value": "oh. my condolences..."
+  },
+  "ins_reply_522_1_1": {
+    "value": "Then you've GOT to throw a party! With karaoke and board games!"
+  },
+  "ins_reply_522_1_2": {
+    "value": "Oh no the happy normie squad has arrived... Peace out, I'm just gonna take a nap..."
+  },
+  "ins_reply_522_1_3": {
+    "value": "Thinking about having to put on makeup before going out... Sorry, I just can't do it!"
+  },
+  "ins_reply_522_2_1": {
+    "value": "Leaving work undone and loafing around? The slacker!"
+  },
+  "ins_reply_522_2_2": {
+    "value": "Look out, it's the workaholics! Stop pushing your work ethic onto us or we'll riot!"
+  },
+  "ins_reply_522_2_3": {
+    "value": "Do I really HAVE to do it right now? The deadline is tomorrow morning, and my future self can handle it then."
+  },
+  "ins_reply_522_2_4": {
+    "value": "Preach it. People don't wanna think about work during their holidays."
+  },
+  "ins_reply_522_3_1": {
+    "value": "yeah, hurry up. my food delivery is on the way"
+  },
+  "ins_reply_522_3_2": {
+    "value": "Yes. We're waiting for you."
+  },
+  "ins_reply_522_3_3": {
+    "value": "Oh sweet, sent you a join request!"
+  },
+  "ins_reply_522_3_4": {
+    "value": "You're having a race? Where? I'm in too!"
+  },
+  "ins_reply_522_3_5": {
+    "value": "In the game lobby."
+  },
+  "ins_reply_522_3_6": {
+    "value": "What? Like... indoors?"
+  },
+  "ins_reply_523_1_1": {
+    "value": ""
+  },
+  "ins_reply_523_2_1": {
+    "value": ""
+  },
+  "ins_reply_523_3_1": {
+    "value": ""
+  },
+  "ins_reply_524_1_1": {
+    "value": ""
+  },
+  "ins_reply_524_1_2": {
+    "value": ""
+  },
+  "ins_reply_524_1_3": {
+    "value": ""
+  },
+  "ins_reply_524_2_1": {
+    "value": ""
+  },
+  "ins_reply_524_2_2": {
+    "value": ""
+  },
+  "ins_reply_524_2_3": {
+    "value": ""
+  },
+  "ins_reply_524_3_1": {
+    "value": ""
+  },
+  "ins_reply_524_3_2": {
+    "value": ""
+  },
+  "ins_reply_524_3_3": {
+    "value": ""
+  },
+  "ins_reply_524_3_4": {
+    "value": ""
+  },
+  "ins_reply_525_1_1": {
+    "value": ""
+  },
+  "ins_reply_525_1_2": {
+    "value": ""
+  },
+  "ins_reply_525_2_1": {
+    "value": ""
+  },
+  "ins_reply_525_2_2": {
+    "value": ""
+  },
+  "ins_reply_525_3_1": {
+    "value": ""
+  },
+  "ins_reply_525_3_2": {
+    "value": ""
+  },
+  "ins_reply_525_3_3": {
+    "value": ""
+  },
+  "ins_reply_526_1_1": {
+    "value": ""
+  },
+  "ins_reply_526_1_2": {
+    "value": ""
+  },
+  "ins_reply_526_1_3": {
+    "value": ""
+  },
+  "ins_reply_526_2_1": {
+    "value": ""
+  },
+  "ins_reply_526_2_2": {
+    "value": ""
+  },
+  "ins_reply_526_3_1": {
+    "value": ""
+  },
+  "ins_reply_526_3_2": {
+    "value": ""
+  },
+  "ins_reply_527_1_1": {
+    "value": ""
+  },
+  "ins_reply_527_1_2": {
+    "value": ""
+  },
+  "ins_reply_527_1_3": {
+    "value": ""
+  },
+  "ins_reply_527_1_4": {
+    "value": ""
+  },
+  "ins_reply_527_2_1": {
+    "value": ""
+  },
+  "ins_reply_527_2_2": {
+    "value": ""
+  },
+  "ins_reply_527_2_3": {
+    "value": ""
+  },
+  "ins_reply_527_2_4": {
+    "value": ""
+  },
+  "ins_reply_527_3_1": {
+    "value": ""
+  },
+  "ins_reply_527_3_2": {
+    "value": ""
+  },
+  "ins_reply_527_3_3": {
+    "value": ""
+  },
+  "ins_reply_527_3_4": {
+    "value": ""
+  },
+  "ins_reply_528_1_1": {
+    "value": ""
+  },
+  "ins_reply_528_1_2": {
+    "value": ""
+  },
+  "ins_reply_528_1_3": {
+    "value": ""
+  },
+  "ins_reply_528_2_1": {
+    "value": ""
+  },
+  "ins_reply_528_2_2": {
+    "value": ""
+  },
+  "ins_reply_528_2_3": {
+    "value": ""
+  },
+  "ins_reply_528_2_4": {
+    "value": ""
+  },
+  "ins_reply_528_2_5": {
+    "value": ""
+  },
+  "ins_reply_528_3_1": {
+    "value": ""
+  },
+  "ins_reply_528_3_2": {
+    "value": ""
+  },
+  "ins_reply_528_3_3": {
+    "value": ""
+  },
+  "ins_reply_528_3_4": {
+    "value": ""
+  },
+  "ins_reply_529_1_1": {
+    "value": ""
+  },
+  "ins_reply_529_1_2": {
+    "value": ""
+  },
+  "ins_reply_529_1_3": {
+    "value": ""
+  },
+  "ins_reply_529_1_4": {
+    "value": ""
+  },
+  "ins_reply_529_2_1": {
+    "value": ""
+  },
+  "ins_reply_529_2_2": {
+    "value": ""
+  },
+  "ins_reply_529_2_3": {
+    "value": ""
+  },
+  "ins_reply_529_2_4": {
+    "value": ""
+  },
+  "ins_reply_530_1_1": {
+    "value": ""
+  },
+  "ins_reply_530_1_2": {
+    "value": ""
+  },
+  "ins_reply_530_2_1": {
+    "value": ""
+  },
+  "ins_reply_530_2_2": {
+    "value": ""
+  },
+  "ins_reply_530_2_3": {
+    "value": ""
+  },
+  "ins_reply_530_2_4": {
+    "value": ""
+  },
+  "ins_reply_530_2_5": {
     "value": ""
   },
   "op_reply_1_1_1": {
@@ -20700,13 +21870,13 @@
     "value": "It's okay, Commander! The moment I'm finished, I'll go straight to your office so we can be together!"
   },
   "op_reply_5_1_1": {
-    "value": "Requesting list of conditions necessary for \"fun\" to take place."
+    "value": "Requesting list of conditions necessary for \\\\\"fun\\\\\" to take place."
   },
   "op_reply_5_1_2": {
     "value": "Orders received, directive updated. Commencing sandcastle construction."
   },
   "op_reply_6_1_1": {
-    "value": "Conditions for experiencing the emotion known as \"fun\" have been met."
+    "value": "Conditions for experiencing the emotion known as \\\\\"fun\\\\\" have been met."
   },
   "op_reply_7_1_1": {
     "value": "Assessment: interpreting praise of singing ability as equal to praise of emotional capacity may cause disruptions in analytic systems..."
@@ -20901,7 +22071,7 @@
     "value": "Miss Enterprise is accustomed to consuming rations, which are densely packed with protein and carbohydrates. We will have to correct this imbalance for now. "
   },
   "op_reply_41_1_3": {
-    "value": "Since when is force-feeding considered \"ensuring everyone's well-being\"...? "
+    "value": "Since when is force-feeding considered \\\\\"ensuring everyone's well-being\\\\\"...? "
   },
   "op_reply_41_1_4": {
     "value": "She's confiscating my steaks until Saturday. "
@@ -21066,7 +22236,7 @@
     "value": "Requesting revisions to Commander's training regime. Requesting replacement of mobility module."
   },
   "op_reply_69_1_2": {
-    "value": "Analysis: abnormal temperature stimulus recorded by tactile system. Closest description recorded in database: \"the chills.\""
+    "value": "Analysis: abnormal temperature stimulus recorded by tactile system. Closest description recorded in database: \\\\\"the chills.\\\\\""
   },
   "op_reply_70_1_1": {
     "value": "Should you desire it, I shall watch over you till the end of time, my child."
@@ -21255,7 +22425,7 @@
     "value": "Hehe, sure~ But how much are you willing to pay, Commander? It doesn't come cheap~"
   },
   "op_reply_101_1_1": {
-    "value": "\"Grilling meat IS a battle!\" said Essex."
+    "value": "\\\\\"Grilling meat IS a battle!\\\\\" said Essex."
   },
   "op_reply_102_1_1": {
     "value": "Wait for it... wait for it..."
@@ -21546,7 +22716,7 @@
     "value": "Eyes on the prize, Commander. Whatever that might be~"
   },
   "op_reply_155_1_1": {
-    "value": "That is how you spell it? Well, I would say I've taken quite the picturesque \"selfie.\""
+    "value": "That is how you spell it? Well, I would say I've taken quite the picturesque \\\\\"selfie.\\\\\""
   },
   "op_reply_155_1_2": {
     "value": "Quite. Had you wings of your own, I would take you on a journey you would late forget."
@@ -21627,7 +22797,7 @@
     "value": "Grateful is this one... May spring grace all of us shortly..."
   },
   "op_reply_172_1_1": {
-    "value": "It's tough, I tell you... Heard it's called \"decision fatigue\" when you get tired of trying to decide on one of many things"
+    "value": "It's tough, I tell you... Heard it's called \\\\\"decision fatigue\\\\\" when you get tired of trying to decide on one of many things"
   },
   "op_reply_173_1_1": {
     "value": "Thanks! You're a real looker yourself, you know."
@@ -21933,7 +23103,7 @@
     "value": "Go right ahead. I probably should've brought something other than just noodles..."
   },
   "op_reply_232_1_1": {
-    "value": "Well said, \"sweetie\"! Hehe~"
+    "value": "Well said, \\\\\"sweetie\\\\\"! Hehe~"
   },
   "op_reply_233_1_1": {
     "value": "I was scared for a while, but now I'm fine... Thanks for worrying about me..."
@@ -22353,7 +23523,7 @@
     "value": "Flattery won't get you far with me, okay?! I'm so NOT over the moon!"
   },
   "op_reply_350_1_1": {
-    "value": "Were you the \"human lost in the forest\"? That would explain a few things..."
+    "value": "Were you the \\\\\"human lost in the forest\\\\\"? That would explain a few things..."
   },
   "op_reply_351_1_1": {
     "value": "Agreed. One of their main benefits is aiding distance learning for students who can't attend class."
@@ -22590,7 +23760,7 @@
     "value": "I suppose you're not sure how to befriend them either, then."
   },
   "op_reply_419_1_2": {
-    "value": "I... assume based on your reply that there have been \"incidents\" in the past."
+    "value": "I... assume based on your reply that there have been \\\\\"incidents\\\\\" in the past."
   },
   "op_reply_420_1_1": {
     "value": "Uhh, we quite literally bumped into each other..."
@@ -22752,7 +23922,7 @@
     "value": "Yeah! More fun!"
   },
   "op_reply_448_1_1": {
-    "value": "More than just \"like,\" I love it. Thank you so much!"
+    "value": "More than just \\\\\"like,\\\\\" I love it. Thank you so much!"
   },
   "op_reply_448_1_2": {
     "value": "Right..."
@@ -22860,7 +24030,7 @@
     "value": "A bit of column A, a bit of column B!"
   },
   "op_reply_467_1_1": {
-    "value": "That's a secret between us. \"If you're truly curious, plead and beg and Emden shall tell you.\""
+    "value": "That's a secret between us. \\\\\"If you're truly curious, plead and beg and Emden shall tell you.\\\\\""
   },
   "op_reply_467_1_2": {
     "value": "You already are an animal, human. Please make it easy for us both and accept it."
@@ -23088,45 +24258,159 @@
     "value": "You bet I do. Stay put and I'll come teach you the ropes."
   },
   "op_reply_505_1_1": {
-    "value": ""
+    "value": "Curious about what it is? Then join me in the kitchen sometime."
   },
   "op_reply_505_1_2": {
-    "value": ""
+    "value": "Will do! I've set some aside just for you."
   },
   "op_reply_506_1_1": {
-    "value": ""
+    "value": "No."
   },
   "op_reply_506_1_2": {
-    "value": ""
+    "value": "Sure. I'm on my way to taste you now."
   },
   "op_reply_507_1_1": {
-    "value": ""
+    "value": "You deserve the treasure far more than I do."
   },
   "op_reply_507_1_2": {
-    "value": ""
+    "value": "Likewise, I'll jump when you do!"
   },
   "op_reply_508_1_1": {
-    "value": ""
+    "value": "i could do this ez instead of carrying a tray for drinks. want me to do that for u next time ur workin?"
   },
   "op_reply_508_1_2": {
-    "value": ""
+    "value": "hard to say... i guess my muscles feel strong?"
   },
   "op_reply_509_1_1": {
-    "value": ""
+    "value": "Let's pick it up and play with it!"
   },
   "op_reply_509_1_2": {
-    "value": ""
+    "value": "Oh that gives me an idea! Let's see who can hold their breath longest"
   },
   "op_reply_510_1_1": {
-    "value": ""
+    "value": "it's not JUST a slogan! you'll see for yourself next time i cook for you!"
   },
   "op_reply_510_1_2": {
-    "value": ""
+    "value": "patience! you'll be able to buy them soon!"
   },
   "op_reply_511_1_1": {
-    "value": ""
+    "value": "And you're the best assistant I could ask for!"
   },
   "op_reply_511_1_2": {
+    "value": "How is he any less real than any other horseman with no head?"
+  },
+  "op_reply_512_1_1": {
+    "value": "Well, it's ready and waiting. Taking all comers whenever you're ready~"
+  },
+  "op_reply_512_1_2": {
+    "value": "Hmm... How about I move it to your bathroom? That way, everyone knows where it is! Heheheh~"
+  },
+  "op_reply_513_1_1": {
+    "value": "Okay! Are you coming now? Or should I bring it to you?"
+  },
+  "op_reply_513_1_2": {
+    "value": "Pah, you worry too much!"
+  },
+  "op_reply_514_1_1": {
+    "value": "Heehee, and they taste good, too. I'll send some for you later, Commander."
+  },
+  "op_reply_514_1_2": {
+    "value": "Relax. They're safe to eat and delicious to boot."
+  },
+  "op_reply_515_1_1": {
+    "value": "Thanks, Commander. I'll try to get home earlier next time."
+  },
+  "op_reply_515_1_2": {
+    "value": "USED to it?! That means it's normal, right? Tell me everything, Commander!"
+  },
+  "op_reply_516_1_1": {
+    "value": "i sent you the restaurant. we can eat together if you want."
+  },
+  "op_reply_516_1_2": {
+    "value": "okay. i'll order the fruit and tomato taiyaki next time."
+  },
+  "op_reply_517_1_1": {
+    "value": "Naturally. You have to set an example for everyone at port."
+  },
+  "op_reply_517_1_2": {
+    "value": "I'm fine. This is hard work, but I'm used to it. I can do it alone. Thanks, though!"
+  },
+  "op_reply_518_1_1": {
+    "value": "Yes. That's word-for-word what the book says."
+  },
+  "op_reply_518_1_2": {
+    "value": "I guess someone knew there'd be a high demand for it. Do you want to read it, Commander?"
+  },
+  "op_reply_519_1_1": {
+    "value": "Aww, I'm so glad to hear you say that."
+  },
+  "op_reply_519_1_2": {
+    "value": "You got it! I'll try the bunny ears filter next time."
+  },
+  "op_reply_520_1_1": {
+    "value": "Now we're talking! Engage the turbo boost!"
+  },
+  "op_reply_520_1_2": {
+    "value": "WAIT... I THINK IT'S GETTING FASTER AND FASTER!"
+  },
+  "op_reply_521_1_1": {
+    "value": "I'm okay... My stocking just got caught... But please come here and give me a hug..."
+  },
+  "op_reply_521_1_2": {
+    "value": "I'm trying really hard to find it... but... can you come and give me a big hug, please..."
+  },
+  "op_reply_522_1_1": {
+    "value": "Thanks, Mandy! I actually kinda feel like chatting with you... are you down for a video call?"
+  },
+  "op_reply_522_1_2": {
+    "value": "Ugh, I did NOT need that reminder... How can you be so cruel? Have a heart!"
+  },
+  "op_reply_523_1_1": {
+    "value": ""
+  },
+  "op_reply_523_1_2": {
+    "value": ""
+  },
+  "op_reply_524_1_1": {
+    "value": ""
+  },
+  "op_reply_524_1_2": {
+    "value": ""
+  },
+  "op_reply_525_1_1": {
+    "value": ""
+  },
+  "op_reply_525_1_2": {
+    "value": ""
+  },
+  "op_reply_526_1_1": {
+    "value": ""
+  },
+  "op_reply_526_1_2": {
+    "value": ""
+  },
+  "op_reply_527_1_1": {
+    "value": ""
+  },
+  "op_reply_527_1_2": {
+    "value": ""
+  },
+  "op_reply_528_1_1": {
+    "value": ""
+  },
+  "op_reply_528_1_2": {
+    "value": ""
+  },
+  "op_reply_529_1_1": {
+    "value": ""
+  },
+  "op_reply_529_1_2": {
+    "value": ""
+  },
+  "op_reply_530_1_1": {
+    "value": ""
+  },
+  "op_reply_530_1_2": {
     "value": ""
   }
 }

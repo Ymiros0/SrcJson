@@ -1489,6 +1489,111 @@
     "itemid": 65036,
     "name": "skinTicket80"
   },
+  "437": {
+    "id": 437,
+    "itemid": 65041,
+    "name": "rixiv3_pt2"
+  },
+  "438": {
+    "id": 438,
+    "itemid": 65043,
+    "name": "skinTicket81"
+  },
+  "439": {
+    "id": 439,
+    "itemid": 65046,
+    "name": "blackfirday_pt2024"
+  },
+  "440": {
+    "id": 440,
+    "itemid": 65047,
+    "name": "tolove_pt"
+  },
+  "441": {
+    "id": 441,
+    "itemid": 65048,
+    "name": "tolove_jigsaw_pt"
+  },
+  "442": {
+    "id": 442,
+    "itemid": 65055,
+    "name": "newserver_pt_241121"
+  },
+  "443": {
+    "id": 443,
+    "itemid": 65058,
+    "name": "skinTicket82"
+  },
+  "444": {
+    "id": 444,
+    "itemid": 65062,
+    "name": "blackfirday_pt20241212"
+  },
+  "445": {
+    "id": 445,
+    "itemid": 68006,
+    "name": "limit_skinticket1"
+  },
+  "446": {
+    "id": 446,
+    "itemid": 68007,
+    "name": "limit_skinticket2"
+  },
+  "447": {
+    "id": 447,
+    "itemid": 68008,
+    "name": "limit_skinticket3"
+  },
+  "448": {
+    "id": 448,
+    "itemid": 65063,
+    "name": "lumei_pt"
+  },
+  "449": {
+    "id": 449,
+    "itemid": 65064,
+    "name": "lumei_hpt"
+  },
+  "450": {
+    "id": 450,
+    "itemid": 65067,
+    "name": "skinTicket83"
+  },
+  "451": {
+    "id": 451,
+    "itemid": 86410,
+    "name": "Christmax2024_pt"
+  },
+  "452": {
+    "id": 452,
+    "itemid": 65500,
+    "name": "activity_xunzhang"
+  },
+  "453": {
+    "id": 453,
+    "itemid": 65509,
+    "name": "commission_pt4"
+  },
+  "454": {
+    "id": 454,
+    "itemid": 68015,
+    "name": "limit_skinticket4"
+  },
+  "455": {
+    "id": 455,
+    "itemid": 68016,
+    "name": "limit_skinticket5"
+  },
+  "456": {
+    "id": 456,
+    "itemid": 68017,
+    "name": "limit_skinticket6"
+  },
+  "457": {
+    "id": 457,
+    "itemid": 65068,
+    "name": "skinTicket84"
+  },
   "950": {
     "id": 950,
     "itemid": 59111,
@@ -1724,6 +1829,11 @@
     "itemid": 21916,
     "name": "synchronize_changmen"
   },
+  "3018": {
+    "id": 3018,
+    "itemid": 21917,
+    "name": "synchronize_dafeng"
+  },
   "3106": {
     "id": 3106,
     "itemid": 59107,
@@ -1829,6 +1939,11 @@
     "itemid": 65028,
     "name": "Battlepass_19"
   },
+  "4020": {
+    "id": 4020,
+    "itemid": 65057,
+    "name": "Battlepass_20"
+  },
   "4186": {
     "id": 4186,
     "itemid": 0,
@@ -1858,6 +1973,16 @@
     "id": 5082,
     "itemid": 0,
     "name": "skin_rerun_pt_2023"
+  },
+  "5653": {
+    "id": 5653,
+    "itemid": 0,
+    "name": "skin_rerun_pt_2024"
+  },
+  "5704": {
+    "id": 5704,
+    "itemid": 0,
+    "name": "skin_rerun_pt_2024_cn"
   },
   "30853": {
     "id": 30853,
@@ -2173,6 +2298,27 @@
     434,
     435,
     436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
     950,
     951,
     952,
@@ -2220,6 +2366,7 @@
     3015,
     3016,
     3017,
+    3018,
     3106,
     3137,
     4001,
@@ -2241,12 +2388,15 @@
     4017,
     4018,
     4019,
+    4020,
     4186,
     4276,
     4599,
     4699,
     5081,
     5082,
+    5653,
+    5704,
     100004,
     40275,
     30853
@@ -2260,6 +2410,9 @@
     ],
     "240912_pt": [
       431
+    ],
+    "activity_xunzhang": [
+      452
     ],
     "battery": [
       101
@@ -2330,6 +2483,9 @@
     "Battlepass_19": [
       4019
     ],
+    "Battlepass_20": [
+      4020
+    ],
     "bili_pt": [
       129
     ],
@@ -2345,6 +2501,12 @@
     "bisimai_pt2": [
       166
     ],
+    "blackfirday_pt2024": [
+      439
+    ],
+    "blackfirday_pt20241212": [
+      444
+    ],
     "British_pt": [
       119
     ],
@@ -2353,6 +2515,9 @@
     ],
     "bulvxieer_pt": [
       274
+    ],
+    "Christmax2024_pt": [
+      451
     ],
     "chuansong": [
       116
@@ -2380,6 +2545,9 @@
     ],
     "commission_pt3": [
       379
+    ],
+    "commission_pt4": [
+      453
     ],
     "contribution_worldboss": [
       2001
@@ -2579,6 +2747,24 @@
     "klms_pt": [
       365
     ],
+    "limit_skinticket1": [
+      445
+    ],
+    "limit_skinticket2": [
+      446
+    ],
+    "limit_skinticket3": [
+      447
+    ],
+    "limit_skinticket4": [
+      454
+    ],
+    "limit_skinticket5": [
+      455
+    ],
+    "limit_skinticket6": [
+      456
+    ],
     "liuzhounianhaidao_pt": [
       350
     ],
@@ -2587,6 +2773,12 @@
     ],
     "longxiang2": [
       145
+    ],
+    "lumei_hpt": [
+      449
+    ],
+    "lumei_pt": [
+      448
     ],
     "maoxi_pt": [
       143
@@ -2675,6 +2867,9 @@
     "newserver_pt_240425": [
       408
     ],
+    "newserver_pt_241121": [
+      442
+    ],
     "nvpu2_pt": [
       2004
     ],
@@ -2732,6 +2927,9 @@
     "rixiv3_pt": [
       277
     ],
+    "rixiv3_pt2": [
+      437
+    ],
     "ruifeng_pt": [
       429
     ],
@@ -2776,6 +2974,12 @@
     ],
     "skin_rerun_pt_2023": [
       5082
+    ],
+    "skin_rerun_pt_2024": [
+      5653
+    ],
+    "skin_rerun_pt_2024_cn": [
+      5704
     ],
     "skin_rerun_pt_jp2023": [
       4699
@@ -3017,6 +3221,18 @@
     "skinTicket80": [
       436
     ],
+    "skinTicket81": [
+      438
+    ],
+    "skinTicket82": [
+      443
+    ],
+    "skinTicket83": [
+      450
+    ],
+    "skinTicket84": [
+      457
+    ],
     "skinTicketkr": [
       952
     ],
@@ -3043,6 +3259,9 @@
     ],
     "synchronize_changmen": [
       3017
+    ],
+    "synchronize_dafeng": [
+      3018
     ],
     "synchronize_fanji": [
       3008
@@ -3085,6 +3304,12 @@
     ],
     "tiancheng2": [
       151
+    ],
+    "tolove_jigsaw_pt": [
+      441
+    ],
+    "tolove_pt": [
+      440
     ],
     "tongmeng_pt": [
       396

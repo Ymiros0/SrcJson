@@ -17379,6 +17379,986 @@
     "value_1": 20,
     "value_2": 10
   },
+  "13400": {
+    "attribute_1": "cannon",
+    "attribute_2": "dodge",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13400",
+    "id": 13400,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Neptune's Trident",
+    "next": 13401,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1019020
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 29901,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 6,
+    "value_2_random": 5
+  },
+  "13401": {
+    "base": 13400,
+    "id": 13401,
+    "level": 2,
+    "next": 13402,
+    "prev": 13400,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 6
+  },
+  "13402": {
+    "base": 13400,
+    "id": 13402,
+    "level": 3,
+    "next": 13403,
+    "prev": 13401,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 7
+  },
+  "13403": {
+    "base": 13400,
+    "id": 13403,
+    "level": 4,
+    "next": 13404,
+    "prev": 13402,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 8
+  },
+  "13404": {
+    "base": 13400,
+    "id": 13404,
+    "level": 5,
+    "next": 13405,
+    "prev": 13403,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 9
+  },
+  "13405": {
+    "base": 13400,
+    "id": 13405,
+    "level": 6,
+    "next": 13406,
+    "prev": 13404,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 10
+  },
+  "13406": {
+    "base": 13400,
+    "id": 13406,
+    "level": 7,
+    "next": 13407,
+    "prev": 13405,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 11
+  },
+  "13407": {
+    "base": 13400,
+    "id": 13407,
+    "level": 8,
+    "next": 13408,
+    "prev": 13406,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 12
+  },
+  "13408": {
+    "base": 13400,
+    "id": 13408,
+    "level": 9,
+    "next": 13409,
+    "prev": 13407,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 13
+  },
+  "13409": {
+    "base": 13400,
+    "id": 13409,
+    "level": 10,
+    "next": 13410,
+    "prev": 13408,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 14
+  },
+  "13410": {
+    "base": 13400,
+    "id": 13410,
+    "level": 11,
+    "next": 0,
+    "prev": 13409,
+    "skill_upgrade": [
+      [
+        19020,
+        1019020
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 15
+  },
+  "13420": {
+    "attribute_1": "torpedo",
+    "attribute_2": "reload",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13420",
+    "id": 13420,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Watch Your Head!",
+    "next": 13421,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090330
+      ]
+    ],
+    "tech": 0,
+    "type": 1,
+    "uncraftable": 0,
+    "unique": 30113,
+    "upgrade_id": 101,
+    "usability": [
+      1
+    ],
+    "value_1": 11,
+    "value_1_random": 10,
+    "value_2": 10,
+    "value_2_random": 5
+  },
+  "13421": {
+    "base": 13420,
+    "id": 13421,
+    "level": 2,
+    "next": 13422,
+    "prev": 13420,
+    "upgrade_id": 102,
+    "value_1": 12,
+    "value_2": 11
+  },
+  "13422": {
+    "base": 13420,
+    "id": 13422,
+    "level": 3,
+    "next": 13423,
+    "prev": 13421,
+    "upgrade_id": 103,
+    "value_1": 13,
+    "value_2": 12
+  },
+  "13423": {
+    "base": 13420,
+    "id": 13423,
+    "level": 4,
+    "next": 13424,
+    "prev": 13422,
+    "upgrade_id": 104,
+    "value_1": 14,
+    "value_2": 13
+  },
+  "13424": {
+    "base": 13420,
+    "id": 13424,
+    "level": 5,
+    "next": 13425,
+    "prev": 13423,
+    "upgrade_id": 105,
+    "value_1": 15,
+    "value_2": 14
+  },
+  "13425": {
+    "base": 13420,
+    "id": 13425,
+    "level": 6,
+    "next": 13426,
+    "prev": 13424,
+    "upgrade_id": 106,
+    "value_1": 16,
+    "value_2": 15
+  },
+  "13426": {
+    "base": 13420,
+    "id": 13426,
+    "level": 7,
+    "next": 13427,
+    "prev": 13425,
+    "upgrade_id": 107,
+    "value_1": 17,
+    "value_2": 16
+  },
+  "13427": {
+    "base": 13420,
+    "id": 13427,
+    "level": 8,
+    "next": 13428,
+    "prev": 13426,
+    "upgrade_id": 108,
+    "value_1": 18,
+    "value_2": 17
+  },
+  "13428": {
+    "base": 13420,
+    "id": 13428,
+    "level": 9,
+    "next": 13429,
+    "prev": 13427,
+    "upgrade_id": 109,
+    "value_1": 19,
+    "value_2": 18
+  },
+  "13429": {
+    "base": 13420,
+    "id": 13429,
+    "level": 10,
+    "next": 13430,
+    "prev": 13428,
+    "upgrade_id": 110,
+    "value_1": 20,
+    "value_2": 19
+  },
+  "13430": {
+    "base": 13420,
+    "id": 13430,
+    "level": 11,
+    "next": 0,
+    "prev": 13429,
+    "skill_upgrade": [
+      [
+        1013,
+        1090330
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 22,
+    "value_2": 20
+  },
+  "13440": {
+    "attribute_1": "cannon",
+    "attribute_2": "torpedo",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13440",
+    "id": 13440,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Upgrade Tool Pro Max",
+    "next": 13441,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090350
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 30201,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 8,
+    "value_1_random": 10,
+    "value_2": 10,
+    "value_2_random": 5
+  },
+  "13441": {
+    "base": 13440,
+    "id": 13441,
+    "level": 2,
+    "next": 13442,
+    "prev": 13440,
+    "upgrade_id": 102,
+    "value_1": 9,
+    "value_2": 11
+  },
+  "13442": {
+    "base": 13440,
+    "id": 13442,
+    "level": 3,
+    "next": 13443,
+    "prev": 13441,
+    "upgrade_id": 103,
+    "value_1": 10,
+    "value_2": 13
+  },
+  "13443": {
+    "base": 13440,
+    "id": 13443,
+    "level": 4,
+    "next": 13444,
+    "prev": 13442,
+    "upgrade_id": 104,
+    "value_1": 11,
+    "value_2": 14
+  },
+  "13444": {
+    "base": 13440,
+    "id": 13444,
+    "level": 5,
+    "next": 13445,
+    "prev": 13443,
+    "upgrade_id": 105,
+    "value_1": 12,
+    "value_2": 16
+  },
+  "13445": {
+    "base": 13440,
+    "id": 13445,
+    "level": 6,
+    "next": 13446,
+    "prev": 13444,
+    "upgrade_id": 106,
+    "value_1": 14,
+    "value_2": 17
+  },
+  "13446": {
+    "base": 13440,
+    "id": 13446,
+    "level": 7,
+    "next": 13447,
+    "prev": 13445,
+    "upgrade_id": 107,
+    "value_1": 15,
+    "value_2": 19
+  },
+  "13447": {
+    "base": 13440,
+    "id": 13447,
+    "level": 8,
+    "next": 13448,
+    "prev": 13446,
+    "upgrade_id": 108,
+    "value_1": 16,
+    "value_2": 20
+  },
+  "13448": {
+    "base": 13440,
+    "id": 13448,
+    "level": 9,
+    "next": 13449,
+    "prev": 13447,
+    "upgrade_id": 109,
+    "value_1": 17,
+    "value_2": 22
+  },
+  "13449": {
+    "base": 13440,
+    "id": 13449,
+    "level": 10,
+    "next": 13450,
+    "prev": 13448,
+    "upgrade_id": 110,
+    "value_1": 18,
+    "value_2": 23
+  },
+  "13450": {
+    "base": 13440,
+    "id": 13450,
+    "level": 11,
+    "next": 0,
+    "prev": 13449,
+    "skill_upgrade": [
+      [
+        2011,
+        1090350
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 20,
+    "value_2": 25
+  },
+  "13460": {
+    "attribute_1": "cannon",
+    "attribute_2": "dodge",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13460",
+    "id": 13460,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Purse of Everyday Items",
+    "next": 13461,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1019090
+      ]
+    ],
+    "tech": 0,
+    "type": 4,
+    "uncraftable": 0,
+    "unique": 49901,
+    "upgrade_id": 101,
+    "usability": [
+      3
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "13461": {
+    "base": 13460,
+    "id": 13461,
+    "level": 2,
+    "next": 13462,
+    "prev": 13460,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 1
+  },
+  "13462": {
+    "base": 13460,
+    "id": 13462,
+    "level": 3,
+    "next": 13463,
+    "prev": 13461,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "13463": {
+    "base": 13460,
+    "id": 13463,
+    "level": 4,
+    "next": 13464,
+    "prev": 13462,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "13464": {
+    "base": 13460,
+    "id": 13464,
+    "level": 5,
+    "next": 13465,
+    "prev": 13463,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "13465": {
+    "base": 13460,
+    "id": 13465,
+    "level": 6,
+    "next": 13466,
+    "prev": 13464,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "13466": {
+    "base": 13460,
+    "id": 13466,
+    "level": 7,
+    "next": 13467,
+    "prev": 13465,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "13467": {
+    "base": 13460,
+    "id": 13467,
+    "level": 8,
+    "next": 13468,
+    "prev": 13466,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "13468": {
+    "base": 13460,
+    "id": 13468,
+    "level": 9,
+    "next": 13469,
+    "prev": 13467,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "13469": {
+    "base": 13460,
+    "id": 13469,
+    "level": 10,
+    "next": 13470,
+    "prev": 13468,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "13470": {
+    "base": 13460,
+    "id": 13470,
+    "level": 11,
+    "next": 0,
+    "prev": 13469,
+    "skill_upgrade": [
+      [
+        19090,
+        1019090
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "13480": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13480",
+    "id": 13480,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Holy Lance of Judgment",
+    "next": 13481,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1019110
+      ]
+    ],
+    "tech": 0,
+    "type": 4,
+    "uncraftable": 0,
+    "unique": 89901,
+    "upgrade_id": 101,
+    "usability": [
+      3
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "13481": {
+    "base": 13480,
+    "id": 13481,
+    "level": 2,
+    "next": 13482,
+    "prev": 13480,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 1
+  },
+  "13482": {
+    "base": 13480,
+    "id": 13482,
+    "level": 3,
+    "next": 13483,
+    "prev": 13481,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "13483": {
+    "base": 13480,
+    "id": 13483,
+    "level": 4,
+    "next": 13484,
+    "prev": 13482,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "13484": {
+    "base": 13480,
+    "id": 13484,
+    "level": 5,
+    "next": 13485,
+    "prev": 13483,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "13485": {
+    "base": 13480,
+    "id": 13485,
+    "level": 6,
+    "next": 13486,
+    "prev": 13484,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "13486": {
+    "base": 13480,
+    "id": 13486,
+    "level": 7,
+    "next": 13487,
+    "prev": 13485,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "13487": {
+    "base": 13480,
+    "id": 13487,
+    "level": 8,
+    "next": 13488,
+    "prev": 13486,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "13488": {
+    "base": 13480,
+    "id": 13488,
+    "level": 9,
+    "next": 13489,
+    "prev": 13487,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "13489": {
+    "base": 13480,
+    "id": 13489,
+    "level": 10,
+    "next": 13490,
+    "prev": 13488,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "13490": {
+    "base": 13480,
+    "id": 13490,
+    "level": 11,
+    "next": 0,
+    "prev": 13489,
+    "skill_upgrade": [
+      [
+        19110,
+        1019110
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "13500": {
+    "attribute_1": "air",
+    "attribute_2": "hit",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 902060,
+    "effect_id_display": 902060,
+    "icon": "13500",
+    "id": 13500,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "One More Ball!",
+    "next": 13501,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090340
+      ]
+    ],
+    "tech": 0,
+    "type": 7,
+    "uncraftable": 0,
+    "unique": 10602,
+    "upgrade_id": 101,
+    "usability": [
+      6
+    ],
+    "value_1": 22,
+    "value_1_random": 10,
+    "value_2": 4,
+    "value_2_random": 5
+  },
+  "13501": {
+    "base": 13500,
+    "id": 13501,
+    "level": 2,
+    "next": 13502,
+    "prev": 13500,
+    "upgrade_id": 102,
+    "value_1": 22,
+    "value_2": 5
+  },
+  "13502": {
+    "base": 13500,
+    "id": 13502,
+    "level": 3,
+    "next": 13503,
+    "prev": 13501,
+    "upgrade_id": 103,
+    "value_1": 23,
+    "value_2": 5
+  },
+  "13503": {
+    "base": 13500,
+    "id": 13503,
+    "level": 4,
+    "next": 13504,
+    "prev": 13502,
+    "upgrade_id": 104,
+    "value_1": 23,
+    "value_2": 6
+  },
+  "13504": {
+    "base": 13500,
+    "id": 13504,
+    "level": 5,
+    "next": 13505,
+    "prev": 13503,
+    "upgrade_id": 105,
+    "value_1": 24,
+    "value_2": 6
+  },
+  "13505": {
+    "base": 13500,
+    "id": 13505,
+    "level": 6,
+    "next": 13506,
+    "prev": 13504,
+    "upgrade_id": 106,
+    "value_1": 25,
+    "value_2": 7
+  },
+  "13506": {
+    "base": 13500,
+    "id": 13506,
+    "level": 7,
+    "next": 13507,
+    "prev": 13505,
+    "upgrade_id": 107,
+    "value_1": 26,
+    "value_2": 7
+  },
+  "13507": {
+    "base": 13500,
+    "id": 13507,
+    "level": 8,
+    "next": 13508,
+    "prev": 13506,
+    "upgrade_id": 108,
+    "value_1": 27,
+    "value_2": 8
+  },
+  "13508": {
+    "base": 13500,
+    "id": 13508,
+    "level": 9,
+    "next": 13509,
+    "prev": 13507,
+    "upgrade_id": 109,
+    "value_1": 28,
+    "value_2": 8
+  },
+  "13509": {
+    "base": 13500,
+    "id": 13509,
+    "level": 10,
+    "next": 13510,
+    "prev": 13508,
+    "upgrade_id": 110,
+    "value_1": 29,
+    "value_2": 9
+  },
+  "13510": {
+    "base": 13500,
+    "id": 13510,
+    "level": 11,
+    "next": 0,
+    "prev": 13509,
+    "skill_upgrade": [
+      [
+        3001,
+        1090340
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 30,
+    "value_2": 10
+  },
+  "13520": {
+    "attribute_1": "air",
+    "attribute_2": "reload",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 902060,
+    "effect_id_display": 902060,
+    "icon": "13520",
+    "id": 13520,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Resplendent Flower Hairpin",
+    "next": 13521,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090360
+      ]
+    ],
+    "tech": 0,
+    "type": 7,
+    "uncraftable": 0,
+    "unique": 30603,
+    "upgrade_id": 101,
+    "usability": [
+      6
+    ],
+    "value_1": 22,
+    "value_1_random": 10,
+    "value_2": 6,
+    "value_2_random": 5
+  },
+  "13521": {
+    "base": 13520,
+    "id": 13521,
+    "level": 2,
+    "next": 13522,
+    "prev": 13520,
+    "upgrade_id": 102,
+    "value_1": 22,
+    "value_2": 6
+  },
+  "13522": {
+    "base": 13520,
+    "id": 13522,
+    "level": 3,
+    "next": 13523,
+    "prev": 13521,
+    "upgrade_id": 103,
+    "value_1": 23,
+    "value_2": 7
+  },
+  "13523": {
+    "base": 13520,
+    "id": 13523,
+    "level": 4,
+    "next": 13524,
+    "prev": 13522,
+    "upgrade_id": 104,
+    "value_1": 23,
+    "value_2": 8
+  },
+  "13524": {
+    "base": 13520,
+    "id": 13524,
+    "level": 5,
+    "next": 13525,
+    "prev": 13523,
+    "upgrade_id": 105,
+    "value_1": 24,
+    "value_2": 9
+  },
+  "13525": {
+    "base": 13520,
+    "id": 13525,
+    "level": 6,
+    "next": 13526,
+    "prev": 13524,
+    "upgrade_id": 106,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "13526": {
+    "base": 13520,
+    "id": 13526,
+    "level": 7,
+    "next": 13527,
+    "prev": 13525,
+    "upgrade_id": 107,
+    "value_1": 26,
+    "value_2": 11
+  },
+  "13527": {
+    "base": 13520,
+    "id": 13527,
+    "level": 8,
+    "next": 13528,
+    "prev": 13526,
+    "upgrade_id": 108,
+    "value_1": 27,
+    "value_2": 12
+  },
+  "13528": {
+    "base": 13520,
+    "id": 13528,
+    "level": 9,
+    "next": 13529,
+    "prev": 13527,
+    "upgrade_id": 109,
+    "value_1": 28,
+    "value_2": 13
+  },
+  "13529": {
+    "base": 13520,
+    "id": 13529,
+    "level": 10,
+    "next": 13530,
+    "prev": 13528,
+    "upgrade_id": 110,
+    "value_1": 29,
+    "value_2": 14
+  },
+  "13530": {
+    "base": 13520,
+    "id": 13530,
+    "level": 11,
+    "next": 0,
+    "prev": 13529,
+    "skill_upgrade": [
+      [
+        3041,
+        1090360
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 30,
+    "value_2": 15
+  },
   "13560": {
     "attribute_1": "cannon",
     "attribute_2": "dodge",
@@ -18072,6 +19052,1126 @@
     ],
     "upgrade_id": 111,
     "value_1": 20,
+    "value_2": 10
+  },
+  "13660": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "Lala Satalin Deviluke's Augment Module",
+    "effect_id": 111200,
+    "effect_id_display": 111200,
+    "icon": "13660",
+    "id": 13660,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Omnitool",
+    "next": 13661,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        111030
+      ]
+    ],
+    "tech": 0,
+    "type": 4,
+    "uncraftable": 1,
+    "unique": 1110001,
+    "upgrade_id": 10001,
+    "usability": [
+      3
+    ],
+    "value_1": 23,
+    "value_1_random": 0,
+    "value_2": 6,
+    "value_2_random": 0
+  },
+  "13661": {
+    "base": 13660,
+    "id": 13661,
+    "level": 2,
+    "next": 13662,
+    "prev": 13660,
+    "upgrade_id": 10002,
+    "value_1": 24,
+    "value_2": 6
+  },
+  "13662": {
+    "base": 13660,
+    "id": 13662,
+    "level": 3,
+    "next": 13663,
+    "prev": 13661,
+    "upgrade_id": 10003,
+    "value_1": 25,
+    "value_2": 7
+  },
+  "13663": {
+    "base": 13660,
+    "id": 13663,
+    "level": 4,
+    "next": 13664,
+    "prev": 13662,
+    "upgrade_id": 10004,
+    "value_1": 26,
+    "value_2": 8
+  },
+  "13664": {
+    "base": 13660,
+    "id": 13664,
+    "level": 5,
+    "next": 13665,
+    "prev": 13663,
+    "upgrade_id": 10005,
+    "value_1": 27,
+    "value_2": 9
+  },
+  "13665": {
+    "base": 13660,
+    "id": 13665,
+    "level": 6,
+    "next": 13666,
+    "prev": 13664,
+    "upgrade_id": 10006,
+    "value_1": 28,
+    "value_2": 10
+  },
+  "13666": {
+    "base": 13660,
+    "id": 13666,
+    "level": 7,
+    "next": 13667,
+    "prev": 13665,
+    "upgrade_id": 10007,
+    "value_1": 29,
+    "value_2": 11
+  },
+  "13667": {
+    "base": 13660,
+    "id": 13667,
+    "level": 8,
+    "next": 13668,
+    "prev": 13666,
+    "upgrade_id": 10008,
+    "value_1": 30,
+    "value_2": 12
+  },
+  "13668": {
+    "base": 13660,
+    "id": 13668,
+    "level": 9,
+    "next": 13669,
+    "prev": 13667,
+    "upgrade_id": 10009,
+    "value_1": 31,
+    "value_2": 13
+  },
+  "13669": {
+    "base": 13660,
+    "id": 13669,
+    "level": 10,
+    "next": 13670,
+    "prev": 13668,
+    "upgrade_id": 10010,
+    "value_1": 33,
+    "value_2": 14
+  },
+  "13670": {
+    "base": 13660,
+    "id": 13670,
+    "level": 11,
+    "next": 0,
+    "prev": 13669,
+    "skill_upgrade": [
+      [
+        111020,
+        111030
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 35,
+    "value_2": 15
+  },
+  "13680": {
+    "attribute_1": "torpedo",
+    "attribute_2": "hit",
+    "descrip": "Nana Astar Deviluke's Augment Module",
+    "effect_id": 111210,
+    "effect_id_display": 111210,
+    "icon": "13680",
+    "id": 13680,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Animal Attack",
+    "next": 13681,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        111060
+      ]
+    ],
+    "tech": 0,
+    "type": 1,
+    "uncraftable": 1,
+    "unique": 1110002,
+    "upgrade_id": 10001,
+    "usability": [
+      1
+    ],
+    "value_1": 21,
+    "value_1_random": 0,
+    "value_2": 12,
+    "value_2_random": 0
+  },
+  "13681": {
+    "base": 13680,
+    "id": 13681,
+    "level": 2,
+    "next": 13682,
+    "prev": 13680,
+    "upgrade_id": 10002,
+    "value_1": 22,
+    "value_2": 13
+  },
+  "13682": {
+    "base": 13680,
+    "id": 13682,
+    "level": 3,
+    "next": 13683,
+    "prev": 13681,
+    "upgrade_id": 10003,
+    "value_1": 23,
+    "value_2": 13
+  },
+  "13683": {
+    "base": 13680,
+    "id": 13683,
+    "level": 4,
+    "next": 13684,
+    "prev": 13682,
+    "upgrade_id": 10004,
+    "value_1": 24,
+    "value_2": 14
+  },
+  "13684": {
+    "base": 13680,
+    "id": 13684,
+    "level": 5,
+    "next": 13685,
+    "prev": 13683,
+    "upgrade_id": 10005,
+    "value_1": 25,
+    "value_2": 14
+  },
+  "13685": {
+    "base": 13680,
+    "id": 13685,
+    "level": 6,
+    "next": 13686,
+    "prev": 13684,
+    "upgrade_id": 10006,
+    "value_1": 26,
+    "value_2": 15
+  },
+  "13686": {
+    "base": 13680,
+    "id": 13686,
+    "level": 7,
+    "next": 13687,
+    "prev": 13685,
+    "upgrade_id": 10007,
+    "value_1": 27,
+    "value_2": 15
+  },
+  "13687": {
+    "base": 13680,
+    "id": 13687,
+    "level": 8,
+    "next": 13688,
+    "prev": 13686,
+    "upgrade_id": 10008,
+    "value_1": 28,
+    "value_2": 16
+  },
+  "13688": {
+    "base": 13680,
+    "id": 13688,
+    "level": 9,
+    "next": 13689,
+    "prev": 13687,
+    "upgrade_id": 10009,
+    "value_1": 29,
+    "value_2": 16
+  },
+  "13689": {
+    "base": 13680,
+    "id": 13689,
+    "level": 10,
+    "next": 13690,
+    "prev": 13688,
+    "upgrade_id": 10010,
+    "value_1": 30,
+    "value_2": 17
+  },
+  "13690": {
+    "base": 13680,
+    "id": 13690,
+    "level": 11,
+    "next": 0,
+    "prev": 13689,
+    "skill_upgrade": [
+      [
+        111040,
+        111060
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 32,
+    "value_2": 18
+  },
+  "13700": {
+    "attribute_1": "cannon",
+    "attribute_2": "reload",
+    "descrip": "Momo Belia Deviluke's Augment Module",
+    "effect_id": 111220,
+    "effect_id_display": 111220,
+    "icon": "13700",
+    "id": 13700,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Burst Flower",
+    "next": 13701,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        111080
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 1,
+    "unique": 1110003,
+    "upgrade_id": 10001,
+    "usability": [
+      2
+    ],
+    "value_1": 21,
+    "value_1_random": 0,
+    "value_2": 11,
+    "value_2_random": 0
+  },
+  "13701": {
+    "base": 13700,
+    "id": 13701,
+    "level": 2,
+    "next": 13702,
+    "prev": 13700,
+    "upgrade_id": 10002,
+    "value_1": 22,
+    "value_2": 11
+  },
+  "13702": {
+    "base": 13700,
+    "id": 13702,
+    "level": 3,
+    "next": 13703,
+    "prev": 13701,
+    "upgrade_id": 10003,
+    "value_1": 23,
+    "value_2": 12
+  },
+  "13703": {
+    "base": 13700,
+    "id": 13703,
+    "level": 4,
+    "next": 13704,
+    "prev": 13702,
+    "upgrade_id": 10004,
+    "value_1": 24,
+    "value_2": 13
+  },
+  "13704": {
+    "base": 13700,
+    "id": 13704,
+    "level": 5,
+    "next": 13705,
+    "prev": 13703,
+    "upgrade_id": 10005,
+    "value_1": 25,
+    "value_2": 14
+  },
+  "13705": {
+    "base": 13700,
+    "id": 13705,
+    "level": 6,
+    "next": 13706,
+    "prev": 13704,
+    "upgrade_id": 10006,
+    "value_1": 26,
+    "value_2": 15
+  },
+  "13706": {
+    "base": 13700,
+    "id": 13706,
+    "level": 7,
+    "next": 13707,
+    "prev": 13705,
+    "upgrade_id": 10007,
+    "value_1": 27,
+    "value_2": 16
+  },
+  "13707": {
+    "base": 13700,
+    "id": 13707,
+    "level": 8,
+    "next": 13708,
+    "prev": 13706,
+    "upgrade_id": 10008,
+    "value_1": 28,
+    "value_2": 17
+  },
+  "13708": {
+    "base": 13700,
+    "id": 13708,
+    "level": 9,
+    "next": 13709,
+    "prev": 13707,
+    "upgrade_id": 10009,
+    "value_1": 29,
+    "value_2": 18
+  },
+  "13709": {
+    "base": 13700,
+    "id": 13709,
+    "level": 10,
+    "next": 13710,
+    "prev": 13708,
+    "upgrade_id": 10010,
+    "value_1": 30,
+    "value_2": 19
+  },
+  "13710": {
+    "base": 13700,
+    "id": 13710,
+    "level": 11,
+    "next": 0,
+    "prev": 13709,
+    "skill_upgrade": [
+      [
+        111070,
+        111080
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 32,
+    "value_2": 20
+  },
+  "13720": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "Golden Darkness' Augment Module",
+    "effect_id": 111230,
+    "effect_id_display": 111230,
+    "icon": "13720",
+    "id": 13720,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Golden Slash",
+    "next": 13721,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        111110
+      ]
+    ],
+    "tech": 0,
+    "type": 6,
+    "uncraftable": 1,
+    "unique": 1110004,
+    "upgrade_id": 10001,
+    "usability": [
+      5
+    ],
+    "value_1": 20,
+    "value_1_random": 0,
+    "value_2": 6,
+    "value_2_random": 0
+  },
+  "13721": {
+    "base": 13720,
+    "id": 13721,
+    "level": 2,
+    "next": 13722,
+    "prev": 13720,
+    "upgrade_id": 10002,
+    "value_1": 21,
+    "value_2": 6
+  },
+  "13722": {
+    "base": 13720,
+    "id": 13722,
+    "level": 3,
+    "next": 13723,
+    "prev": 13721,
+    "upgrade_id": 10003,
+    "value_1": 22,
+    "value_2": 7
+  },
+  "13723": {
+    "base": 13720,
+    "id": 13723,
+    "level": 4,
+    "next": 13724,
+    "prev": 13722,
+    "upgrade_id": 10004,
+    "value_1": 23,
+    "value_2": 8
+  },
+  "13724": {
+    "base": 13720,
+    "id": 13724,
+    "level": 5,
+    "next": 13725,
+    "prev": 13723,
+    "upgrade_id": 10005,
+    "value_1": 24,
+    "value_2": 9
+  },
+  "13725": {
+    "base": 13720,
+    "id": 13725,
+    "level": 6,
+    "next": 13726,
+    "prev": 13724,
+    "upgrade_id": 10006,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "13726": {
+    "base": 13720,
+    "id": 13726,
+    "level": 7,
+    "next": 13727,
+    "prev": 13725,
+    "upgrade_id": 10007,
+    "value_1": 26,
+    "value_2": 11
+  },
+  "13727": {
+    "base": 13720,
+    "id": 13727,
+    "level": 8,
+    "next": 13728,
+    "prev": 13726,
+    "upgrade_id": 10008,
+    "value_1": 27,
+    "value_2": 12
+  },
+  "13728": {
+    "base": 13720,
+    "id": 13728,
+    "level": 9,
+    "next": 13729,
+    "prev": 13727,
+    "upgrade_id": 10009,
+    "value_1": 28,
+    "value_2": 13
+  },
+  "13729": {
+    "base": 13720,
+    "id": 13729,
+    "level": 10,
+    "next": 13730,
+    "prev": 13728,
+    "upgrade_id": 10010,
+    "value_1": 29,
+    "value_2": 14
+  },
+  "13730": {
+    "base": 13720,
+    "id": 13730,
+    "level": 11,
+    "next": 0,
+    "prev": 13729,
+    "skill_upgrade": [
+      [
+        111100,
+        111110
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 30,
+    "value_2": 15
+  },
+  "13740": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "Haruna Sairenji's Augment Module",
+    "effect_id": 111240,
+    "effect_id_display": 111240,
+    "icon": "13740",
+    "id": 13740,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Emergency Fire Extinguisher",
+    "next": 13741,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        111140
+      ]
+    ],
+    "tech": 0,
+    "type": 6,
+    "uncraftable": 1,
+    "unique": 1110005,
+    "upgrade_id": 10001,
+    "usability": [
+      4
+    ],
+    "value_1": 20,
+    "value_1_random": 0,
+    "value_2": 6,
+    "value_2_random": 0
+  },
+  "13741": {
+    "base": 13740,
+    "id": 13741,
+    "level": 2,
+    "next": 13742,
+    "prev": 13740,
+    "upgrade_id": 10002,
+    "value_1": 21,
+    "value_2": 6
+  },
+  "13742": {
+    "base": 13740,
+    "id": 13742,
+    "level": 3,
+    "next": 13743,
+    "prev": 13741,
+    "upgrade_id": 10003,
+    "value_1": 22,
+    "value_2": 7
+  },
+  "13743": {
+    "base": 13740,
+    "id": 13743,
+    "level": 4,
+    "next": 13744,
+    "prev": 13742,
+    "upgrade_id": 10004,
+    "value_1": 23,
+    "value_2": 8
+  },
+  "13744": {
+    "base": 13740,
+    "id": 13744,
+    "level": 5,
+    "next": 13745,
+    "prev": 13743,
+    "upgrade_id": 10005,
+    "value_1": 24,
+    "value_2": 9
+  },
+  "13745": {
+    "base": 13740,
+    "id": 13745,
+    "level": 6,
+    "next": 13746,
+    "prev": 13744,
+    "upgrade_id": 10006,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "13746": {
+    "base": 13740,
+    "id": 13746,
+    "level": 7,
+    "next": 13747,
+    "prev": 13745,
+    "upgrade_id": 10007,
+    "value_1": 26,
+    "value_2": 11
+  },
+  "13747": {
+    "base": 13740,
+    "id": 13747,
+    "level": 8,
+    "next": 13748,
+    "prev": 13746,
+    "upgrade_id": 10008,
+    "value_1": 27,
+    "value_2": 12
+  },
+  "13748": {
+    "base": 13740,
+    "id": 13748,
+    "level": 9,
+    "next": 13749,
+    "prev": 13747,
+    "upgrade_id": 10009,
+    "value_1": 28,
+    "value_2": 13
+  },
+  "13749": {
+    "base": 13740,
+    "id": 13749,
+    "level": 10,
+    "next": 13750,
+    "prev": 13748,
+    "upgrade_id": 10010,
+    "value_1": 29,
+    "value_2": 14
+  },
+  "13750": {
+    "base": 13740,
+    "id": 13750,
+    "level": 11,
+    "next": 0,
+    "prev": 13749,
+    "skill_upgrade": [
+      [
+        111130,
+        111140
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 30,
+    "value_2": 15
+  },
+  "13760": {
+    "attribute_1": "air",
+    "attribute_2": "hit",
+    "descrip": "Yui Kotegawa's Augment Module",
+    "effect_id": 111270,
+    "effect_id_display": 111270,
+    "icon": "13760",
+    "id": 13760,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Banner of Order",
+    "next": 13761,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        111170
+      ]
+    ],
+    "tech": 0,
+    "type": 7,
+    "uncraftable": 1,
+    "unique": 1110006,
+    "upgrade_id": 10001,
+    "usability": [
+      7
+    ],
+    "value_1": 14,
+    "value_1_random": 0,
+    "value_2": 6,
+    "value_2_random": 0
+  },
+  "13761": {
+    "base": 13760,
+    "id": 13761,
+    "level": 2,
+    "next": 13762,
+    "prev": 13760,
+    "upgrade_id": 10002,
+    "value_1": 16,
+    "value_2": 7
+  },
+  "13762": {
+    "base": 13760,
+    "id": 13762,
+    "level": 3,
+    "next": 13763,
+    "prev": 13761,
+    "upgrade_id": 10003,
+    "value_1": 18,
+    "value_2": 8
+  },
+  "13763": {
+    "base": 13760,
+    "id": 13763,
+    "level": 4,
+    "next": 13764,
+    "prev": 13762,
+    "upgrade_id": 10004,
+    "value_1": 20,
+    "value_2": 9
+  },
+  "13764": {
+    "base": 13760,
+    "id": 13764,
+    "level": 5,
+    "next": 13765,
+    "prev": 13763,
+    "upgrade_id": 10005,
+    "value_1": 22,
+    "value_2": 10
+  },
+  "13765": {
+    "base": 13760,
+    "id": 13765,
+    "level": 6,
+    "next": 13766,
+    "prev": 13764,
+    "upgrade_id": 10006,
+    "value_1": 24,
+    "value_2": 11
+  },
+  "13766": {
+    "base": 13760,
+    "id": 13766,
+    "level": 7,
+    "next": 13767,
+    "prev": 13765,
+    "upgrade_id": 10007,
+    "value_1": 26,
+    "value_2": 12
+  },
+  "13767": {
+    "base": 13760,
+    "id": 13767,
+    "level": 8,
+    "next": 13768,
+    "prev": 13766,
+    "upgrade_id": 10008,
+    "value_1": 28,
+    "value_2": 13
+  },
+  "13768": {
+    "base": 13760,
+    "id": 13768,
+    "level": 9,
+    "next": 13769,
+    "prev": 13767,
+    "upgrade_id": 10009,
+    "value_1": 30,
+    "value_2": 14
+  },
+  "13769": {
+    "base": 13760,
+    "id": 13769,
+    "level": 10,
+    "next": 13770,
+    "prev": 13768,
+    "upgrade_id": 10010,
+    "value_1": 32,
+    "value_2": 15
+  },
+  "13770": {
+    "base": 13760,
+    "id": 13770,
+    "level": 11,
+    "next": 0,
+    "prev": 13769,
+    "skill_upgrade": [
+      [
+        111160,
+        111170
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 35,
+    "value_2": 17
+  },
+  "13780": {
+    "attribute_1": "cannon",
+    "attribute_2": "dodge",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13780",
+    "id": 13780,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Ambrosial Violet Whispers",
+    "next": 13781,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1014070
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 50204,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "13781": {
+    "base": 13780,
+    "id": 13781,
+    "level": 2,
+    "next": 13782,
+    "prev": 13780,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 1
+  },
+  "13782": {
+    "base": 13780,
+    "id": 13782,
+    "level": 3,
+    "next": 13783,
+    "prev": 13781,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "13783": {
+    "base": 13780,
+    "id": 13783,
+    "level": 4,
+    "next": 13784,
+    "prev": 13782,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "13784": {
+    "base": 13780,
+    "id": 13784,
+    "level": 5,
+    "next": 13785,
+    "prev": 13783,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "13785": {
+    "base": 13780,
+    "id": 13785,
+    "level": 6,
+    "next": 13786,
+    "prev": 13784,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "13786": {
+    "base": 13780,
+    "id": 13786,
+    "level": 7,
+    "next": 13787,
+    "prev": 13785,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "13787": {
+    "base": 13780,
+    "id": 13787,
+    "level": 8,
+    "next": 13788,
+    "prev": 13786,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "13788": {
+    "base": 13780,
+    "id": 13788,
+    "level": 9,
+    "next": 13789,
+    "prev": 13787,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "13789": {
+    "base": 13780,
+    "id": 13789,
+    "level": 10,
+    "next": 13790,
+    "prev": 13788,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "13790": {
+    "base": 13780,
+    "id": 13790,
+    "level": 11,
+    "next": 0,
+    "prev": 13789,
+    "skill_upgrade": [
+      [
+        14070,
+        1014070
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "13800": {
+    "attribute_1": "cannon",
+    "attribute_2": "dodge",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "13800",
+    "id": 13800,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Plum-Red Silksteps",
+    "next": 13801,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1014090
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 50205,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "13801": {
+    "base": 13800,
+    "id": 13801,
+    "level": 2,
+    "next": 13802,
+    "prev": 13800,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 1
+  },
+  "13802": {
+    "base": 13800,
+    "id": 13802,
+    "level": 3,
+    "next": 13803,
+    "prev": 13801,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "13803": {
+    "base": 13800,
+    "id": 13803,
+    "level": 4,
+    "next": 13804,
+    "prev": 13802,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "13804": {
+    "base": 13800,
+    "id": 13804,
+    "level": 5,
+    "next": 13805,
+    "prev": 13803,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "13805": {
+    "base": 13800,
+    "id": 13805,
+    "level": 6,
+    "next": 13806,
+    "prev": 13804,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "13806": {
+    "base": 13800,
+    "id": 13806,
+    "level": 7,
+    "next": 13807,
+    "prev": 13805,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "13807": {
+    "base": 13800,
+    "id": 13807,
+    "level": 8,
+    "next": 13808,
+    "prev": 13806,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "13808": {
+    "base": 13800,
+    "id": 13808,
+    "level": 9,
+    "next": 13809,
+    "prev": 13807,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "13809": {
+    "base": 13800,
+    "id": 13809,
+    "level": 10,
+    "next": 13810,
+    "prev": 13808,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "13810": {
+    "base": 13800,
+    "id": 13810,
+    "level": 11,
+    "next": 0,
+    "prev": 13809,
+    "skill_upgrade": [
+      [
+        14090,
+        1014090
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
     "value_2": 10
   },
   "1010100": {
@@ -22734,6 +24834,83 @@
     13388,
     13389,
     13390,
+    13400,
+    13401,
+    13402,
+    13403,
+    13404,
+    13405,
+    13406,
+    13407,
+    13408,
+    13409,
+    13410,
+    13420,
+    13421,
+    13422,
+    13423,
+    13424,
+    13425,
+    13426,
+    13427,
+    13428,
+    13429,
+    13430,
+    13440,
+    13441,
+    13442,
+    13443,
+    13444,
+    13445,
+    13446,
+    13447,
+    13448,
+    13449,
+    13450,
+    13460,
+    13461,
+    13462,
+    13463,
+    13464,
+    13465,
+    13466,
+    13467,
+    13468,
+    13469,
+    13470,
+    13480,
+    13481,
+    13482,
+    13483,
+    13484,
+    13485,
+    13486,
+    13487,
+    13488,
+    13489,
+    13490,
+    13500,
+    13501,
+    13502,
+    13503,
+    13504,
+    13505,
+    13506,
+    13507,
+    13508,
+    13509,
+    13510,
+    13520,
+    13521,
+    13522,
+    13523,
+    13524,
+    13525,
+    13526,
+    13527,
+    13528,
+    13529,
+    13530,
     13560,
     13561,
     13562,
@@ -22788,7 +24965,95 @@
     13647,
     13648,
     13649,
-    13650
+    13650,
+    13660,
+    13661,
+    13662,
+    13663,
+    13664,
+    13665,
+    13666,
+    13667,
+    13668,
+    13669,
+    13670,
+    13680,
+    13681,
+    13682,
+    13683,
+    13684,
+    13685,
+    13686,
+    13687,
+    13688,
+    13689,
+    13690,
+    13700,
+    13701,
+    13702,
+    13703,
+    13704,
+    13705,
+    13706,
+    13707,
+    13708,
+    13709,
+    13710,
+    13720,
+    13721,
+    13722,
+    13723,
+    13724,
+    13725,
+    13726,
+    13727,
+    13728,
+    13729,
+    13730,
+    13740,
+    13741,
+    13742,
+    13743,
+    13744,
+    13745,
+    13746,
+    13747,
+    13748,
+    13749,
+    13750,
+    13760,
+    13761,
+    13762,
+    13763,
+    13764,
+    13765,
+    13766,
+    13767,
+    13768,
+    13769,
+    13770,
+    13780,
+    13781,
+    13782,
+    13783,
+    13784,
+    13785,
+    13786,
+    13787,
+    13788,
+    13789,
+    13790,
+    13800,
+    13801,
+    13802,
+    13803,
+    13804,
+    13805,
+    13806,
+    13807,
+    13808,
+    13809,
+    13810
   ],
   "get_id_list_by_unique": {
     "0": [
@@ -23255,6 +25520,19 @@
       13229,
       13230
     ],
+    "10602": [
+      13500,
+      13501,
+      13502,
+      13503,
+      13504,
+      13505,
+      13506,
+      13507,
+      13508,
+      13509,
+      13510
+    ],
     "10703": [
       11080,
       11081,
@@ -23541,6 +25819,19 @@
       10129,
       10130
     ],
+    "29901": [
+      13400,
+      13401,
+      13402,
+      13403,
+      13404,
+      13405,
+      13406,
+      13407,
+      13408,
+      13409,
+      13410
+    ],
     "30105": [
       10180,
       10181,
@@ -23553,6 +25844,19 @@
       10188,
       10189,
       10190
+    ],
+    "30113": [
+      13420,
+      13421,
+      13422,
+      13423,
+      13424,
+      13425,
+      13426,
+      13427,
+      13428,
+      13429,
+      13430
     ],
     "30117": [
       10700,
@@ -23605,6 +25909,19 @@
       11028,
       11029,
       11030
+    ],
+    "30201": [
+      13440,
+      13441,
+      13442,
+      13443,
+      13444,
+      13445,
+      13446,
+      13447,
+      13448,
+      13449,
+      13450
     ],
     "30204": [
       10500,
@@ -23683,6 +26000,19 @@
       12428,
       12429,
       12430
+    ],
+    "30603": [
+      13520,
+      13521,
+      13522,
+      13523,
+      13524,
+      13525,
+      13526,
+      13527,
+      13528,
+      13529,
+      13530
     ],
     "30707": [
       10340,
@@ -23957,6 +26287,19 @@
       13249,
       13250
     ],
+    "49901": [
+      13460,
+      13461,
+      13462,
+      13463,
+      13464,
+      13465,
+      13466,
+      13467,
+      13468,
+      13469,
+      13470
+    ],
     "50202": [
       12860,
       12861,
@@ -23982,6 +26325,32 @@
       12888,
       12889,
       12890
+    ],
+    "50204": [
+      13780,
+      13781,
+      13782,
+      13783,
+      13784,
+      13785,
+      13786,
+      13787,
+      13788,
+      13789,
+      13790
+    ],
+    "50205": [
+      13800,
+      13801,
+      13802,
+      13803,
+      13804,
+      13805,
+      13806,
+      13807,
+      13808,
+      13809,
+      13810
     ],
     "60102": [
       10160,
@@ -24138,6 +26507,19 @@
       12288,
       12289,
       12290
+    ],
+    "89901": [
+      13480,
+      13481,
+      13482,
+      13483,
+      13484,
+      13485,
+      13486,
+      13487,
+      13488,
+      13489,
+      13490
     ],
     "90101": [
       12960,
@@ -24736,6 +27118,84 @@
       12708,
       12709,
       12710
+    ],
+    "1110001": [
+      13660,
+      13661,
+      13662,
+      13663,
+      13664,
+      13665,
+      13666,
+      13667,
+      13668,
+      13669,
+      13670
+    ],
+    "1110002": [
+      13680,
+      13681,
+      13682,
+      13683,
+      13684,
+      13685,
+      13686,
+      13687,
+      13688,
+      13689,
+      13690
+    ],
+    "1110003": [
+      13700,
+      13701,
+      13702,
+      13703,
+      13704,
+      13705,
+      13706,
+      13707,
+      13708,
+      13709,
+      13710
+    ],
+    "1110004": [
+      13720,
+      13721,
+      13722,
+      13723,
+      13724,
+      13725,
+      13726,
+      13727,
+      13728,
+      13729,
+      13730
+    ],
+    "1110005": [
+      13740,
+      13741,
+      13742,
+      13743,
+      13744,
+      13745,
+      13746,
+      13747,
+      13748,
+      13749,
+      13750
+    ],
+    "1110006": [
+      13760,
+      13761,
+      13762,
+      13763,
+      13764,
+      13765,
+      13766,
+      13767,
+      13768,
+      13769,
+      13770
     ]
   }
 }
